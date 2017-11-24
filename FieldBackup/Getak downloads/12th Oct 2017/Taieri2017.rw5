@@ -1,0 +1,576 @@
+JB,NMTaieri2017,DT10-06-2017,TM01:17:28
+MO,AD0,UN1,SF1.00000000,EC0,EO0.0,AU0
+--SurvCE Version 2.54.4
+--CRD: Alphanumeric
+--User Defined: NEW ZEALAND/NZGD1949/North Taieri 1949
+--Instrument
+--Localization File: None
+--Geoid Separation File: None
+--GPS Scale: 1.00000000
+--Scale Point not used
+--ANDREW2:
+SP,PN1,N 4896743.7090,E 1382509.9620,EL102.0140,--LT25
+SP,PN2,N 4894311.8620,E 1383274.4860,EL2.8917,--BGR5
+SP,PN3,N 4894311.8620,E 1383274.4860,EL3.6100,--BOBL Henley
+--DT10-06-2017
+--TM05:04:06
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:400314
+--Localization File: None
+--Geoid Separation File: None
+--GPS Scale: 1.00000000
+--Scale Point not used
+--Base Configuration by Reading GPS Position
+--DT10-06-2017
+--TM05:04:08
+--Base Rod Hgt: 2.018
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+BP,PNBP0000001,LA-46.041327536766,LN170.115112311996,EL10.3138,AG1.957,PA0.061,--
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--RTK Method: CMR, Device: Data Collector Internet
+--Entered HR: 2.0000, Slant
+LS,HR2.0180
+GPS,PN4,LA-46.041342743951,LN170.115100506549,EL10.844876,--BGR5-OBS
+--GS,PN4,N 4894312.1642,E 1383274.5401,EL8.8269,--BGR5-OBS
+--GT,PN4,SW1969,ST446959009,EW1969,ET447028009
+--60 Valid Readings out of 60 Readings
+--60 Fixed Readings out of 60
+--Nor Min: 4894312.1506  Max: 4894312.1827
+--Eas Min: 1383274.5268  Max: 1383274.5570
+--Elv Min: 8.8121  Max: 8.8424
+--Nor Avg: 4894312.1642  SD: 0.0068
+--Eas Avg: 1383274.5401  SD: 0.0062
+--Elv Avg: 8.8269  SD: 0.0052
+--HRMS Avg: 0.0063 SD: 0.0010 Min: 0.0052 Max: 0.0099
+--VRMS Avg: 0.0078 SD: 0.0007 Min: 0.0070 Max: 0.0103
+--HDOP Avg: 0.7337  Min: 0.7337 Max: 0.7337
+--VDOP Avg: 1.1445 Min: 1.1430 Max: 1.1456
+--PDOP Avg: 1.3594 Min: 1.3582 Max: 1.3604
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--DT10-06-2017
+--TM05:11:31
+--Localization File: \Program Files\SurvCE\Taieri2017-BGR5.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Localization Azimuth: State Plane Grid
+GPS,PN5,LA-46.025384854294,LN170.111947343383,EL9.811084,--LT25-OBS
+--GS,PN5,N 4896743.9095,E 1382510.3234,EL1.8579,--LT25-OBS
+--GT,PN4,SW1969,ST448168008,EW1969,ET448232008
+--60 Valid Readings out of 60 Readings
+--60 Fixed Readings out of 60
+--Nor Min: 4896743.8818  Max: 4896743.9394
+--Eas Min: 1382510.2863  Max: 1382510.3470
+--Elv Min: 1.8279  Max: 1.8876
+--Nor Avg: 4896743.9095  SD: 0.0128
+--Eas Avg: 1382510.3234  SD: 0.0161
+--Elv Avg: 1.8579  SD: 0.0076
+--HRMS Avg: 0.0134 SD: 0.0004 Min: 0.0130 Max: 0.0158
+--VRMS Avg: 0.0224 SD: 0.0005 Min: 0.0218 Max: 0.0241
+--HDOP Avg: 0.8314  Min: 0.8214 Max: 0.8507
+--VDOP Avg: 1.2328 Min: 1.1783 Max: 1.3418
+--PDOP Avg: 1.4873 Min: 1.4368 Max: 1.5886
+--Number of Satellites Avg: 13 Min: 12 Max: 14
+--DT10-06-2017
+--TM05:31:51
+GPS,PN6,LA-46.025319911287,LN170.111945775682,EL9.665835,--CHK-25
+--GS,PN6,N 4896763.9403,E 1382509.2780,EL1.7127,--CHK-25
+--GT,PN6,SW1969,ST448436008,EW1969,ET448440008
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4896763.9340  Max: 4896763.9493
+--Eas Min: 1382509.2700  Max: 1382509.2871
+--Elv Min: 1.7090  Max: 1.7162
+--Nor Avg: 4896763.9403  SD: 0.0056
+--Eas Avg: 1382509.2780  SD: 0.0072
+--Elv Avg: 1.7127  SD: 0.0035
+--HRMS Avg: 0.0124 SD: 0.0004 Min: 0.0121 Max: 0.0130
+--VRMS Avg: 0.0202 SD: 0.0002 Min: 0.0201 Max: 0.0205
+--HDOP Avg: 0.8249  Min: 0.8249 Max: 0.8249
+--VDOP Avg: 1.1751 Min: 1.1750 Max: 1.1751
+--PDOP Avg: 1.4357 Min: 1.4357 Max: 1.4357
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.012, VSIG:0.020, STATUS:FIXED, SATS:14, PDOP:1.436, HDOP:0.825, VDOP:1.175
+--DT10-06-2017
+--TM05:34:31
+--DT10-06-2017
+--TM20:16:43
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: \Program Files\SurvCE\Taieri2017-BGR5.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+SP,PN7,N 786312.0020,E 390277.1320,EL2.3622,--AEYF HENLEY
+SP,PN1,N 4896743.7090,E 1382509.9620,EL101.7060,--LT25
+SP,PN8,N 4902764.1280,E 1379523.1500,EL100.9350,--LT11
+SP,PN9,N 4900154.5500,E 1381223.6920,EL100.5200,--LT14
+SP,PN10,N 4899962.5740,E 1381645.0500,EL102.0620,--LT15
+SP,PN11,N 0.0000,E 1387304.2380,EL0.0000,--XS16
+SP,PN12,N 4915368.6660,E 1387304.2380,EL106.6430,--XS16
+SP,PN11,N 4915506.5750,E 1387044.8240,EL103.3330,--XS17
+SP,PN13,N 4915135.9010,E 1387533.8600,EL108.3200,--XS15
+SP,PN14,N 4915277.0080,E 1388731.7700,EL8.5800,--EVXM-OA
+--DT10-07-2017
+--TM01:06:37
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:400314
+--Localization File: \Program Files\SurvCE\Taieri2017-BGR5.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+--Base Configuration by Reading GPS Position
+--DT10-07-2017
+--TM01:06:40
+--Base Rod Hgt: 2.018
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+BP,PNBP0000001,LA-45.530139808123,LN170.163738100329,EL14.0679,AG1.957,PA0.061,--
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--RTK Method: CMR, Device: Data Collector Internet
+--Entered HR: 2.0000, Slant
+LS,HR2.0180
+GPS,PN15,LA-45.530107348492,LN170.163805960819,EL15.026596,--EVXM-OBS
+--GS,PN15,N 4915276.1632,E 1388731.0627,EL7.0734,--EVXM-OBS
+--GT,PN15,SW1969,ST518977008,EW1969,ET519038007
+--60 Valid Readings out of 60 Readings
+--60 Fixed Readings out of 60
+--Nor Min: 4915276.1500  Max: 4915276.1799
+--Eas Min: 1388731.0426  Max: 1388731.0813
+--Elv Min: 7.0497  Max: 7.0869
+--Nor Avg: 4915276.1632  SD: 0.0074
+--Eas Avg: 1388731.0627  SD: 0.0110
+--Elv Avg: 7.0734  SD: 0.0076
+--HRMS Avg: 0.0083 SD: 0.0004 Min: 0.0080 Max: 0.0098
+--VRMS Avg: 0.0122 SD: 0.0002 Min: 0.0120 Max: 0.0131
+--HDOP Avg: 0.9760  Min: 0.9747 Max: 0.9774
+--VDOP Avg: 1.5817 Min: 1.5778 Max: 1.5851
+--PDOP Avg: 1.8586 Min: 1.8560 Max: 1.8608
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--DT10-07-2017
+--TM01:11:01
+--Localization File: \Program Files\SurvCE\Taieri2017EVYA.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+GPS,PN15,LA-45.530431112720,LN170.154231441752,EL14.840936,--XS15-OBS
+--GS,PN15,N 4915135.9512,E 1387533.7086,EL8.3944,--XS15-OBS
+--GT,PN15,SW1969,ST520921009,EW1969,ET520981010
+--60 Valid Readings out of 60 Readings
+--60 Fixed Readings out of 60
+--Nor Min: 4915135.9275  Max: 4915135.9643
+--Eas Min: 1387533.6701  Max: 1387533.7298
+--Elv Min: 8.3794  Max: 8.4110
+--Nor Avg: 4915135.9512  SD: 0.0088
+--Eas Avg: 1387533.7086  SD: 0.0174
+--Elv Avg: 8.3944  SD: 0.0071
+--HRMS Avg: 0.0109 SD: 0.0005 Min: 0.0103 Max: 0.0126
+--VRMS Avg: 0.0195 SD: 0.0015 Min: 0.0179 Max: 0.0228
+--HDOP Avg: 0.7665  Min: 0.7114 Max: 0.7775
+--VDOP Avg: 1.1440 Min: 1.1161 Max: 1.1569
+--PDOP Avg: 1.3771 Min: 1.3236 Max: 1.3939
+--Number of Satellites Avg: 13 Min: 13 Max: 14
+--DT10-07-2017
+--TM01:43:14
+--DT10-07-2017
+--TM03:05:22
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:912235
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: \Program Files\SurvCE\Taieri2017EVYA.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+SP,PN16,N 5007238.2390,E 1476365.9130,EL2.3622,--AEYF HENLEY
+SP,PN17,N 4903747.2000,E 1379802.4700,EL2.3622,--AEYF HENLEY
+--DT10-08-2017
+--TM09:50:02
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: \Program Files\SurvCE\Taieri2017-BR5.loc
+--Number of Localization Points Used: 0
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--GPS Scale: 1.00000000
+--Scale Point not used
+SP,PN18,N 4906679.0230,E 1383526.3240,EL173.5600,--B17N
+SP,PN19,N 4902820.8830,E 1379262.2530,EL4.7150,--AEYH-HENLEY RIVER
+SP,PN20,N 4919130.6230,E 1384425.2220,EL171.2910,--A4H6-OTRAM HILL
+SP,PN21,N 4918607.8390,E 1385423.2370,EL10.2200,--C24X-OUTRAM-FLAT
+--DT10-08-2017
+--TM11:20:06
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:400314
+--Localization File: \Program Files\SurvCE\Taieri2017-BR5.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+--Base Configuration by Reading GPS Position
+--DT10-08-2017
+--TM11:20:08
+--Base Rod Hgt: 2.018
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+BP,PNBP0000001,LA-45.573340656111,LN170.122295035458,EL181.8330,AG1.957,PA0.061,--
+--DT10-08-2017
+--TM11:27:43
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: \Program Files\SurvCE\Taieri2017-BR5.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+--RTK Method: CMR, Device: Data Collector Internet
+--Entered HR: 0.0000, Slant
+LS,HR0.0000
+GPS,PN22,LA-45.573350313499,LN170.122286978906,EL180.684076,--B17N-OBS
+--GS,PN22,N 4906678.3519,E 1383525.6158,EL174.7489,--B17N-OBS
+--GT,PN22,SW1969,ST597794007,EW1969,ET597863007
+--60 Valid Readings out of 60 Readings
+--60 Fixed Readings out of 60
+--Nor Min: 4906678.3465  Max: 4906678.3561
+--Eas Min: 1383525.6115  Max: 1383525.6217
+--Elv Min: 174.7292  Max: 174.7676
+--Nor Avg: 4906678.3519  SD: 0.0022
+--Eas Avg: 1383525.6158  SD: 0.0019
+--Elv Avg: 174.7489  SD: 0.0084
+--HRMS Avg: 0.0095 SD: 0.0015 Min: 0.0081 Max: 0.0147
+--VRMS Avg: 0.0186 SD: 0.0010 Min: 0.0173 Max: 0.0216
+--HDOP Avg: 0.9564  Min: 0.9241 Max: 1.0204
+--VDOP Avg: 1.4416 Min: 1.4118 Max: 1.4962
+--PDOP Avg: 1.7301 Min: 1.6878 Max: 1.8110
+--Number of Satellites Avg: 11 Min: 11 Max: 12
+--DT10-08-2017
+--TM11:28:04
+--DT10-08-2017
+--TM11:59:58
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:912235
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: \Program Files\SurvCE\Taieri2017-BR5.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+--RTK Method: CMR, Device: Data Collector Internet
+--Entered HR: 2.0000, Slant
+LS,HR2.0180
+GPS,PN23,LA-45.590411855064,LN170.092521527231,EL11.622846,--AEYF-OBS-HENLEY ROAD
+--GS,PN23,N 4903746.4970,E 1379801.6522,EL3.6697,--AEYF-OBS-HENLEY ROAD
+--GT,PN23,SW1969,ST599801007,EW1969,ET599869007
+--60 Valid Readings out of 60 Readings
+--60 Fixed Readings out of 60
+--Nor Min: 4903746.4752  Max: 4903746.5232
+--Eas Min: 1379801.6389  Max: 1379801.6642
+--Elv Min: 3.6443  Max: 3.6899
+--Nor Avg: 4903746.4970  SD: 0.0130
+--Eas Avg: 1379801.6522  SD: 0.0062
+--Elv Avg: 3.6697  SD: 0.0106
+--HRMS Avg: 0.0104 SD: 0.0005 Min: 0.0099 Max: 0.0113
+--VRMS Avg: 0.0168 SD: 0.0003 Min: 0.0164 Max: 0.0177
+--HDOP Avg: 0.9684  Min: 0.9679 Max: 0.9690
+--VDOP Avg: 1.4990 Min: 1.4979 Max: 1.5004
+--PDOP Avg: 1.7846 Min: 1.7834 Max: 1.7861
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--DT10-08-2017
+--TM12:00:10
+--Localization File: \Program Files\SurvCE\Taieri2017-AEYFHENLY-ROAD.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+GPS,PN24,LA-46.010202890642,LN170.102527270672,EL9.640764,--LT14-OBS
+--GS,PN24,N 4900154.2899,E 1381223.7826,EL0.3801,--LT14-OBS
+--GT,PN23,SW1969,ST602173009,EW1969,ET602177009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4900154.2779  Max: 4900154.2945
+--Eas Min: 1381223.7721  Max: 1381223.7881
+--Elv Min: 0.3793  Max: 0.3808
+--Nor Avg: 4900154.2899  SD: 0.0070
+--Eas Avg: 1381223.7826  SD: 0.0062
+--Elv Avg: 0.3801  SD: 0.0006
+--HRMS Avg: 0.0122 SD: 0.0000 Min: 0.0122 Max: 0.0122
+--VRMS Avg: 0.0156 SD: 0.0000 Min: 0.0156 Max: 0.0156
+--HDOP Avg: 0.7844  Min: 0.7843 Max: 0.7844
+--VDOP Avg: 1.1234 Min: 1.1232 Max: 1.1235
+--PDOP Avg: 1.3701 Min: 1.3700 Max: 1.3702
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.012, VSIG:0.016, STATUS:FIXED, SATS:14, PDOP:1.370, HDOP:0.784, VDOP:1.123
+--DT10-08-2017
+--TM12:38:46
+GPS,PN25,LA-45.593560777235,LN170.091062209193,EL10.123782,--LT11-OBS
+--GS,PN25,N 4902764.1692,E 1379523.2697,EL0.8632,--LT11-OBS
+--GT,PN25,SW1969,ST602931008,EW1969,ET602935008
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4902764.1549  Max: 4902764.1777
+--Eas Min: 1379523.2673  Max: 1379523.2728
+--Elv Min: 0.8600  Max: 0.8651
+--Nor Avg: 4902764.1692  SD: 0.0089
+--Eas Avg: 1379523.2697  SD: 0.0022
+--Elv Avg: 0.8632  SD: 0.0020
+--HRMS Avg: 0.0118 SD: 0.0003 Min: 0.0113 Max: 0.0122
+--VRMS Avg: 0.0149 SD: 0.0002 Min: 0.0146 Max: 0.0151
+--HDOP Avg: 0.8306  Min: 0.8306 Max: 0.8308
+--VDOP Avg: 1.1906 Min: 1.1905 Max: 1.1907
+--PDOP Avg: 1.4517 Min: 1.4516 Max: 1.4519
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--HSIG:0.012, VSIG:0.015, STATUS:FIXED, SATS:13, PDOP:1.452, HDOP:0.831, VDOP:1.191
+--DT10-08-2017
+--TM12:51:13
+--DT10-08-2017
+--TM13:27:37
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: \Program Files\SurvCE\Taieri2017-AEYFHENLY-ROAD.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+--RTK Method: CMR, Device: Data Collector Internet
+--Entered HR: 2.0000, Slant
+LS,HR2.0180
+GPS,PN26,LA-46.025322174588,LN170.111942059529,EL10.419251,--LT25-RADIO-CHK
+--GS,PN26,N 4896763.9166,E 1382509.3218,EL1.1586,--LT25-RADIO-CHK
+--GT,PN26,SW1970,ST331009,EW1970,ET335009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4896763.9129  Max: 4896763.9215
+--Eas Min: 1382509.3175  Max: 1382509.3300
+--Elv Min: 1.1527  Max: 1.1670
+--Nor Avg: 4896763.9166  SD: 0.0032
+--Eas Avg: 1382509.3218  SD: 0.0049
+--Elv Avg: 1.1586  SD: 0.0056
+--HRMS Avg: 0.0136 SD: 0.0005 Min: 0.0130 Max: 0.0143
+--VRMS Avg: 0.0213 SD: 0.0003 Min: 0.0210 Max: 0.0217
+--HDOP Avg: 0.7399  Min: 0.7232 Max: 0.7901
+--VDOP Avg: 1.1778 Min: 1.1348 Max: 1.3068
+--PDOP Avg: 1.3910 Min: 1.3457 Max: 1.5271
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--HSIG:0.014, VSIG:0.022, STATUS:FIXED, SATS:13, PDOP:1.527, HDOP:0.790, VDOP:1.307
+--DT10-08-2017
+--TM13:27:59
+--DT10-08-2017
+--TM14:09:19
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:912235
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: \Program Files\SurvCE\Taieri2017-AEYFHENLY-ROAD.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+--RTK Method: CMR, Device: Data Collector Internet
+--Entered HR: 2.0000, Slant
+LS,HR2.0180
+GPS,PN27,LA-46.030428140582,LN170.112704403466,EL10.290149,--TIDE
+--GS,PN27,N 4896428.3831,E 1382685.2027,EL1.0295,--TIDE
+--GT,PN27,SW1970,ST2819010,EW1970,ET2823010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4896428.3751  Max: 4896428.3897
+--Eas Min: 1382685.1998  Max: 1382685.2057
+--Elv Min: 1.0277  Max: 1.0333
+--Nor Avg: 4896428.3831  SD: 0.0053
+--Eas Avg: 1382685.2027  SD: 0.0024
+--Elv Avg: 1.0295  SD: 0.0022
+--HRMS Avg: 0.0164 SD: 0.0005 Min: 0.0157 Max: 0.0171
+--VRMS Avg: 0.0253 SD: 0.0003 Min: 0.0249 Max: 0.0257
+--HDOP Avg: 0.6673  Min: 0.6673 Max: 0.6673
+--VDOP Avg: 1.1741 Min: 1.1741 Max: 1.1741
+--PDOP Avg: 1.3505 Min: 1.3505 Max: 1.3505
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--HSIG:0.017, VSIG:0.026, STATUS:FIXED, SATS:16, PDOP:1.350, HDOP:0.667, VDOP:1.174
+--DT10-08-2017
+--TM14:09:29
+--DT10-08-2017
+--TM15:03:15
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:912235
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: \Program Files\SurvCE\Taieri2017-AEYFHENLY-ROAD.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+--RTK Method: CMR, Device: Data Collector Internet
+--Entered HR: 2.0000, Slant
+LS,HR2.0180
+GPS,PN28,LA-45.530106900290,LN170.163805662608,EL18.145870,--STK14 EVXM-OA CUT 0.31
+--GS,PN28,N 4915277.0023,E 1388731.8115,EL8.8853,--STK14 EVXM-OA CUT 0.31
+--GT,PN28,SW-522,ST-259200000,EW-522,ET-259200000
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4915276.9933  Max: 4915277.0092
+--Eas Min: 1388731.7988  Max: 1388731.8284
+--Elv Min: 8.8692  Max: 8.8997
+--Nor Avg: 4915277.0023  SD: 0.0059
+--Eas Avg: 1388731.8115  SD: 0.0108
+--Elv Avg: 8.8853  SD: 0.0114
+--HRMS Avg: 0.0151 SD: 0.0004 Min: 0.0148 Max: 0.0157
+--VRMS Avg: 0.0226 SD: 0.0002 Min: 0.0224 Max: 0.0229
+--HDOP Avg: 0.8267  Min: 0.8267 Max: 0.8268
+--VDOP Avg: 1.2705 Min: 1.2702 Max: 1.2707
+--PDOP Avg: 1.5158 Min: 1.5156 Max: 1.5160
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS1:Taieri2017.crd
+--CTSD0:Design Pt#,Design Elv,Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,
+--CTSD1:Stake Eas,Delta X,Delta Y
+--CTSD0:14,8.58,8.89,0.31,,STK14 EVXM-OA CUT 0.31,28,4915277.00,1388731.81,
+--CTSD1:0.04,0.01
+--HSIG:0.015, VSIG:0.022, STATUS:FIXED, SATS:13, PDOP:1.516, HDOP:0.827, VDOP:1.270
+--DT10-08-2017
+--TM15:03:36
+GPS,PN29,LA-45.530430794255,LN170.154231381632,EL18.006708,--XS15-OBS-HILLBASE
+--GS,PN29,N 4915135.9072,E 1387533.8027,EL8.7461,--XS15-OBS-HILLBASE
+--GT,PN29,SW-522,ST-259200000,EW-522,ET-259200000
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4915135.9020  Max: 4915135.9135
+--Eas Min: 1387533.7947  Max: 1387533.8103
+--Elv Min: 8.7425  Max: 8.7512
+--Nor Avg: 4915135.9072  SD: 0.0041
+--Eas Avg: 1387533.8027  SD: 0.0063
+--Elv Avg: 8.7461  SD: 0.0036
+--HRMS Avg: 0.0203 SD: 0.0003 Min: 0.0199 Max: 0.0208
+--VRMS Avg: 0.0359 SD: 0.0007 Min: 0.0352 Max: 0.0369
+--HDOP Avg: 0.6814  Min: 0.6814 Max: 0.6814
+--VDOP Avg: 1.1662 Min: 1.1660 Max: 1.1662
+--PDOP Avg: 1.3507 Min: 1.3505 Max: 1.3507
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--HSIG:0.020, VSIG:0.035, STATUS:FIXED, SATS:15, PDOP:1.351, HDOP:0.681, VDOP:1.166
+--DT10-08-2017
+--TM15:08:22
+GPS,PN30,LA-45.530430554665,LN170.154231046964,EL17.984791,--XS15-OBS-HILLBASE
+--GS,PN30,N 4915135.9787,E 1387533.7281,EL8.7242,--XS15-OBS-HILLBASE
+--GT,PN30,SW-522,ST-259200000,EW-522,ET-259200000
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4915135.9573  Max: 4915135.9877
+--Eas Min: 1387533.7203  Max: 1387533.7361
+--Elv Min: 8.7154  Max: 8.7283
+--Nor Avg: 4915135.9787  SD: 0.0125
+--Eas Avg: 1387533.7281  SD: 0.0060
+--Elv Avg: 8.7242  SD: 0.0053
+--HRMS Avg: 0.0157 SD: 0.0002 Min: 0.0156 Max: 0.0160
+--VRMS Avg: 0.0302 SD: 0.0003 Min: 0.0298 Max: 0.0305
+--HDOP Avg: 0.6761  Min: 0.6604 Max: 0.6813
+--VDOP Avg: 1.1741 Min: 1.1677 Max: 1.1762
+--PDOP Avg: 1.3548 Min: 1.3415 Max: 1.3593
+--Number of Satellites Avg: 15 Min: 15 Max: 16
+--HSIG:0.016, VSIG:0.031, STATUS:FIXED, SATS:15, PDOP:1.359, HDOP:0.681, VDOP:1.176
+--DT10-08-2017
+--TM15:09:05
+SP,PN31,N 4918607.8390,E 1385423.2700,EL10.2200,--C24X
+GPS,PN32,LA-45.510958700236,LN170.141008364887,EL20.115146,--C24X-OBS
+--GS,PN32,N 4918607.7618,E 1385423.2963,EL10.8545,--C24X-OBS
+--GT,PN32,SW1970,ST9899009,EW1970,ET9903009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918607.7393  Max: 4918607.7753
+--Eas Min: 1385423.2855  Max: 1385423.3107
+--Elv Min: 10.8485  Max: 10.8597
+--Nor Avg: 4918607.7618  SD: 0.0135
+--Eas Avg: 1385423.2963  SD: 0.0091
+--Elv Avg: 10.8545  SD: 0.0040
+--HRMS Avg: 0.0176 SD: 0.0000 Min: 0.0175 Max: 0.0176
+--VRMS Avg: 0.0237 SD: 0.0001 Min: 0.0236 Max: 0.0237
+--HDOP Avg: 0.8487  Min: 0.8487 Max: 0.8487
+--VDOP Avg: 1.3072 Min: 1.3072 Max: 1.3072
+--PDOP Avg: 1.5585 Min: 1.5585 Max: 1.5585
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.018, VSIG:0.024, STATUS:FIXED, SATS:14, PDOP:1.559, HDOP:0.849, VDOP:1.307
+--DT10-08-2017
+--TM16:07:07
+--DT10-08-2017
+--TM16:43:47
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:912235
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: \Program Files\SurvCE\Taieri2017-AEYFHENLY-ROAD.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+--RTK Method: CMR, Device: Data Collector Internet
+--Entered HR: 2.0000, Slant
+LS,HR2.0180
+GPS,PN33,LA-45.573339202061,LN170.122291747985,EL182.410785,--STEV
+--GS,PN33,N 4906682.5201,E 1383527.3398,EL173.1502,--STEV
+--GT,PN33,SW1970,ST12036011,EW1970,ET12103010
+--60 Valid Readings out of 60 Readings
+--60 Fixed Readings out of 60
+--Nor Min: 4906682.5101  Max: 4906682.5314
+--Eas Min: 1383527.3234  Max: 1383527.3529
+--Elv Min: 173.1399  Max: 173.1596
+--Nor Avg: 4906682.5201  SD: 0.0048
+--Eas Avg: 1383527.3398  SD: 0.0050
+--Elv Avg: 173.1502  SD: 0.0043
+--HRMS Avg: 0.0071 SD: 0.0003 Min: 0.0069 Max: 0.0078
+--VRMS Avg: 0.0081 SD: 0.0002 Min: 0.0079 Max: 0.0086
+--HDOP Avg: 0.6978  Min: 0.6928 Max: 0.7487
+--VDOP Avg: 1.0802 Min: 1.0768 Max: 1.0994
+--PDOP Avg: 1.2860 Min: 1.2808 Max: 1.3302
+--Number of Satellites Avg: 15 Min: 15 Max: 16
+--DT10-08-2017
+--TM16:43:52
+--DT10-09-2017
+--TM06:33:58
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:400314
+--Localization File: \Program Files\SurvCE\Taieri2017-AEYFHENLY-ROAD.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+--Base Configuration by Entering State Plane Coordinates
+--DT10-09-2017
+--TM06:34:00
+--SP North: 4906682.520072, SP East: 1383527.339807, Elv: 173.15016
+--Base Rod Hgt: 2.018
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+BP,PNBP0000001,LA-45.573337992257,LN170.122295356781,EL175.1681,AG1.957,PA0.061,--
+--DT10-10-2017
+--TM07:07:14
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:400314
+--Localization File: \Program Files\SurvCE\Taieri2017-AEYFHENLY-ROAD.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+--Base Configuration by Entering State Plane Coordinates
+--DT10-10-2017
+--TM07:07:16
+--SP North: 4915135.901000, SP East: 1387533.860000, Elv: 108.32000
+--Base Rod Hgt: 2.018
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+BP,PNBP0000001,LA-45.530429609033,LN170.154235248819,EL110.3380,AG1.957,PA0.061,--

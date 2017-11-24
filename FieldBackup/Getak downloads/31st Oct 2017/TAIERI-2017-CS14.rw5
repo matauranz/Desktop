@@ -1,0 +1,4138 @@
+JB,NMTAIERI-2017-CS14,DT10-30-2017,TM19:43:07
+MO,AD0,UN1,SF1.00000000,EC0,EO0.0,AU0
+--SurvCE Version 2.54.4
+--CRD: Alphanumeric
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Instrument
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: None
+--Geoid Separation File: None
+--GPS Scale: 1.00000000
+--Scale Point not used
+--ANDREW2:
+--DT10-30-2017
+--TM19:54:11
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: None
+--Geoid Separation File: None
+--GPS Scale: 1.00000000
+--Scale Point not used
+SP,PN1,N 4919357.0000,E 1386579.0000,EL0.0000,--XS147-S
+SP,PN2,N 4919530.8300,E 1386479.7800,EL0.0000,--XS147-E
+--DT10-31-2017
+--TM06:54:39
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: None
+--Geoid Separation File: None
+--GPS Scale: 1.00000000
+--Scale Point not used
+SP,PN3,N 4915135.9800,E 1387533.7300,EL14.4600,--XS15
+SP,PN4,N 4917828.7000,E 1386118.8900,EL15.0510,--ITXS27
+SP,PN5,N 4918977.1500,E 1385817.4500,EL17.3900,--
+SP,PN6,N 4918607.8400,E 1385423.2400,EL16.5720,--C24X
+--DT10-31-2017
+--TM08:07:58
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:912235
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: None
+--Geoid Separation File: None
+--GPS Scale: 1.00000000
+--Scale Point not used
+--RTK Method: RTCM V3.0, Device: Internal UHF
+BP,PN0000,LA-45.510984995378,LN170.140891565189,EL15.4105,AG1.410,PA0.061,--
+--Entered HR: 2.0000, Slant
+LS,HR2.0180
+GPS,PN7,LA-45.510943176140,LN170.141010268304,EL16.328731,--C24X-OBS
+--GS,PN7,N 4918612.1661,E 1385422.7772,EL14.3108,--C24X-OBS
+--GT,PNX_SECT27S,SW1973,ST155061009,EW1973,ET155100009
+--39 Valid Readings out of 39 Readings
+--39 Fixed Readings out of 39
+--Nor Min: 4918612.1484  Max: 4918612.1887
+--Eas Min: 1385422.7633  Max: 1385422.8047
+--Elv Min: 14.3037  Max: 14.3211
+--Nor Avg: 4918612.1661  SD: 0.0086
+--Eas Avg: 1385422.7772  SD: 0.0093
+--Elv Avg: 14.3108  SD: 0.0037
+--HRMS Avg: 0.0092 SD: 0.0007 Min: 0.0084 Max: 0.0106
+--VRMS Avg: 0.0107 SD: 0.0009 Min: 0.0098 Max: 0.0129
+--HDOP Avg: 0.8659  Min: 0.8478 Max: 0.9887
+--VDOP Avg: 1.1738 Min: 1.1618 Max: 1.2513
+--PDOP Avg: 1.4587 Min: 1.4382 Max: 1.5948
+--Number of Satellites Avg: 12 Min: 12 Max: 13
+--DT10-31-2017
+--TM08:08:07
+--Localization File: \Program Files\SurvCE\TAIERI-2017-CS14-C54X.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Localization Azimuth: State Plane Grid
+GPS,PNXS156L/1,LA-45.505940187823,LN170.143371828083,EL19.209031,--SO
+--GS,PNXS156L/1,N 4918934.9947,E 1385921.8206,EL19.4523,--SO
+--GT,PN7,SW1973,ST156336010,EW1973,ET156340010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918934.9897  Max: 4918934.9997
+--Eas Min: 1385921.8179  Max: 1385921.8256
+--Elv Min: 19.4452  Max: 19.4569
+--Nor Avg: 4918934.9947  SD: 0.0036
+--Eas Avg: 1385921.8206  SD: 0.0029
+--Elv Avg: 19.4523  SD: 0.0044
+--HRMS Avg: 0.0133 SD: 0.0001 Min: 0.0132 Max: 0.0134
+--VRMS Avg: 0.0173 SD: 0.0001 Min: 0.0172 Max: 0.0174
+--HDOP Avg: 0.9881  Min: 0.9879 Max: 0.9881
+--VDOP Avg: 1.4132 Min: 1.4132 Max: 1.4134
+--PDOP Avg: 1.7244 Min: 1.7244 Max: 1.7244
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+03.401,Right 0.00,0+03.401,Left 1.21,0.00,19.45,19.45,,SO,
+--CTSD1:XS156L/1,4918934.99,1385921.82,0.44,1.13,,,,,,
+--HSIG:0.013, VSIG:0.017, STATUS:FIXED, SATS:12, PDOP:1.724, HDOP:0.988, VDOP:1.413
+--DT10-31-2017
+--TM08:26:45
+GPS,PNXS156L/2,LA-45.505924958838,LN170.143317668304,EL14.116831,--SO
+--GS,PNXS156L/2,N 4918939.2909,E 1385909.9778,EL14.3601,--SO
+--GT,PNXS156L/2,SW1973,ST156392009,EW1973,ET156396010
+--3 Valid Readings out of 4 Readings
+--3 Fixed Readings out of 4
+--Nor Min: 4918939.2840  Max: 4918939.3010
+--Eas Min: 1385909.9695  Max: 1385909.9829
+--Elv Min: 14.3559  Max: 14.3643
+--Nor Avg: 4918939.2909  SD: 0.0073
+--Eas Avg: 1385909.9778  SD: 0.0059
+--Elv Avg: 14.3601  SD: 0.0034
+--HRMS Avg: 0.0161 SD: 0.0007 Min: 0.0153 Max: 0.0169
+--VRMS Avg: 0.0198 SD: 0.0004 Min: 0.0194 Max: 0.0203
+--HDOP Avg: 1.8915  Min: 1.4980 Max: 2.6786
+--VDOP Avg: 2.2687 Min: 1.7680 Max: 3.2701
+--PDOP Avg: 2.9539 Min: 2.3173 Max: 4.2271
+--Number of Satellites Avg: 9 Min: 9 Max: 9
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+15.995,Right 0.00,0+15.995,Left 1.53,0.00,14.36,14.36,,SO,
+--CTSD1:XS156L/2,4918939.29,1385909.98,0.56,1.43,,,,,,
+--HSIG:0.017, VSIG:0.020, STATUS:FIXED, SATS:9, PDOP:2.317, HDOP:1.498, VDOP:1.768
+--DT10-31-2017
+--TM08:27:42
+GPS,PNXS156L/3,LA-45.505916012545,LN170.143303082987,EL10.439880,--W
+--GS,PNXS156L/3,N 4918941.9432,E 1385906.7369,EL10.6832,--W
+--GT,PNXS156L/3,SW1973,ST156442009,EW1973,ET156446009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918941.9351  Max: 4918941.9629
+--Eas Min: 1385906.7275  Max: 1385906.7527
+--Elv Min: 10.6724  Max: 10.6969
+--Nor Avg: 4918941.9432  SD: 0.0115
+--Eas Avg: 1385906.7369  SD: 0.0095
+--Elv Avg: 10.6832  SD: 0.0097
+--HRMS Avg: 0.0155 SD: 0.0009 Min: 0.0144 Max: 0.0166
+--VRMS Avg: 0.0197 SD: 0.0006 Min: 0.0190 Max: 0.0204
+--HDOP Avg: 1.0443  Min: 1.0442 Max: 1.0444
+--VDOP Avg: 1.4669 Min: 1.4665 Max: 1.4673
+--PDOP Avg: 1.8006 Min: 1.8004 Max: 1.8009
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+19.979,Right 0.00,0+19.979,Left 0.24,0.00,10.68,10.68,,W,XS156L/3,
+--CTSD1:4918941.94,1385906.74,0.09,0.23,,,,,,
+--HSIG:0.015, VSIG:0.019, STATUS:FIXED, SATS:11, PDOP:1.801, HDOP:1.044, VDOP:1.467
+--DT10-31-2017
+--TM08:28:27
+GPS,PNXS146L/1,LA-45.505005719913,LN170.144119279052,EL19.745234,--SO
+--GS,PNXS146L/1,N 4919228.9508,E 1386073.0607,EL19.9885,--SO
+--GT,PNXS156L/4,SW1973,ST157170009,EW1973,ET157174009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4919228.9477  Max: 4919228.9549
+--Eas Min: 1386073.0554  Max: 1386073.0625
+--Elv Min: 19.9825  Max: 19.9935
+--Nor Avg: 4919228.9508  SD: 0.0027
+--Eas Avg: 1386073.0607  SD: 0.0030
+--Elv Avg: 19.9885  SD: 0.0042
+--HRMS Avg: 0.0148 SD: 0.0003 Min: 0.0145 Max: 0.0152
+--VRMS Avg: 0.0213 SD: 0.0002 Min: 0.0211 Max: 0.0215
+--HDOP Avg: 1.0320  Min: 1.0320 Max: 1.0320
+--VDOP Avg: 1.5605 Min: 1.5605 Max: 1.5605
+--PDOP Avg: 1.8709 Min: 1.8709 Max: 1.8709
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+01.207,Right 0.00,0+01.207,Left 0.25,0.00,19.99,19.99,,SO,
+--CTSD1:XS146L/1,4919228.95,1386073.06,0.10,0.23,,,,,,
+--HSIG:0.015, VSIG:0.021, STATUS:FIXED, SATS:11, PDOP:1.871, HDOP:1.032, VDOP:1.561
+--DT10-31-2017
+--TM08:40:34
+GPS,PNXS146L/2,LA-45.504980338538,LN170.144049160138,EL19.260711,--SO
+--GS,PNXS146L/2,N 4919236.2616,E 1386057.6674,EL19.5040,--SO
+--GT,PNXS146L/2,SW1973,ST157205009,EW1973,ET157209010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4919236.2508  Max: 4919236.2688
+--Eas Min: 1386057.6579  Max: 1386057.6743
+--Elv Min: 19.4995  Max: 19.5100
+--Nor Avg: 4919236.2616  SD: 0.0074
+--Eas Avg: 1386057.6674  SD: 0.0061
+--Elv Avg: 19.5040  SD: 0.0044
+--HRMS Avg: 0.0144 SD: 0.0004 Min: 0.0140 Max: 0.0150
+--VRMS Avg: 0.0198 SD: 0.0003 Min: 0.0196 Max: 0.0202
+--HDOP Avg: 0.9649  Min: 0.9649 Max: 0.9649
+--VDOP Avg: 1.3654 Min: 1.3654 Max: 1.3654
+--PDOP Avg: 1.6720 Min: 1.6720 Max: 1.6720
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+18.246,Right 0.00,0+18.246,Right 0.03,0.00,19.50,19.50,,SO,
+--CTSD1:XS146L/2,4919236.26,1386057.67,0.01,0.03,,,,,,
+--HSIG:0.014, VSIG:0.020, STATUS:FIXED, SATS:12, PDOP:1.672, HDOP:0.965, VDOP:1.365
+--DT10-31-2017
+--TM08:41:09
+GPS,PNXS146L/3,LA-45.504962515791,LN170.144000497373,EL15.781257,--SO
+--GS,PNXS146L/3,N 4919241.3995,E 1386046.9821,EL16.0246,--SO
+--GT,PNXS146L/3,SW1973,ST157247009,EW1973,ET157251009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4919241.3946  Max: 4919241.4049
+--Eas Min: 1386046.9701  Max: 1386047.0001
+--Elv Min: 16.0217  Max: 16.0301
+--Nor Avg: 4919241.3995  SD: 0.0042
+--Eas Avg: 1386046.9821  SD: 0.0122
+--Elv Avg: 16.0246  SD: 0.0033
+--HRMS Avg: 0.0139 SD: 0.0002 Min: 0.0138 Max: 0.0143
+--VRMS Avg: 0.0195 SD: 0.0001 Min: 0.0194 Max: 0.0198
+--HDOP Avg: 0.9664  Min: 0.9663 Max: 0.9665
+--VDOP Avg: 1.3689 Min: 1.3687 Max: 1.3690
+--PDOP Avg: 1.6756 Min: 1.6755 Max: 1.6758
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+30.099,Right 0.00,0+30.099,Right 0.29,0.00,16.02,16.02,,SO,
+--CTSD1:XS146L/3,4919241.40,1386046.98,0.12,0.26,,,,,,
+--HSIG:0.014, VSIG:0.019, STATUS:FIXED, SATS:12, PDOP:1.676, HDOP:0.966, VDOP:1.369
+--DT10-31-2017
+--TM08:41:51
+GPS,PNXS146L/4,LA-45.504936613390,LN170.143932690702,EL15.067804,--SO
+--GS,PNXS146L/4,N 4919248.8883,E 1386032.0819,EL15.3111,--SO
+--GT,PNXS146L/4,SW1973,ST157280009,EW1973,ET157284009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4919248.8848  Max: 4919248.8925
+--Eas Min: 1386032.0793  Max: 1386032.0864
+--Elv Min: 15.3010  Max: 15.3185
+--Nor Avg: 4919248.8883  SD: 0.0029
+--Eas Avg: 1386032.0819  SD: 0.0027
+--Elv Avg: 15.3111  SD: 0.0066
+--HRMS Avg: 0.0138 SD: 0.0002 Min: 0.0137 Max: 0.0143
+--VRMS Avg: 0.0194 SD: 0.0001 Min: 0.0193 Max: 0.0196
+--HDOP Avg: 0.9677  Min: 0.9677 Max: 0.9677
+--VDOP Avg: 1.3717 Min: 1.3717 Max: 1.3717
+--PDOP Avg: 1.6787 Min: 1.6787 Max: 1.6787
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+46.763,Right 0.00,0+46.763,Right 0.94,0.00,15.31,15.31,,SO,
+--CTSD1:XS146L/4,4919248.89,1386032.08,0.39,0.85,,,,,,
+--HSIG:0.014, VSIG:0.019, STATUS:FIXED, SATS:12, PDOP:1.679, HDOP:0.968, VDOP:1.372
+--DT10-31-2017
+--TM08:42:28
+GPS,PNXS146L/5,LA-45.504897609116,LN170.143816452076,EL13.745908,--SO
+--GS,PNXS146L/5,N 4919260.0596,E 1386006.5964,EL13.9892,--SO
+--GT,PNXS146L/5,SW1973,ST157384007,EW1973,ET157391008
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4919260.0523  Max: 4919260.0728
+--Eas Min: 1386006.5819  Max: 1386006.6066
+--Elv Min: 13.9832  Max: 13.9958
+--Nor Avg: 4919260.0596  SD: 0.0081
+--Eas Avg: 1386006.5964  SD: 0.0102
+--Elv Avg: 13.9892  SD: 0.0054
+--HRMS Avg: 0.0247 SD: 0.0006 Min: 0.0239 Max: 0.0255
+--VRMS Avg: 0.0378 SD: 0.0003 Min: 0.0374 Max: 0.0382
+--HDOP Avg: 1.3917  Min: 1.3872 Max: 1.3962
+--VDOP Avg: 2.0778 Min: 1.9779 Max: 2.1777
+--PDOP Avg: 2.5013 Min: 2.4158 Max: 2.5868
+--Number of Satellites Avg: 9 Min: 9 Max: 9
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+74.587,Right 0.00,0+74.587,Right 0.56,0.00,13.99,13.99,,SO,
+--CTSD1:XS146L/5,4919260.06,1386006.60,0.23,0.51,,,,,,
+--HSIG:0.026, VSIG:0.038, STATUS:FIXED, SATS:9, PDOP:2.587, HDOP:1.396, VDOP:2.178
+--DT10-31-2017
+--TM08:44:12
+GPS,PNXS146L/6,LA-45.504868506606,LN170.143731912898,EL12.015959,--SO
+--GS,PNXS146L/6,N 4919268.4112,E 1385988.0532,EL12.2593,--SO
+--GT,PNXS146L/6,SW1973,ST157417009,EW1973,ET157421009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4919268.3989  Max: 4919268.4215
+--Eas Min: 1385988.0390  Max: 1385988.0764
+--Elv Min: 12.2577  Max: 12.2605
+--Nor Avg: 4919268.4112  SD: 0.0081
+--Eas Avg: 1385988.0532  SD: 0.0143
+--Elv Avg: 12.2593  SD: 0.0011
+--HRMS Avg: 0.0154 SD: 0.0003 Min: 0.0150 Max: 0.0158
+--VRMS Avg: 0.0222 SD: 0.0004 Min: 0.0217 Max: 0.0228
+--HDOP Avg: 1.0015  Min: 0.9728 Max: 1.0301
+--VDOP Avg: 1.4874 Min: 1.3830 Max: 1.5919
+--PDOP Avg: 1.7935 Min: 1.6909 Max: 1.8961
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+94.924,Right 0.00,0+94.924,Right 0.48,0.00,12.26,12.26,,SO,
+--CTSD1:XS146L/6,4919268.41,1385988.05,0.20,0.44,,,,,,
+--HSIG:0.016, VSIG:0.022, STATUS:FIXED, SATS:12, PDOP:1.691, HDOP:0.973, VDOP:1.383
+--DT10-31-2017
+--TM08:44:43
+GPS,PNXS146L/7,LA-45.504852515240,LN170.143681910230,EL10.469221,--W
+--GS,PNXS146L/7,N 4919272.9738,E 1385977.0984,EL10.7125,--W
+--GT,PNXS146L/7,SW1973,ST157449009,EW1973,ET157453009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4919272.9711  Max: 4919272.9767
+--Eas Min: 1385977.0940  Max: 1385977.1016
+--Elv Min: 10.7109  Max: 10.7155
+--Nor Avg: 4919272.9738  SD: 0.0020
+--Eas Avg: 1385977.0984  SD: 0.0029
+--Elv Avg: 10.7125  SD: 0.0018
+--HRMS Avg: 0.0145 SD: 0.0005 Min: 0.0140 Max: 0.0153
+--VRMS Avg: 0.0207 SD: 0.0004 Min: 0.0203 Max: 0.0213
+--HDOP Avg: 0.9739  Min: 0.9739 Max: 0.9739
+--VDOP Avg: 1.3853 Min: 1.3853 Max: 1.3853
+--PDOP Avg: 1.6933 Min: 1.6933 Max: 1.6933
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+06.785,Right 0.00,1+06.785,Right 0.10,0.00,10.71,10.71,,W,
+--CTSD1:XS146L/7,4919272.97,1385977.10,0.04,0.09,,,,,,
+--HSIG:0.015, VSIG:0.021, STATUS:FIXED, SATS:12, PDOP:1.693, HDOP:0.974, VDOP:1.385
+--DT10-31-2017
+--TM08:45:13
+GPS,PNXS147ALTL,LA-45.504443143508,LN170.150313268425,EL17.709070,--SO
+--GS,PNXS147ALTL,N 4919418.8890,E 1386540.2652,EL17.9524,--SO
+--GT,PNXS146L/8,SW1973,ST158108008,EW1973,ET158112008
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4919418.8801  Max: 4919418.9028
+--Eas Min: 1386540.2548  Max: 1386540.2739
+--Elv Min: 17.9392  Max: 17.9703
+--Nor Avg: 4919418.8890  SD: 0.0088
+--Eas Avg: 1386540.2652  SD: 0.0072
+--Elv Avg: 17.9524  SD: 0.0115
+--HRMS Avg: 0.0241 SD: 0.0008 Min: 0.0231 Max: 0.0254
+--VRMS Avg: 0.0448 SD: 0.0041 Min: 0.0420 Max: 0.0518
+--HDOP Avg: 1.1225  Min: 1.0902 Max: 1.2196
+--VDOP Avg: 1.6390 Min: 1.5153 Max: 2.0101
+--PDOP Avg: 1.9878 Min: 1.8667 Max: 2.3511
+--Number of Satellites Avg: 9 Min: 9 Max: 10
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+72.951,Right 0.00,0+72.951,Left 2.96,0.00,17.95,17.95,,SO,
+--CTSD1:XS147ALTL,4919418.89,1386540.27,2.57,1.47,,,,,,
+--HSIG:0.023, VSIG:0.042, STATUS:FIXED, SATS:10, PDOP:1.867, HDOP:1.090, VDOP:1.515
+--DT10-31-2017
+--TM08:56:14
+GPS,PNXS148ALTL,LA-45.504294046635,LN170.150261745474,EL10.975202,--W
+--GS,PNXS148ALTL,N 4919464.5192,E 1386527.5674,EL11.2185,--W
+--GT,PNXS148ALTL,SW1973,ST158271007,EW1973,ET158275008
+--3 Valid Readings out of 4 Readings
+--3 Fixed Readings out of 4
+--Nor Min: 4919464.5014  Max: 4919464.5327
+--Eas Min: 1386527.5627  Max: 1386527.5702
+--Elv Min: 11.1935  Max: 11.2636
+--Nor Avg: 4919464.5192  SD: 0.0131
+--Eas Avg: 1386527.5674  SD: 0.0034
+--Elv Avg: 11.2185  SD: 0.0320
+--HRMS Avg: 0.0251 SD: 0.0003 Min: 0.0248 Max: 0.0255
+--VRMS Avg: 0.0524 SD: 0.0035 Min: 0.0475 Max: 0.0550
+--HDOP Avg: 1.7944  Min: 1.5951 Max: 1.8940
+--VDOP Avg: 2.6924 Min: 2.2883 Max: 2.8944
+--PDOP Avg: 3.2358 Min: 2.7894 Max: 3.4590
+--Number of Satellites Avg: 9 Min: 9 Max: 10
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+18.875,Right 0.00,1+18.875,Right 8.63,0.00,11.22,11.22,,W,
+--CTSD1:XS148ALTL,4919464.52,1386527.57,7.50,4.28,,,,,,
+--HSIG:0.026, VSIG:0.055, STATUS:FIXED, SATS:10, PDOP:2.789, HDOP:1.595, VDOP:2.288
+--DT10-31-2017
+--TM08:58:58
+GPS,PNXS147R/1,LA-45.504400362501,LN170.150916737399,EL17.224341,--STA0+01.327 L2.01 CUT 17.47
+--GS,PNXS147R/1,N 4919436.5745,E 1386669.9667,EL17.4676,--STA0+01.327 L2.01 CUT 17.47
+--GT,PNXS149ALTL,SW1973,ST158618007,EW1973,ET158622008
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4919436.5689  Max: 4919436.5820
+--Eas Min: 1386669.9642  Max: 1386669.9725
+--Elv Min: 17.4495  Max: 17.4895
+--Nor Avg: 4919436.5745  SD: 0.0048
+--Eas Avg: 1386669.9667  SD: 0.0033
+--Elv Avg: 17.4676  SD: 0.0152
+--HRMS Avg: 0.0257 SD: 0.0004 Min: 0.0252 Max: 0.0261
+--VRMS Avg: 0.0520 SD: 0.0009 Min: 0.0506 Max: 0.0531
+--HDOP Avg: 1.7009  Min: 1.6365 Max: 1.7224
+--VDOP Avg: 2.8564 Min: 2.2363 Max: 3.0630
+--PDOP Avg: 3.3283 Min: 2.7711 Max: 3.5141
+--Number of Satellites Avg: 7 Min: 7 Max: 9
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+01.327,Right 0.00,0+01.327,Left 2.01,0.00,17.47,17.47,,
+--CTSD1:STA0+01.327 L2.01 CUT 17.47,XS147R/1,4919436.57,1386669.97,2.00,0.14,,,
+--CTSD2:,,,
+--HSIG:0.026, VSIG:0.053, STATUS:FIXED, SATS:9, PDOP:3.514, HDOP:1.722, VDOP:3.063
+--DT10-31-2017
+--TM09:04:44
+GPS,PNXS147R/2,LA-45.504295829528,LN170.150920993417,EL12.984677,--STA0+33.556 R0.01 CUT 13.23
+--GS,PNXS147R/2,N 4919468.8662,E 1386669.7740,EL13.2280,--STA0+33.556 R0.01 CUT 13.23
+--GT,PNXS147R/2,SW1973,ST158672008,EW1973,ET158676008
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4919468.8574  Max: 4919468.8755
+--Eas Min: 1386669.7689  Max: 1386669.7802
+--Elv Min: 13.2204  Max: 13.2326
+--Nor Avg: 4919468.8662  SD: 0.0071
+--Eas Avg: 1386669.7740  SD: 0.0042
+--Elv Avg: 13.2280  SD: 0.0050
+--HRMS Avg: 0.0163 SD: 0.0004 Min: 0.0159 Max: 0.0169
+--VRMS Avg: 0.0284 SD: 0.0003 Min: 0.0280 Max: 0.0287
+--HDOP Avg: 1.0518  Min: 1.0372 Max: 1.0664
+--VDOP Avg: 1.5153 Min: 1.4740 Max: 1.5565
+--PDOP Avg: 1.8446 Min: 1.8024 Max: 1.8868
+--Number of Satellites Avg: 10 Min: 10 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+33.556,Right 0.00,0+33.556,Right 0.01,0.00,13.23,13.23,,
+--CTSD1:STA0+33.556 R0.01 CUT 13.23,XS147R/2,4919468.87,1386669.77,0.01,0.00,,,
+--CTSD2:,,,
+--HSIG:0.016, VSIG:0.028, STATUS:FIXED, SATS:11, PDOP:1.887, HDOP:1.066, VDOP:1.557
+--DT10-31-2017
+--TM09:05:37
+GPS,PNXS147R/3,LA-45.504233899617,LN170.150916505152,EL12.877961,--STA0+52.702 L0.30 CUT 13.12
+--GS,PNXS147R/3,N 4919487.9451,E 1386668.1479,EL13.1213,--STA0+52.702 L0.30 CUT 13.12
+--GT,PNXS147R/3,SW1973,ST158715008,EW1973,ET158719009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4919487.9425  Max: 4919487.9490
+--Eas Min: 1386668.1446  Max: 1386668.1503
+--Elv Min: 13.1095  Max: 13.1291
+--Nor Avg: 4919487.9451  SD: 0.0025
+--Eas Avg: 1386668.1479  SD: 0.0022
+--Elv Avg: 13.1213  SD: 0.0072
+--HRMS Avg: 0.0151 SD: 0.0005 Min: 0.0145 Max: 0.0159
+--VRMS Avg: 0.0259 SD: 0.0009 Min: 0.0252 Max: 0.0274
+--HDOP Avg: 1.2555  Min: 1.2555 Max: 1.2555
+--VDOP Avg: 2.5233 Min: 2.5233 Max: 2.5233
+--PDOP Avg: 2.8184 Min: 2.8184 Max: 2.8184
+--Number of Satellites Avg: 10 Min: 9 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+52.702,Right 0.00,0+52.702,Left 0.30,0.00,13.12,13.12,,
+--CTSD1:STA0+52.702 L0.30 CUT 13.12,XS147R/3,4919487.95,1386668.15,0.30,0.02,,,
+--CTSD2:,,,
+--HSIG:0.015, VSIG:0.026, STATUS:FIXED, SATS:11, PDOP:2.818, HDOP:1.255, VDOP:2.523
+--DT10-31-2017
+--TM09:06:22
+GPS,PNXS147R/4,LA-45.504142809974,LN170.150901982989,EL11.370154,--W
+--GS,PNXS147R/4,N 4919515.9486,E 1386664.0478,EL11.6134,--W
+--GT,PNXS147R/4,SW1973,ST158768008,EW1973,ET158772008
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4919515.9416  Max: 4919515.9548
+--Eas Min: 1386664.0460  Max: 1386664.0492
+--Elv Min: 11.6039  Max: 11.6180
+--Nor Avg: 4919515.9486  SD: 0.0048
+--Eas Avg: 1386664.0478  SD: 0.0013
+--Elv Avg: 11.6134  SD: 0.0056
+--HRMS Avg: 0.0168 SD: 0.0010 Min: 0.0154 Max: 0.0181
+--VRMS Avg: 0.0293 SD: 0.0005 Min: 0.0286 Max: 0.0299
+--HDOP Avg: 1.2494  Min: 1.2493 Max: 1.2496
+--VDOP Avg: 2.5597 Min: 2.5586 Max: 2.5600
+--PDOP Avg: 2.8483 Min: 2.8474 Max: 2.8486
+--Number of Satellites Avg: 9 Min: 9 Max: 9
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+80.920,Right 0.00,0+80.920,Left 2.48,0.00,11.61,11.61,,W,XS147R/4,
+--CTSD1:4919515.95,1386664.05,2.47,0.17,,,,,,
+--HSIG:0.018, VSIG:0.030, STATUS:FIXED, SATS:9, PDOP:2.849, HDOP:1.249, VDOP:2.560
+--DT10-31-2017
+--TM09:07:14
+GPS,PNXS156/OBS,LA-45.505791355695,LN170.142894597381,EL17.076479,--BM
+--GS,PNXS156/OBS,N 4918977.3686,E 1385817.3112,EL17.3198,--BM
+--GT,PNXS147R/5,SW1973,ST160775009,EW1973,ET160779009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--GT,PNXS156-OBS,SW1973,ST160830008,EW1973,ET160834008
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918977.3644  Max: 4918977.3736
+--Eas Min: 1385817.3034  Max: 1385817.3203
+--Elv Min: 17.3037  Max: 17.3348
+--Nor Avg: 4918977.3686  SD: 0.0034
+--Eas Avg: 1385817.3112  SD: 0.0064
+--Elv Avg: 17.3198  SD: 0.0117
+--HRMS Avg: 0.0104 SD: 0.0007 Min: 0.0099 Max: 0.0116
+--VRMS Avg: 0.0210 SD: 0.0004 Min: 0.0206 Max: 0.0216
+--HDOP Avg: 1.1297  Min: 1.1297 Max: 1.1297
+--VDOP Avg: 3.7561 Min: 3.7561 Max: 3.7561
+--PDOP Avg: 3.9223 Min: 3.9223 Max: 3.9223
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--CTSS1:TAIERI-2017-CS14.crd
+--CTSD0:Design Pt#,Design Elv,Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,
+--CTSD1:Stake Eas,Delta X,Delta Y
+--CTSD0:5,17.39,17.32,,0.07,BM,XS156/OBS,4918977.37,1385817.31,0.14,0.22
+--HSIG:0.010, VSIG:0.021, STATUS:FIXED, SATS:10, PDOP:3.922, HDOP:1.130, VDOP:3.756
+--DT10-31-2017
+--TM09:41:37
+GPS,PNXS147L/1,LA-45.504037907046,LN170.150895220211,EL15.322541,--SO
+--GS,PNXS147L/1,N 4919548.2726,E 1386661.4745,EL15.5658,--SO
+--GT,PNXS157/OBS,SW1973,ST162481007,EW1973,ET162485008
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4919548.2713  Max: 4919548.2737
+--Eas Min: 1386661.4702  Max: 1386661.4829
+--Elv Min: 15.5368  Max: 15.5835
+--Nor Avg: 4919548.2726  SD: 0.0010
+--Eas Avg: 1386661.4745  SD: 0.0051
+--Elv Avg: 15.5658  SD: 0.0179
+--HRMS Avg: 0.0199 SD: 0.0008 Min: 0.0189 Max: 0.0211
+--VRMS Avg: 0.0401 SD: 0.0039 Min: 0.0376 Max: 0.0469
+--HDOP Avg: 1.3596  Min: 1.2355 Max: 1.7319
+--VDOP Avg: 2.1894 Min: 2.0685 Max: 2.5521
+--PDOP Avg: 2.5781 Min: 2.4093 Max: 3.0843
+--Number of Satellites Avg: 8 Min: 8 Max: 9
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+13.345,Right 0.00,1+13.345,Left 2.83,0.00,15.57,15.57,,SO,
+--CTSD1:XS147L/1,4919548.27,1386661.47,2.82,0.19,,,,,,
+--HSIG:0.020, VSIG:0.038, STATUS:FIXED, SATS:8, PDOP:3.084, HDOP:1.732, VDOP:2.552
+--DT10-31-2017
+--TM10:09:31
+GPS,PNXS136L/50,LA-45.511816957978,LN170.141409900310,EL14.114687,--Y-F
+--GS,PNXS136L/50,N 4918341.1653,E 1385518.7594,EL14.3580,--Y-F
+--GT,PNXS147L/2,SW1973,ST164880010,EW1973,ET164884010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918341.1504  Max: 4918341.1758
+--Eas Min: 1385518.7453  Max: 1385518.7685
+--Elv Min: 14.3568  Max: 14.3593
+--Nor Avg: 4918341.1653  SD: 0.0094
+--Eas Avg: 1385518.7594  SD: 0.0086
+--Elv Avg: 14.3580  SD: 0.0011
+--HRMS Avg: 0.0150 SD: 0.0000 Min: 0.0150 Max: 0.0151
+--VRMS Avg: 0.0183 SD: 0.0000 Min: 0.0183 Max: 0.0184
+--HDOP Avg: 0.7517  Min: 0.7517 Max: 0.7517
+--VDOP Avg: 1.0670 Min: 1.0670 Max: 1.0670
+--PDOP Avg: 1.3051 Min: 1.3051 Max: 1.3051
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+53.012,Right 0.00,0+53.012,Left 0.06,0.00,14.36,14.36,,Y-F,
+--CTSD1:XS136L/50,4918341.17,1385518.76,0.04,0.05,,,,,,
+--HSIG:0.015, VSIG:0.018, STATUS:FIXED, SATS:14, PDOP:1.305, HDOP:0.752, VDOP:1.067
+--DT10-31-2017
+--TM10:49:06
+GPS,PNXS136L/51,LA-45.511804513388,LN170.141385165216,EL12.794513,--Y-F
+--GS,PNXS136L/51,N 4918344.8212,E 1385513.2924,EL13.0378,--Y-F
+--GT,PNXS136L/51,SW1973,ST164901010,EW1973,ET164905011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918344.8089  Max: 4918344.8447
+--Eas Min: 1385513.2581  Max: 1385513.3137
+--Elv Min: 13.0346  Max: 13.0429
+--Nor Avg: 4918344.8212  SD: 0.0140
+--Eas Avg: 1385513.2924  SD: 0.0208
+--Elv Avg: 13.0378  SD: 0.0031
+--HRMS Avg: 0.0144 SD: 0.0000 Min: 0.0144 Max: 0.0145
+--VRMS Avg: 0.0177 SD: 0.0000 Min: 0.0176 Max: 0.0177
+--HDOP Avg: 0.8078  Min: 0.7523 Max: 0.8263
+--VDOP Avg: 1.0820 Min: 1.0679 Max: 1.0868
+--PDOP Avg: 1.3505 Min: 1.3063 Max: 1.3652
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+59.577,Right 0.00,0+59.577,Left 0.45,0.00,13.04,13.04,,Y-F,
+--CTSD1:XS136L/51,4918344.82,1385513.29,0.27,0.36,,,,,,
+--HSIG:0.014, VSIG:0.018, STATUS:FIXED, SATS:15, PDOP:1.306, HDOP:0.752, VDOP:1.068
+--DT10-31-2017
+--TM10:49:27
+GPS,PNXS136L/52,LA-45.511797487102,LN170.141373058833,EL11.245884,--Y-F
+--GS,PNXS136L/52,N 4918346.8991,E 1385510.6067,EL11.4892,--Y-F
+--GT,PNXS136L/52,SW1973,ST164918010,EW1973,ET164922011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918346.8933  Max: 4918346.9049
+--Eas Min: 1385510.6058  Max: 1385510.6076
+--Elv Min: 11.4874  Max: 11.4932
+--Nor Avg: 4918346.8991  SD: 0.0055
+--Eas Avg: 1385510.6067  SD: 0.0007
+--Elv Avg: 11.4892  SD: 0.0023
+--HRMS Avg: 0.0140 SD: 0.0000 Min: 0.0140 Max: 0.0141
+--VRMS Avg: 0.0172 SD: 0.0000 Min: 0.0171 Max: 0.0172
+--HDOP Avg: 0.7712  Min: 0.7528 Max: 0.8266
+--VDOP Avg: 1.0733 Min: 1.0684 Max: 1.0878
+--PDOP Avg: 1.3218 Min: 1.3070 Max: 1.3662
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+62.972,Right 0.00,0+62.972,Left 0.42,0.00,11.49,11.49,,Y-F,
+--CTSD1:XS136L/52,4918346.90,1385510.61,0.25,0.33,,,,,,
+--HSIG:0.014, VSIG:0.017, STATUS:FIXED, SATS:15, PDOP:1.307, HDOP:0.753, VDOP:1.068
+--DT10-31-2017
+--TM10:49:44
+GPS,PNXS136L/53,LA-45.511764556353,LN170.141313041066,EL10.107372,--Y-F
+--GS,PNXS136L/53,N 4918356.6138,E 1385497.3123,EL10.3507,--Y-F
+--GT,PNXS136L/53,SW1973,ST164948010,EW1973,ET164952010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918356.5715  Max: 4918356.6403
+--Eas Min: 1385497.3043  Max: 1385497.3197
+--Elv Min: 10.3439  Max: 10.3574
+--Nor Avg: 4918356.6138  SD: 0.0269
+--Eas Avg: 1385497.3123  SD: 0.0054
+--Elv Avg: 10.3507  SD: 0.0060
+--HRMS Avg: 0.0136 SD: 0.0002 Min: 0.0135 Max: 0.0139
+--VRMS Avg: 0.0165 SD: 0.0001 Min: 0.0165 Max: 0.0167
+--HDOP Avg: 0.8273  Min: 0.8272 Max: 0.8274
+--VDOP Avg: 1.0896 Min: 1.0893 Max: 1.0897
+--PDOP Avg: 1.3681 Min: 1.3678 Max: 1.3683
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+79.435,Right 0.00,0+79.435,Left 0.71,0.00,10.35,10.35,,Y-F,
+--CTSD1:XS136L/53,4918356.61,1385497.31,0.43,0.57,,,,,,
+--HSIG:0.014, VSIG:0.016, STATUS:FIXED, SATS:14, PDOP:1.368, HDOP:0.827, VDOP:1.090
+--DT10-31-2017
+--TM10:50:14
+GPS,PNXS136L/54,LA-45.511736335399,LN170.141254508136,EL9.867789,--Y-F
+--GS,PNXS136L/54,N 4918364.8860,E 1385484.3884,EL10.1111,--Y-F
+--GT,PNXS136L/54,SW1973,ST164971010,EW1973,ET164975010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918364.8463  Max: 4918364.9164
+--Eas Min: 1385484.3607  Max: 1385484.4234
+--Elv Min: 10.1087  Max: 10.1140
+--Nor Avg: 4918364.8860  SD: 0.0280
+--Eas Avg: 1385484.3884  SD: 0.0225
+--Elv Avg: 10.1111  SD: 0.0021
+--HRMS Avg: 0.0133 SD: 0.0002 Min: 0.0132 Max: 0.0136
+--VRMS Avg: 0.0162 SD: 0.0001 Min: 0.0161 Max: 0.0164
+--HDOP Avg: 0.7541  Min: 0.7541 Max: 0.7542
+--VDOP Avg: 1.0701 Min: 1.0701 Max: 1.0702
+--PDOP Avg: 1.3092 Min: 1.3091 Max: 1.3093
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+94.731,Right 0.00,0+94.731,Left 1.93,0.00,10.11,10.11,,Y-F,
+--CTSD1:XS136L/54,4918364.89,1385484.39,1.17,1.54,,,,,,
+--HSIG:0.013, VSIG:0.016, STATUS:FIXED, SATS:15, PDOP:1.309, HDOP:0.754, VDOP:1.070
+--DT10-31-2017
+--TM10:50:37
+GPS,PNXS136L/55,LA-45.511713149928,LN170.141202601570,EL9.410420,--W
+--GS,PNXS136L/55,N 4918371.6536,E 1385472.9472,EL9.6537,--W
+--GT,PNXS136L/55,SW1973,ST164999010,EW1973,ET165003010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918371.6439  Max: 4918371.6601
+--Eas Min: 1385472.9389  Max: 1385472.9540
+--Elv Min: 9.6484  Max: 9.6580
+--Nor Avg: 4918371.6536  SD: 0.0060
+--Eas Avg: 1385472.9472  SD: 0.0061
+--Elv Avg: 9.6537  SD: 0.0034
+--HRMS Avg: 0.0128 SD: 0.0000 Min: 0.0128 Max: 0.0128
+--VRMS Avg: 0.0156 SD: 0.0000 Min: 0.0156 Max: 0.0156
+--HDOP Avg: 0.7549  Min: 0.7549 Max: 0.7549
+--VDOP Avg: 1.0710 Min: 1.0710 Max: 1.0710
+--PDOP Avg: 1.3103 Min: 1.3103 Max: 1.3103
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+07.937,Right 0.00,1+07.937,Left 3.45,0.00,9.65,9.65,,W,XS136L/55,
+--CTSD1:4918371.65,1385472.95,2.09,2.75,,,,,,
+--HSIG:0.013, VSIG:0.016, STATUS:FIXED, SATS:15, PDOP:1.310, HDOP:0.755, VDOP:1.071
+--DT10-31-2017
+--TM10:51:07
+GPS,PNXS136L/56,LA-45.511701535535,LN170.141205896173,EL9.415582,--W
+--GS,PNXS136L/56,N 4918375.2625,E 1385473.5335,EL9.6589,--W
+--GT,PNXS136L/56,SW1973,ST165023011,EW1973,ET165027011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918375.2596  Max: 4918375.2697
+--Eas Min: 1385473.5320  Max: 1385473.5356
+--Elv Min: 9.6560  Max: 9.6620
+--Nor Avg: 4918375.2625  SD: 0.0041
+--Eas Avg: 1385473.5335  SD: 0.0013
+--Elv Avg: 9.6589  SD: 0.0022
+--HRMS Avg: 0.0127 SD: 0.0000 Min: 0.0127 Max: 0.0127
+--VRMS Avg: 0.0153 SD: 0.0000 Min: 0.0153 Max: 0.0153
+--HDOP Avg: 0.7556  Min: 0.7555 Max: 0.7556
+--VDOP Avg: 1.0717 Min: 1.0716 Max: 1.0718
+--PDOP Avg: 1.3113 Min: 1.3111 Max: 1.3114
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+09.651,Right 0.00,1+09.651,Left 0.22,0.00,9.66,9.66,,W,XS136L/56,
+--CTSD1:4918375.26,1385473.53,0.13,0.18,,,,,,
+--HSIG:0.013, VSIG:0.015, STATUS:FIXED, SATS:15, PDOP:1.311, HDOP:0.756, VDOP:1.072
+--DT10-31-2017
+--TM10:51:28
+GPS,PNXS136L/57,LA-45.511687035321,LN170.141177508797,EL8.904715,--W
+--GS,PNXS136L/57,N 4918379.5255,E 1385467.2569,EL9.1480,--W
+--GT,PNXS136L/57,SW1973,ST165052011,EW1973,ET165056010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918379.5052  Max: 4918379.5440
+--Eas Min: 1385467.2389  Max: 1385467.2688
+--Elv Min: 9.1406  Max: 9.1540
+--Nor Avg: 4918379.5255  SD: 0.0143
+--Eas Avg: 1385467.2569  SD: 0.0112
+--Elv Avg: 9.1480  SD: 0.0055
+--HRMS Avg: 0.0122 SD: 0.0001 Min: 0.0121 Max: 0.0123
+--VRMS Avg: 0.0148 SD: 0.0000 Min: 0.0147 Max: 0.0148
+--HDOP Avg: 0.7564  Min: 0.7563 Max: 0.7564
+--VDOP Avg: 1.0725 Min: 1.0724 Max: 1.0726
+--PDOP Avg: 1.3124 Min: 1.3123 Max: 1.3125
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+17.228,Right 0.00,1+17.228,Left 0.62,0.00,9.15,9.15,,W,XS136L/57,
+--CTSD1:4918379.53,1385467.26,0.37,0.49,,,,,,
+--HSIG:0.012, VSIG:0.015, STATUS:FIXED, SATS:15, PDOP:1.312, HDOP:0.756, VDOP:1.073
+--DT10-31-2017
+--TM10:52:00
+GPS,PNXS136L/58,LA-45.511684846645,LN170.141158299807,EL8.570395,--SNDG
+--GS,PNXS136L/58,N 4918380.0574,E 1385463.0912,EL8.8137,--SNDG
+--GT,PNXS136L/58,SW1973,ST165109010,EW1973,ET165113010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918380.0477  Max: 4918380.0719
+--Eas Min: 1385463.0840  Max: 1385463.0966
+--Elv Min: 8.8100  Max: 8.8177
+--Nor Avg: 4918380.0574  SD: 0.0090
+--Eas Avg: 1385463.0912  SD: 0.0045
+--Elv Avg: 8.8137  SD: 0.0034
+--HRMS Avg: 0.0122 SD: 0.0007 Min: 0.0118 Max: 0.0135
+--VRMS Avg: 0.0146 SD: 0.0004 Min: 0.0143 Max: 0.0153
+--HDOP Avg: 0.7579  Min: 0.7579 Max: 0.7579
+--VDOP Avg: 1.0739 Min: 1.0739 Max: 1.0739
+--PDOP Avg: 1.3144 Min: 1.3144 Max: 1.3144
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+20.868,Right 0.00,1+20.868,Left 2.71,0.00,8.81,8.81,,SNDG,
+--CTSD1:XS136L/58,4918380.06,1385463.09,1.64,2.16,,,,,,
+--HSIG:0.012, VSIG:0.014, STATUS:FIXED, SATS:15, PDOP:1.314, HDOP:0.758, VDOP:1.074
+--DT10-31-2017
+--TM10:52:56
+GPS,PNXS136L/59,LA-45.511685070609,LN170.141150933316,EL8.425479,--SNDG
+--GS,PNXS136L/59,N 4918379.9333,E 1385461.5050,EL8.6688,--SNDG
+--GT,PNXS136L/59,SW1973,ST165138010,EW1973,ET165148010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918379.8854  Max: 4918379.9794
+--Eas Min: 1385461.4939  Max: 1385461.5307
+--Elv Min: 8.6473  Max: 8.7229
+--Nor Avg: 4918379.9333  SD: 0.0420
+--Eas Avg: 1385461.5050  SD: 0.0149
+--Elv Avg: 8.6688  SD: 0.0313
+--HRMS Avg: 0.0117 SD: 0.0000 Min: 0.0117 Max: 0.0117
+--VRMS Avg: 0.0141 SD: 0.0000 Min: 0.0141 Max: 0.0141
+--HDOP Avg: 0.8317  Min: 0.8317 Max: 0.8317
+--VDOP Avg: 1.1004 Min: 1.1004 Max: 1.1004
+--PDOP Avg: 1.3793 Min: 1.3793 Max: 1.3793
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+22.057,Right 0.00,1+22.057,Left 3.77,0.00,8.67,8.67,,SNDG,
+--CTSD1:XS136L/59,4918379.93,1385461.51,2.28,3.00,,,,,,
+--HSIG:0.012, VSIG:0.014, STATUS:FIXED, SATS:14, PDOP:1.379, HDOP:0.832, VDOP:1.100
+--DT10-31-2017
+--TM10:53:30
+GPS,PNXS136L/60,LA-45.511683457821,LN170.141148646778,EL8.671732,--SNDG
+--GS,PNXS136L/60,N 4918380.4139,E 1385460.9947,EL8.9150,--SNDG
+--GT,PNXS136L/60,SW1973,ST165161010,EW1973,ET165165010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4918380.3748  Max: 4918380.4513
+--Eas Min: 1385460.9720  Max: 1385461.0105
+--Elv Min: 8.9082  Max: 8.9233
+--Nor Avg: 4918380.4139  SD: 0.0336
+--Eas Avg: 1385460.9947  SD: 0.0149
+--Elv Avg: 8.9150  SD: 0.0068
+--HRMS Avg: 0.0118 SD: 0.0002 Min: 0.0117 Max: 0.0121
+--VRMS Avg: 0.0142 SD: 0.0001 Min: 0.0141 Max: 0.0144
+--HDOP Avg: 0.8320  Min: 0.8319 Max: 0.8321
+--VDOP Avg: 1.1012 Min: 1.1011 Max: 1.1014
+--PDOP Avg: 1.3801 Min: 1.3800 Max: 1.3803
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+22.754,Right 0.00,1+22.754,Left 3.70,0.00,8.92,8.92,,SNDG,
+--CTSD1:XS136L/60,4918380.41,1385460.99,2.23,2.94,,,,,,
+--HSIG:0.012, VSIG:0.014, STATUS:FIXED, SATS:14, PDOP:1.380, HDOP:0.832, VDOP:1.101
+--DT10-31-2017
+--TM10:53:49
+GPS,PNXS27R/500,LA-45.513778908370,LN170.144050357859,EL10.617408,--STA1+70.390 R0.25 CUT 10.86
+--GS,PNXS27R/500,N 4917755.3746,E 1386109.0688,EL10.8607,--STA1+70.390 R0.25 CUT 10.86
+--GT,PNXS136L/61,SW1973,ST166339010,EW1973,ET166343010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4917755.3714  Max: 4917755.3778
+--Eas Min: 1386109.0671  Max: 1386109.0715
+--Elv Min: 10.8580  Max: 10.8636
+--Nor Avg: 4917755.3746  SD: 0.0025
+--Eas Avg: 1386109.0688  SD: 0.0017
+--Elv Avg: 10.8607  SD: 0.0025
+--HRMS Avg: 0.0146 SD: 0.0002 Min: 0.0142 Max: 0.0147
+--VRMS Avg: 0.0196 SD: 0.0001 Min: 0.0193 Max: 0.0196
+--HDOP Avg: 0.9982  Min: 0.9982 Max: 0.9982
+--VDOP Avg: 1.4352 Min: 1.4352 Max: 1.4352
+--PDOP Avg: 1.7482 Min: 1.7482 Max: 1.7482
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+70.390,Right 0.00,1+70.390,Right 0.25,0.00,10.86,10.86,,
+--CTSD1:STA1+70.390 R0.25 CUT 10.86,XS27R/500,4917755.37,1386109.07,0.25,0.03,,
+--CTSD2:,,,,
+--HSIG:0.014, VSIG:0.019, STATUS:FIXED, SATS:12, PDOP:1.748, HDOP:0.998, VDOP:1.435
+--DT10-31-2017
+--TM11:13:23
+GPS,PNXS27R/501,LA-45.513698080234,LN170.144074981431,EL8.343992,--W
+--GS,PNXS27R/501,N 4917780.5025,E 1386113.5166,EL8.5873,--W
+--GT,PNXS27R/501,SW1973,ST166382010,EW1973,ET166386010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4917780.4998  Max: 4917780.5043
+--Eas Min: 1386113.5118  Max: 1386113.5245
+--Elv Min: 8.5847  Max: 8.5895
+--Nor Avg: 4917780.5025  SD: 0.0019
+--Eas Avg: 1386113.5166  SD: 0.0052
+--Elv Avg: 8.5873  SD: 0.0017
+--HRMS Avg: 0.0143 SD: 0.0002 Min: 0.0140 Max: 0.0145
+--VRMS Avg: 0.0192 SD: 0.0001 Min: 0.0190 Max: 0.0193
+--HDOP Avg: 0.9991  Min: 0.9990 Max: 0.9991
+--VDOP Avg: 1.4416 Min: 1.4413 Max: 1.4419
+--PDOP Avg: 1.7540 Min: 1.7537 Max: 1.7543
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+44.898,Right 0.00,1+44.898,Left 0.91,0.00,8.59,8.59,,W,XS27R/501,
+--CTSD1:4917780.50,1386113.52,0.90,0.12,,,,,,
+--HSIG:0.015, VSIG:0.019, STATUS:FIXED, SATS:12, PDOP:1.754, HDOP:0.999, VDOP:1.442
+--DT10-31-2017
+--TM11:14:08
+GPS,PNXS27R/502,LA-45.513691595607,LN170.144079200010,EL7.852212,--SNDG
+--GS,PNXS27R/502,N 4917782.5351,E 1386114.3571,EL8.0955,--SNDG
+--GT,PNXS27R/502,SW1973,ST166429011,EW1973,ET166433011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4917782.5287  Max: 4917782.5427
+--Eas Min: 1386114.3552  Max: 1386114.3593
+--Elv Min: 8.0921  Max: 8.0980
+--Nor Avg: 4917782.5351  SD: 0.0055
+--Eas Avg: 1386114.3571  SD: 0.0017
+--Elv Avg: 8.0955  SD: 0.0025
+--HRMS Avg: 0.0138 SD: 0.0002 Min: 0.0136 Max: 0.0141
+--VRMS Avg: 0.0188 SD: 0.0001 Min: 0.0187 Max: 0.0190
+--HDOP Avg: 1.0001  Min: 1.0001 Max: 1.0001
+--VDOP Avg: 1.4489 Min: 1.4489 Max: 1.4489
+--PDOP Avg: 1.7606 Min: 1.7606 Max: 1.7606
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+42.773,Right 0.00,1+42.773,Left 1.48,0.00,8.10,8.10,,SNDG,
+--CTSD1:XS27R/502,4917782.54,1386114.36,1.47,0.19,,,,,,
+--HSIG:0.014, VSIG:0.019, STATUS:FIXED, SATS:12, PDOP:1.761, HDOP:1.000, VDOP:1.449
+--DT10-31-2017
+--TM11:14:55
+GPS,PNXS27R/503,LA-45.513676718468,LN170.144079447281,EL7.988741,--SNDG
+--GS,PNXS27R/503,N 4917787.1282,E 1386114.2519,EL8.2320,--SNDG
+--GT,PNXS27R/503,SW1973,ST166459011,EW1973,ET166463010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4917787.1224  Max: 4917787.1320
+--Eas Min: 1386114.2452  Max: 1386114.2579
+--Elv Min: 8.2262  Max: 8.2346
+--Nor Avg: 4917787.1282  SD: 0.0037
+--Eas Avg: 1386114.2519  SD: 0.0059
+--Elv Avg: 8.2320  SD: 0.0034
+--HRMS Avg: 0.0135 SD: 0.0002 Min: 0.0134 Max: 0.0139
+--VRMS Avg: 0.0185 SD: 0.0001 Min: 0.0184 Max: 0.0187
+--HDOP Avg: 1.0007  Min: 1.0007 Max: 1.0007
+--VDOP Avg: 1.4531 Min: 1.4531 Max: 1.4531
+--PDOP Avg: 1.7644 Min: 1.7644 Max: 1.7644
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+38.232,Right 0.00,1+38.232,Left 0.78,0.00,8.23,8.23,,SNDG,
+--CTSD1:XS27R/503,4917787.13,1386114.25,0.77,0.10,,,,,,
+--HSIG:0.013, VSIG:0.018, STATUS:FIXED, SATS:12, PDOP:1.764, HDOP:1.001, VDOP:1.453
+--DT10-31-2017
+--TM11:15:25
+GPS,PNXS27R/504,LA-45.513662055603,LN170.144082186581,EL7.958484,--SNDG
+--GS,PNXS27R/504,N 4917791.6738,E 1386114.6863,EL8.2018,--SNDG
+--GT,PNXS27R/504,SW1973,ST166480010,EW1973,ET166484010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4917791.6625  Max: 4917791.6823
+--Eas Min: 1386114.6796  Max: 1386114.6893
+--Elv Min: 8.1950  Max: 8.2074
+--Nor Avg: 4917791.6738  SD: 0.0072
+--Eas Avg: 1386114.6863  SD: 0.0039
+--Elv Avg: 8.2018  SD: 0.0045
+--HRMS Avg: 0.0135 SD: 0.0002 Min: 0.0133 Max: 0.0138
+--VRMS Avg: 0.0185 SD: 0.0001 Min: 0.0185 Max: 0.0188
+--HDOP Avg: 1.0011  Min: 1.0011 Max: 1.0011
+--VDOP Avg: 1.4560 Min: 1.4560 Max: 1.4560
+--PDOP Avg: 1.7669 Min: 1.7669 Max: 1.7669
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+33.669,Right 0.00,1+33.669,Left 0.62,0.00,8.20,8.20,,SNDG,
+--CTSD1:XS27R/504,4917791.67,1386114.69,0.62,0.08,,,,,,
+--HSIG:0.013, VSIG:0.018, STATUS:FIXED, SATS:12, PDOP:1.767, HDOP:1.001, VDOP:1.456
+--DT10-31-2017
+--TM11:15:45
+GPS,PNXS27R/505,LA-45.513646015008,LN170.144083336194,EL7.887816,--SNDG
+--GS,PNXS27R/505,N 4917796.6327,E 1386114.7632,EL8.1311,--SNDG
+--GT,PNXS27R/505,SW1973,ST166501009,EW1973,ET166505009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4917796.6235  Max: 4917796.6391
+--Eas Min: 1386114.7603  Max: 1386114.7667
+--Elv Min: 8.1290  Max: 8.1327
+--Nor Avg: 4917796.6327  SD: 0.0057
+--Eas Avg: 1386114.7632  SD: 0.0025
+--Elv Avg: 8.1311  SD: 0.0016
+--HRMS Avg: 0.0132 SD: 0.0000 Min: 0.0132 Max: 0.0132
+--VRMS Avg: 0.0182 SD: 0.0000 Min: 0.0182 Max: 0.0182
+--HDOP Avg: 1.0015  Min: 1.0015 Max: 1.0016
+--VDOP Avg: 1.4590 Min: 1.4588 Max: 1.4596
+--PDOP Avg: 1.7696 Min: 1.7694 Max: 1.7702
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+28.742,Right 0.00,1+28.742,Left 0.06,0.00,8.13,8.13,,SNDG,
+--CTSD1:XS27R/505,4917796.63,1386114.76,0.06,0.01,,,,,,
+--HSIG:0.013, VSIG:0.018, STATUS:FIXED, SATS:12, PDOP:1.770, HDOP:1.002, VDOP:1.460
+--DT10-31-2017
+--TM11:16:06
+GPS,PNXS27R/506,LA-45.513632263586,LN170.144087847119,EL7.845839,--SNDG
+--GS,PNXS27R/506,N 4917800.9101,E 1386115.5893,EL8.0891,--SNDG
+--GT,PNXS27R/506,SW1973,ST166521009,EW1973,ET166525009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4917800.8924  Max: 4917800.9199
+--Eas Min: 1386115.5696  Max: 1386115.6043
+--Elv Min: 8.0869  Max: 8.0905
+--Nor Avg: 4917800.9101  SD: 0.0107
+--Eas Avg: 1386115.5893  SD: 0.0125
+--Elv Avg: 8.0891  SD: 0.0013
+--HRMS Avg: 0.0149 SD: 0.0001 Min: 0.0148 Max: 0.0150
+--VRMS Avg: 0.0207 SD: 0.0001 Min: 0.0205 Max: 0.0208
+--HDOP Avg: 1.2974  Min: 1.2968 Max: 1.2976
+--VDOP Avg: 1.5450 Min: 1.5450 Max: 1.5450
+--PDOP Avg: 2.0175 Min: 2.0171 Max: 2.0176
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+24.393,Right 0.00,1+24.393,Left 0.32,0.00,8.09,8.09,,SNDG,
+--CTSD1:XS27R/506,4917800.91,1386115.59,0.32,0.04,,,,,,
+--HSIG:0.015, VSIG:0.021, STATUS:FIXED, SATS:11, PDOP:2.017, HDOP:1.297, VDOP:1.545
+--DT10-31-2017
+--TM11:16:26
+GPS,PNXS27R/507,LA-45.513613800526,LN170.144091764694,EL7.944444,--SNDG
+--GS,PNXS27R/507,N 4917806.6372,E 1386116.2372,EL8.1877,--SNDG
+--GT,PNXS27R/507,SW1973,ST166537009,EW1973,ET166547009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4917806.5777  Max: 4917806.6812
+--Eas Min: 1386116.2243  Max: 1386116.2490
+--Elv Min: 8.1791  Max: 8.2020
+--Nor Avg: 4917806.6372  SD: 0.0400
+--Eas Avg: 1386116.2372  SD: 0.0088
+--Elv Avg: 8.1877  SD: 0.0088
+--HRMS Avg: 0.0161 SD: 0.0006 Min: 0.0152 Max: 0.0170
+--VRMS Avg: 0.0218 SD: 0.0003 Min: 0.0214 Max: 0.0224
+--HDOP Avg: 1.2947  Min: 1.2945 Max: 1.2955
+--VDOP Avg: 1.5453 Min: 1.5452 Max: 1.5453
+--PDOP Avg: 2.0160 Min: 2.0159 Max: 2.0164
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+18.631,Right 0.00,1+18.631,Left 0.23,0.00,8.19,8.19,,SNDG,
+--CTSD1:XS27R/507,4917806.64,1386116.24,0.22,0.03,,,,,,
+--HSIG:0.015, VSIG:0.021, STATUS:FIXED, SATS:11, PDOP:2.016, HDOP:1.294, VDOP:1.545
+--DT10-31-2017
+--TM11:16:47
+GPS,PNXS27R/508,LA-45.513606826784,LN170.144094239380,EL7.491949,--SNDG
+--GS,PNXS27R/508,N 4917808.8078,E 1386116.6965,EL7.7352,--SNDG
+--GT,PNXS27R/508,SW1973,ST166570008,EW1973,ET166574009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+16.419,Right 0.00,1+16.419,Left 0.40,0.00,7.74,7.74,,SNDG,
+--CTSD1:XS27R/508,4917808.81,1386116.70,0.40,0.05,,,,,,
+--HSIG:0.022, VSIG:0.030, STATUS:FIXED, SATS:10, PDOP:2.713, HDOP:2.105, VDOP:1.713
+--DT10-31-2017
+--TM11:17:25
+--DT10-31-2017
+--TM12:16:47
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:912235
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: \Program Files\SurvCE\TAIERI-2017-CS14-C54X.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+--RTK Method: RTCM V3.0, Device: Internal UHF
+--Entered HR: 2.0000, Slant
+LS,HR2.0180
+GPS,PNSPILL1,LA-45.520415895595,LN170.203770382379,EL23.653343,--G. St. SPILLWAY
+--GS,PNSPILL1,N 4917202.7909,E 1393838.2127,EL23.8966,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.022, STATUS:FIXED, SATS:16, PDOP:1.408, HDOP:0.702, VDOP:1.220
+--DT10-31-2017
+--TM12:16:53
+GPS,PNSPILL2,LA-45.520421926850,LN170.203720310984,EL23.885943,--G. St. SPILLWAY
+--GS,PNSPILL2,N 4917200.5701,E 1393827.4795,EL24.1292,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:16, PDOP:1.433, HDOP:0.707, VDOP:1.246
+--DT10-31-2017
+--TM12:18:21
+GPS,PNSPILL3,LA-45.520434121440,LN170.203675141964,EL23.602994,--G. St. SPILLWAY
+--GS,PNSPILL3,N 4917196.4824,E 1393817.8667,EL23.8463,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.434, HDOP:0.707, VDOP:1.247
+--DT10-31-2017
+--TM12:18:26
+GPS,PNSPILL4,LA-45.520448677599,LN170.203622805118,EL23.330743,--G. St. SPILLWAY
+--GS,PNSPILL4,N 4917191.6144,E 1393806.7328,EL23.5740,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.434, HDOP:0.707, VDOP:1.248
+--DT10-31-2017
+--TM12:18:30
+GPS,PNSPILL5,LA-45.520463974372,LN170.203567393431,EL23.101442,--G. St. SPILLWAY
+--GS,PNSPILL5,N 4917186.4958,E 1393794.9435,EL23.3447,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.016, VSIG:0.024, STATUS:FIXED, SATS:16, PDOP:1.434, HDOP:0.707, VDOP:1.248
+--DT10-31-2017
+--TM12:18:33
+GPS,PNSPILL6,LA-45.520479838638,LN170.203510178958,EL22.989652,--G. St. SPILLWAY
+--GS,PNSPILL6,N 4917181.1890,E 1393782.7715,EL23.2329,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.018, VSIG:0.025, STATUS:DGPS, SATS:16, PDOP:1.434, HDOP:0.707, VDOP:1.248
+--DT10-31-2017
+--TM12:18:38
+GPS,PNSPILL7,LA-45.520499102570,LN170.203442751453,EL22.807900,--G. St. SPILLWAY
+--GS,PNSPILL7,N 4917174.7597,E 1393768.4326,EL23.0512,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.439, HDOP:0.708, VDOP:1.253
+--DT10-31-2017
+--TM12:19:08
+GPS,PNSPILL8,LA-45.520474703855,LN170.203524467313,EL23.024990,--G. St. SPILLWAY
+--GS,PNSPILL8,N 4917182.8763,E 1393785.7992,EL23.2683,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:15, PDOP:1.471, HDOP:0.719, VDOP:1.283
+--DT10-31-2017
+--TM12:19:30
+GPS,PNSPILL9,LA-45.520488053983,LN170.203478268559,EL22.898387,--G. St. SPILLWAY
+--GS,PNSPILL9,N 4917178.4245,E 1393775.9763,EL23.1417,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.024, STATUS:FIXED, SATS:16, PDOP:1.447, HDOP:0.710, VDOP:1.261
+--DT10-31-2017
+--TM12:19:56
+GPS,PNSPILL10,LA-45.520500899896,LN170.203433915468,EL22.785134,--G. St. SPILLWAY
+--GS,PNSPILL10,N 4917174.1416,E 1393766.5461,EL23.0284,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.018, VSIG:0.025, STATUS:DGPS, SATS:16, PDOP:1.447, HDOP:0.710, VDOP:1.261
+--DT10-31-2017
+--TM12:20:01
+GPS,PNSPILL11,LA-45.520503483030,LN170.203425468053,EL22.773817,--G. St. SPILLWAY
+--GS,PNSPILL11,N 4917173.2837,E 1393764.7514,EL23.0171,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:16, PDOP:1.451, HDOP:0.711, VDOP:1.265
+--DT10-31-2017
+--TM12:20:22
+GPS,PNSPILL12,LA-45.520515721703,LN170.203381658574,EL22.677656,--G. St. SPILLWAY
+--GS,PNSPILL12,N 4917169.1921,E 1393755.4322,EL22.9210,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.456, HDOP:0.712, VDOP:1.270
+--DT10-31-2017
+--TM12:20:52
+GPS,PNSPILL13,LA-45.520530258808,LN170.203331416873,EL22.615927,--G. St. SPILLWAY
+--GS,PNSPILL13,N 4917164.3449,E 1393744.7499,EL22.8592,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.013, VSIG:0.022, STATUS:FIXED, SATS:16, PDOP:1.456, HDOP:0.712, VDOP:1.270
+--DT10-31-2017
+--TM12:20:57
+GPS,PNSPILL14,LA-45.520543484267,LN170.203286054445,EL22.528841,--G. St. SPILLWAY
+--GS,PNSPILL14,N 4917159.9376,E 1393735.1060,EL22.7721,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.024, STATUS:FIXED, SATS:16, PDOP:1.456, HDOP:0.712, VDOP:1.271
+--DT10-31-2017
+--TM12:21:01
+GPS,PNSPILL15,LA-45.520557044307,LN170.203238961284,EL22.429370,--G. St. SPILLWAY
+--GS,PNSPILL15,N 4917155.4145,E 1393725.0925,EL22.6727,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.013, VSIG:0.022, STATUS:FIXED, SATS:16, PDOP:1.458, HDOP:0.712, VDOP:1.272
+--DT10-31-2017
+--TM12:21:05
+GPS,PNSPILL16,LA-45.520570341076,LN170.203192113437,EL22.357058,--G. St. SPILLWAY
+--GS,PNSPILL16,N 4917150.9744,E 1393715.1291,EL22.6004,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.458, HDOP:0.712, VDOP:1.272
+--DT10-31-2017
+--TM12:21:09
+GPS,PNSPILL17,LA-45.520583993296,LN170.203145900808,EL22.188923,--G. St. SPILLWAY
+--GS,PNSPILL17,N 4917146.4292,E 1393705.3064,EL22.4322,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.017, VSIG:0.025, STATUS:DGPS, SATS:16, PDOP:1.458, HDOP:0.712, VDOP:1.272
+--DT10-31-2017
+--TM12:21:13
+GPS,PNSPILL18,LA-45.520607642375,LN170.203060011392,EL22.199772,--G. St. SPILLWAY
+--GS,PNSPILL18,N 4917138.5138,E 1393687.0324,EL22.4431,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:16, PDOP:1.458, HDOP:0.712, VDOP:1.272
+--DT10-31-2017
+--TM12:21:23
+GPS,PNSPILL19,LA-45.520595404250,LN170.203104657725,EL22.101096,--G. St. SPILLWAY
+--GS,PNSPILL19,N 4917142.6114,E 1393696.5320,EL22.3444,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.460, HDOP:0.713, VDOP:1.274
+--DT10-31-2017
+--TM12:21:32
+GPS,PNSPILL20,LA-45.520607821841,LN170.203057235849,EL22.206701,--G. St. SPILLWAY
+--GS,PNSPILL20,N 4917138.4385,E 1393686.4359,EL22.4500,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.463, HDOP:0.713, VDOP:1.277
+--DT10-31-2017
+--TM12:21:46
+GPS,PNSPILL21,LA-45.520622357108,LN170.203006975494,EL22.111619,--G. St. SPILLWAY
+--GS,PNSPILL21,N 4917133.5916,E 1393675.7496,EL22.3549,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.017, VSIG:0.025, STATUS:DGPS, SATS:16, PDOP:1.463, HDOP:0.713, VDOP:1.277
+--DT10-31-2017
+--TM12:21:51
+GPS,PNSPILL22,LA-45.520635033808,LN170.202962346818,EL22.067396,--G. St. SPILLWAY
+--GS,PNSPILL22,N 4917129.3588,E 1393666.2584,EL22.3107,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.465, HDOP:0.714, VDOP:1.280
+--DT10-31-2017
+--TM12:22:06
+GPS,PNSPILL23,LA-45.520648577786,LN170.202914198728,EL22.077986,--G. St. SPILLWAY
+--GS,PNSPILL23,N 4917124.8330,E 1393656.0174,EL22.3213,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.466, HDOP:0.714, VDOP:1.280
+--DT10-31-2017
+--TM12:22:11
+GPS,PNSPILL24,LA-45.520662963179,LN170.202865342309,EL22.018351,--G. St. SPILLWAY
+--GS,PNSPILL24,N 4917120.0424,E 1393645.6323,EL22.2616,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.467, HDOP:0.714, VDOP:1.281
+--DT10-31-2017
+--TM12:22:16
+GPS,PNSPILL25,LA-45.520677185049,LN170.202816189269,EL21.941038,--G. St. SPILLWAY
+--GS,PNSPILL25,N 4917115.3001,E 1393635.1816,EL22.1843,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.016, VSIG:0.024, STATUS:FIXED, SATS:16, PDOP:1.467, HDOP:0.714, VDOP:1.281
+--DT10-31-2017
+--TM12:22:21
+GPS,PNSPILL26,LA-45.520689779093,LN170.202772124639,EL21.879960,--G. St. SPILLWAY
+--GS,PNSPILL26,N 4917111.0968,E 1393625.8112,EL22.1233,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.469, HDOP:0.715, VDOP:1.283
+--DT10-31-2017
+--TM12:22:32
+GPS,PNSPILL27,LA-45.520701074466,LN170.202720326815,EL21.862694,--G. St. SPILLWAY
+--GS,PNSPILL27,N 4917107.2386,E 1393614.7602,EL22.1060,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.470, HDOP:0.715, VDOP:1.284
+--DT10-31-2017
+--TM12:22:37
+GPS,PNSPILL28,LA-45.520713907152,LN170.202673364357,EL21.918233,--G. St. SPILLWAY
+--GS,PNSPILL28,N 4917102.9408,E 1393604.7675,EL22.1615,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.016, VSIG:0.024, STATUS:FIXED, SATS:16, PDOP:1.470, HDOP:0.715, VDOP:1.284
+--DT10-31-2017
+--TM12:22:41
+GPS,PNSPILL29,LA-45.520727055073,LN170.202629739328,EL21.946615,--G. St. SPILLWAY
+--GS,PNSPILL29,N 4917098.5696,E 1393595.4976,EL22.1899,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.473, HDOP:0.716, VDOP:1.288
+--DT10-31-2017
+--TM12:23:09
+GPS,PNSPILL30,LA-45.520740569477,LN170.202586026429,EL21.884732,--G. St. SPILLWAY
+--GS,PNSPILL30,N 4917094.0847,E 1393586.2125,EL22.1280,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.017, VSIG:0.025, STATUS:DGPS, SATS:16, PDOP:1.473, HDOP:0.716, VDOP:1.288
+--DT10-31-2017
+--TM12:23:14
+GPS,PNSPILL31,LA-45.520753025560,LN170.202542986182,EL21.863143,--G. St. SPILLWAY
+--GS,PNSPILL31,N 4917089.9312,E 1393577.0616,EL22.1064,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.019, VSIG:0.026, STATUS:DGPS, SATS:16, PDOP:1.473, HDOP:0.716, VDOP:1.288
+--DT10-31-2017
+--TM12:23:18
+GPS,PNSPILL32,LA-45.520767032045,LN170.202498453071,EL21.786447,--G. St. SPILLWAY
+--GS,PNSPILL32,N 4917085.2885,E 1393567.6048,EL22.0297,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.024, STATUS:FIXED, SATS:16, PDOP:1.475, HDOP:0.716, VDOP:1.290
+--DT10-31-2017
+--TM12:23:28
+GPS,PNSPILL33,LA-45.520798903717,LN170.202394421381,EL21.626403,--G. St. SPILLWAY
+--GS,PNSPILL33,N 4917074.7046,E 1393545.5045,EL21.8697,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.017, VSIG:0.025, STATUS:DGPS, SATS:16, PDOP:1.476, HDOP:0.716, VDOP:1.291
+--DT10-31-2017
+--TM12:23:38
+GPS,PNSPILL34,LA-45.520799694459,LN170.202391908327,EL21.609243,--G. St. SPILLWAY
+--GS,PNSPILL34,N 4917074.4425,E 1393544.9709,EL21.8525,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.478, HDOP:0.717, VDOP:1.293
+--DT10-31-2017
+--TM12:23:48
+GPS,PNSPILL35,LA-45.520814447773,LN170.202344210922,EL21.518966,--G. St. SPILLWAY
+--GS,PNSPILL35,N 4917069.5466,E 1393534.8396,EL21.7623,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.479, HDOP:0.717, VDOP:1.294
+--DT10-31-2017
+--TM12:23:57
+GPS,PNSPILL36,LA-45.520826942793,LN170.202301245144,EL21.503547,--G. St. SPILLWAY
+--GS,PNSPILL36,N 4917065.3815,E 1393525.7052,EL21.7468,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.016, VSIG:0.024, STATUS:FIXED, SATS:16, PDOP:1.479, HDOP:0.717, VDOP:1.294
+--DT10-31-2017
+--TM12:24:01
+GPS,PNSPILL37,LA-45.520841745328,LN170.202249627821,EL21.460584,--G. St. SPILLWAY
+--GS,PNSPILL37,N 4917060.4421,E 1393514.7294,EL21.7039,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:16, PDOP:1.480, HDOP:0.717, VDOP:1.295
+--DT10-31-2017
+--TM12:24:06
+GPS,PNSPILL38,LA-45.520856226749,LN170.202199162717,EL21.413265,--G. St. SPILLWAY
+--GS,PNSPILL38,N 4917055.6101,E 1393503.9987,EL21.6566,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.024, STATUS:FIXED, SATS:16, PDOP:1.480, HDOP:0.717, VDOP:1.295
+--DT10-31-2017
+--TM12:24:11
+GPS,PNSPILL39,LA-45.520870496083,LN170.202151127500,EL21.322457,--G. St. SPILLWAY
+--GS,PNSPILL39,N 4917050.8610,E 1393493.7896,EL21.5658,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:16, PDOP:1.481, HDOP:0.718, VDOP:1.296
+--DT10-31-2017
+--TM12:24:16
+GPS,PNSPILL40,LA-45.520885018810,LN170.202103249756,EL21.321483,--G. St. SPILLWAY
+--GS,PNSPILL40,N 4917046.0348,E 1393483.6172,EL21.5648,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:16, PDOP:1.482, HDOP:0.718, VDOP:1.296
+--DT10-31-2017
+--TM12:24:21
+GPS,PNSPILL41,LA-45.520899569517,LN170.202054242744,EL21.300886,--G. St. SPILLWAY
+--GS,PNSPILL41,N 4917041.1918,E 1393473.2016,EL21.5442,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.482, HDOP:0.718, VDOP:1.297
+--DT10-31-2017
+--TM12:24:26
+GPS,PNSPILL42,LA-45.520914336745,LN170.202001813498,EL21.277522,--G. St. SPILLWAY
+--GS,PNSPILL42,N 4917036.2574,E 1393462.0504,EL21.5208,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.483, HDOP:0.718, VDOP:1.298
+--DT10-31-2017
+--TM12:24:30
+GPS,PNSPILL43,LA-45.520926690598,LN170.201958946357,EL21.321699,--G. St. SPILLWAY
+--GS,PNSPILL43,N 4917032.1365,E 1393452.9359,EL21.5650,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.024, STATUS:FIXED, SATS:16, PDOP:1.483, HDOP:0.718, VDOP:1.298
+--DT10-31-2017
+--TM12:24:35
+GPS,PNSPILL44,LA-45.520940418489,LN170.201912479532,EL21.224368,--G. St. SPILLWAY
+--GS,PNSPILL44,N 4917027.5657,E 1393443.0596,EL21.4677,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.017, VSIG:0.025, STATUS:DGPS, SATS:16, PDOP:1.483, HDOP:0.718, VDOP:1.298
+--DT10-31-2017
+--TM12:24:39
+GPS,PNSPILL45,LA-45.520944450837,LN170.201900308198,EL21.211629,--G. St. SPILLWAY
+--GS,PNSPILL45,N 4917026.2337,E 1393440.4771,EL21.4549,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:16, PDOP:1.485, HDOP:0.719, VDOP:1.299
+--DT10-31-2017
+--TM12:24:47
+GPS,PNSPILL46,LA-45.520959655782,LN170.201845250053,EL21.205472,--G. St. SPILLWAY
+--GS,PNSPILL46,N 4917021.1452,E 1393428.7637,EL21.4488,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:16, PDOP:1.486, HDOP:0.719, VDOP:1.300
+--DT10-31-2017
+--TM12:24:56
+GPS,PNSPILL47,LA-45.520973126144,LN170.201799708019,EL21.144774,--G. St. SPILLWAY
+--GS,PNSPILL47,N 4917016.6605,E 1393419.0841,EL21.3881,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.016, VSIG:0.024, STATUS:FIXED, SATS:16, PDOP:1.486, HDOP:0.719, VDOP:1.300
+--DT10-31-2017
+--TM12:25:00
+GPS,PNSPILL48,LA-45.520986128143,LN170.201756722866,EL21.146754,--G. St. SPILLWAY
+--GS,PNSPILL48,N 4917012.3387,E 1393409.9509,EL21.3900,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.018, VSIG:0.025, STATUS:DGPS, SATS:16, PDOP:1.486, HDOP:0.719, VDOP:1.300
+--DT10-31-2017
+--TM12:25:03
+GPS,PNSPILL49,LA-45.520986688193,LN170.201754554855,EL21.147268,--G. St. SPILLWAY
+--GS,PNSPILL49,N 4917012.1502,E 1393409.4892,EL21.3906,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:15, PDOP:1.558, HDOP:0.749, VDOP:1.366
+--DT10-31-2017
+--TM12:25:10
+GPS,PNSPILL50,LA-45.521006223131,LN170.201687563536,EL21.122702,--G. St. SPILLWAY
+--GS,PNSPILL50,N 4917005.6395,E 1393395.2479,EL21.3660,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.559, HDOP:0.750, VDOP:1.367
+--DT10-31-2017
+--TM12:25:23
+GPS,PNSPILL51,LA-45.521019487208,LN170.201641980386,EL21.125863,--G. St. SPILLWAY
+--GS,PNSPILL51,N 4917001.2181,E 1393385.5573,EL21.3692,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.569, HDOP:0.768, VDOP:1.368
+--DT10-31-2017
+--TM12:25:28
+GPS,PNX_SECT27S,LA-45.521026211911,LN170.201618884677,EL21.101664,--G. St. SPILLWAY
+--GS,PNX_SECT27S,N 4916998.9766,E 1393380.6474,EL21.3450,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.604, HDOP:0.729, VDOP:1.429
+--DT10-31-2017
+--TM12:26:26
+GPS,PNSPILL52,LA-45.521026160762,LN170.201618729546,EL21.113194,--G. St. SPILLWAY
+--GS,PNSPILL52,N 4916998.9913,E 1393380.6134,EL21.3565,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.616, HDOP:0.730, VDOP:1.442
+--DT10-31-2017
+--TM12:26:46
+GPS,PNSPILL53,LA-45.521041414002,LN170.201568534082,EL21.095016,--G. St. SPILLWAY
+--GS,PNSPILL53,N 4916993.9228,E 1393369.9490,EL21.3383,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.618, HDOP:0.730, VDOP:1.444
+--DT10-31-2017
+--TM12:27:01
+GPS,PNSPILL54,LA-45.521055319876,LN170.201521176365,EL21.078418,--G. St. SPILLWAY
+--GS,PNSPILL54,N 4916989.2905,E 1393359.8825,EL21.3217,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.619, HDOP:0.730, VDOP:1.445
+--DT10-31-2017
+--TM12:27:05
+GPS,PNSPILL55,LA-45.521069238792,LN170.201472266320,EL21.008758,--G. St. SPILLWAY
+--GS,PNSPILL55,N 4916984.6429,E 1393349.4815,EL21.2521,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.620, HDOP:0.730, VDOP:1.446
+--DT10-31-2017
+--TM12:27:09
+GPS,PNSPILL56,LA-45.521083260176,LN170.201423058769,EL20.936501,--G. St. SPILLWAY
+--GS,PNSPILL56,N 4916979.9616,E 1393339.0174,EL21.1798,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.620, HDOP:0.730, VDOP:1.446
+--DT10-31-2017
+--TM12:27:12
+GPS,PNSPILL57,LA-45.521095724780,LN170.201379330825,EL20.987192,--G. St. SPILLWAY
+--GS,PNSPILL57,N 4916975.8002,E 1393329.7186,EL21.2305,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.621, HDOP:0.730, VDOP:1.447
+--DT10-31-2017
+--TM12:27:17
+GPS,PNSPILL58,LA-45.521111043572,LN170.201326833627,EL20.964442,--G. St. SPILLWAY
+--GS,PNSPILL58,N 4916970.6948,E 1393318.5587,EL21.2077,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.622, HDOP:0.730, VDOP:1.448
+--DT10-31-2017
+--TM12:27:22
+GPS,PNSPILL59,LA-45.521123684426,LN170.201281532317,EL20.970088,--G. St. SPILLWAY
+--GS,PNSPILL59,N 4916966.4676,E 1393308.9226,EL21.2134,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.623, HDOP:0.731, VDOP:1.449
+--DT10-31-2017
+--TM12:27:25
+GPS,PNSPILL60,LA-45.521136676023,LN170.201234556100,EL20.884836,--G. St. SPILLWAY
+--GS,PNSPILL60,N 4916962.1201,E 1393298.9290,EL21.1281,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.623, HDOP:0.731, VDOP:1.450
+--DT10-31-2017
+--TM12:27:30
+GPS,PNSPILL61,LA-45.521149506856,LN170.201189158990,EL20.889793,--G. St. SPILLWAY
+--GS,PNSPILL61,N 4916957.8336,E 1393289.2742,EL21.1331,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.633, HDOP:0.750, VDOP:1.451
+--DT10-31-2017
+--TM12:27:34
+GPS,PNSPILL62,LA-45.521162734522,LN170.201141988825,EL20.877552,--G. St. SPILLWAY
+--GS,PNSPILL62,N 4916953.4118,E 1393279.2412,EL21.1208,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:14, PDOP:1.633, HDOP:0.750, VDOP:1.451
+--DT10-31-2017
+--TM12:27:38
+GPS,PNSPILL63,LA-45.521175717566,LN170.201097323788,EL20.835271,--G. St. SPILLWAY
+--GS,PNSPILL63,N 4916949.0835,E 1393269.7458,EL21.0786,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.625, HDOP:0.731, VDOP:1.452
+--DT10-31-2017
+--TM12:27:42
+GPS,PNSPILL64,LA-45.521188819350,LN170.201052440973,EL20.804921,--G. St. SPILLWAY
+--GS,PNSPILL64,N 4916944.7170,E 1393260.2047,EL21.0482,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.625, HDOP:0.731, VDOP:1.452
+--DT10-31-2017
+--TM12:27:45
+GPS,PNSPILL65,LA-45.521202795260,LN170.201003356308,EL20.709564,--G. St. SPILLWAY
+--GS,PNSPILL65,N 4916940.0505,E 1393249.7668,EL20.9529,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.626, HDOP:0.731, VDOP:1.453
+--DT10-31-2017
+--TM12:27:50
+GPS,PNSPILL66,LA-45.521216752967,LN170.200952401275,EL20.728587,--G. St. SPILLWAY
+--GS,PNSPILL66,N 4916935.3761,E 1393238.9255,EL20.9719,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.627, HDOP:0.731, VDOP:1.454
+--DT10-31-2017
+--TM12:27:54
+GPS,PNSPILL67,LA-45.521230891376,LN170.200905152046,EL20.642480,--G. St. SPILLWAY
+--GS,PNSPILL67,N 4916930.6726,E 1393228.8849,EL20.8858,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.017, VSIG:0.025, STATUS:FIXED, SATS:15, PDOP:1.627, HDOP:0.731, VDOP:1.454
+--DT10-31-2017
+--TM12:27:58
+GPS,PNSPILL68,LA-45.521244385924,LN170.200860592441,EL20.585937,--G. St. SPILLWAY
+--GS,PNSPILL68,N 4916926.1872,E 1393219.4176,EL20.8292,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:15, PDOP:1.627, HDOP:0.731, VDOP:1.454
+--DT10-31-2017
+--TM12:28:03
+GPS,PNSPILL69,LA-45.521244185808,LN170.200860275846,EL20.581197,--G. St. SPILLWAY
+--GS,PNSPILL69,N 4916926.2466,E 1393219.3473,EL20.8245,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:15, PDOP:1.631, HDOP:0.731, VDOP:1.457
+--DT10-31-2017
+--TM12:28:15
+GPS,PNSPILL70,LA-45.521259270893,LN170.200805788633,EL20.587950,--G. St. SPILLWAY
+--GS,PNSPILL70,N 4916921.1988,E 1393207.7561,EL20.8312,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.632, HDOP:0.731, VDOP:1.459
+--DT10-31-2017
+--TM12:28:24
+GPS,PNSPILL71,LA-45.521273920246,LN170.200757549549,EL20.566603,--G. St. SPILLWAY
+--GS,PNSPILL71,N 4916916.3305,E 1393197.5075,EL20.8099,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.633, HDOP:0.731, VDOP:1.460
+--DT10-31-2017
+--TM12:28:29
+GPS,PNSPILL72,LA-45.521289409333,LN170.200707090618,EL20.495901,--G. St. SPILLWAY
+--GS,PNSPILL72,N 4916911.1869,E 1393186.7890,EL20.7392,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.633, HDOP:0.731, VDOP:1.460
+--DT10-31-2017
+--TM12:28:32
+GPS,PNSPILL73,LA-45.521304444582,LN170.200655926199,EL20.457553,--G. St. SPILLWAY
+--GS,PNSPILL73,N 4916906.1784,E 1393175.9137,EL20.7008,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.017, VSIG:0.026, STATUS:DGPS, SATS:15, PDOP:1.633, HDOP:0.731, VDOP:1.460
+--DT10-31-2017
+--TM12:28:37
+GPS,PNSPILL74,LA-45.521318230606,LN170.200606276528,EL20.518982,--G. St. SPILLWAY
+--GS,PNSPILL74,N 4916901.5662,E 1393165.3521,EL20.7623,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.633, HDOP:0.731, VDOP:1.460
+--DT10-31-2017
+--TM12:28:41
+GPS,PNSPILL75,LA-45.521331095200,LN170.200559541485,EL20.483989,--G. St. SPILLWAY
+--GS,PNSPILL75,N 4916897.2594,E 1393155.4094,EL20.7273,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.636, HDOP:0.732, VDOP:1.464
+--DT10-31-2017
+--TM12:28:58
+GPS,PNSPILL76,LA-45.521344731513,LN170.200509722047,EL20.416545,--G. St. SPILLWAY
+--GS,PNSPILL76,N 4916892.6922,E 1393144.8097,EL20.6598,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.637, HDOP:0.732, VDOP:1.464
+--DT10-31-2017
+--TM12:29:01
+GPS,PNSPILL77,LA-45.521359784575,LN170.200459391116,EL20.468114,--G. St. SPILLWAY
+--GS,PNSPILL77,N 4916887.6841,E 1393134.1144,EL20.7114,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.017, VSIG:0.026, STATUS:DGPS, SATS:15, PDOP:1.637, HDOP:0.732, VDOP:1.464
+--DT10-31-2017
+--TM12:29:07
+GPS,PNSPILL78,LA-45.521372942056,LN170.200415341793,EL20.429071,--G. St. SPILLWAY
+--GS,PNSPILL78,N 4916883.3062,E 1393124.7537,EL20.6724,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.639, HDOP:0.732, VDOP:1.466
+--DT10-31-2017
+--TM12:29:12
+GPS,PNSPILL79,LA-45.521388584313,LN170.200366314258,EL20.299949,--G. St. SPILLWAY
+--GS,PNSPILL79,N 4916878.1256,E 1393114.3455,EL20.5432,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.639, HDOP:0.732, VDOP:1.466
+--DT10-31-2017
+--TM12:29:18
+GPS,PNSPILL80,LA-45.521409658098,LN170.200292826198,EL20.270308,--G. St. SPILLWAY
+--GS,PNSPILL80,N 4916871.0925,E 1393098.7200,EL20.5136,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.640, HDOP:0.732, VDOP:1.468
+--DT10-31-2017
+--TM12:29:24
+GPS,PNSPILL81,LA-45.521417399318,LN170.200268056666,EL20.293817,--G. St. SPILLWAY
+--GS,PNSPILL81,N 4916868.5249,E 1393093.4599,EL20.5371,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.641, HDOP:0.732, VDOP:1.469
+--DT10-31-2017
+--TM12:29:33
+GPS,PNSPILL82,LA-45.521432026788,LN170.200215575935,EL20.253999,--G. St. SPILLWAY
+--GS,PNSPILL82,N 4916863.6326,E 1393082.2968,EL20.4973,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.643, HDOP:0.732, VDOP:1.470
+--DT10-31-2017
+--TM12:29:41
+GPS,PNSPILL83,LA-45.521443715892,LN170.200171952741,EL20.270443,--G. St. SPILLWAY
+--GS,PNSPILL83,N 4916859.7108,E 1393073.0129,EL20.5137,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.643, HDOP:0.732, VDOP:1.470
+--DT10-31-2017
+--TM12:29:45
+GPS,PNSPILL84,LA-45.521459905749,LN170.200120050412,EL20.188138,--G. St. SPILLWAY
+--GS,PNSPILL84,N 4916854.3404,E 1393061.9907,EL20.4314,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.644, HDOP:0.733, VDOP:1.472
+--DT10-31-2017
+--TM12:29:50
+GPS,PNSPILL85,LA-45.521472073225,LN170.200076655687,EL20.162560,--G. St. SPILLWAY
+--GS,PNSPILL85,N 4916850.2727,E 1393052.7610,EL20.4059,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.644, HDOP:0.733, VDOP:1.472
+--DT10-31-2017
+--TM12:29:54
+GPS,PNSPILL86,LA-45.521484739650,LN170.200031868556,EL20.121345,--G. St. SPILLWAY
+--GS,PNSPILL86,N 4916846.0409,E 1393043.2363,EL20.3646,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.644, HDOP:0.733, VDOP:1.472
+--DT10-31-2017
+--TM12:29:58
+GPS,PNSPILL87,LA-45.521499097583,LN170.195979262404,EL20.132572,--G. St. SPILLWAY
+--GS,PNSPILL87,N 4916841.2307,E 1393032.0435,EL20.3759,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.645, HDOP:0.733, VDOP:1.473
+--DT10-31-2017
+--TM12:30:03
+GPS,PNSPILL88,LA-45.521512334469,LN170.195930516902,EL20.076909,--G. St. SPILLWAY
+--GS,PNSPILL88,N 4916836.7943,E 1393021.6714,EL20.3202,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.645, HDOP:0.733, VDOP:1.473
+--DT10-31-2017
+--TM12:30:08
+GPS,PNSPILL89,LA-45.521522850171,LN170.195885458523,EL20.083664,--G. St. SPILLWAY
+--GS,PNSPILL89,N 4916833.2242,E 1393012.0661,EL20.3270,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.025, STATUS:FIXED, SATS:15, PDOP:1.646, HDOP:0.733, VDOP:1.474
+--DT10-31-2017
+--TM12:30:12
+GPS,PNSPILL90,LA-45.521533367132,LN170.195834459659,EL20.042434,--G. St. SPILLWAY
+--GS,PNSPILL90,N 4916829.6109,E 1393001.1801,EL20.2857,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.646, HDOP:0.733, VDOP:1.474
+--DT10-31-2017
+--TM12:30:16
+GPS,PNSPILL91,LA-45.521541526709,LN170.195783606373,EL20.067099,--G. St. SPILLWAY
+--GS,PNSPILL91,N 4916826.7262,E 1392990.3013,EL20.3104,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.025, STATUS:FIXED, SATS:15, PDOP:1.647, HDOP:0.733, VDOP:1.475
+--DT10-31-2017
+--TM12:30:20
+GPS,PNSPILL92,LA-45.521549403353,LN170.195735509137,EL19.971918,--G. St. SPILLWAY
+--GS,PNSPILL92,N 4916823.9486,E 1392980.0136,EL20.2152,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.017, VSIG:0.026, STATUS:DGPS, SATS:15, PDOP:1.647, HDOP:0.733, VDOP:1.475
+--DT10-31-2017
+--TM12:30:24
+GPS,PNSPILL93,LA-45.521557255932,LN170.195684664738,EL19.953938,--G. St. SPILLWAY
+--GS,PNSPILL93,N 4916821.1587,E 1392969.1335,EL20.1972,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.649, HDOP:0.733, VDOP:1.477
+--DT10-31-2017
+--TM12:30:37
+GPS,PNSPILL94,LA-45.521563010621,LN170.195634282119,EL19.968343,--G. St. SPILLWAY
+--GS,PNSPILL94,N 4916819.0194,E 1392958.3313,EL20.2116,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.650, HDOP:0.733, VDOP:1.478
+--DT10-31-2017
+--TM12:30:41
+GPS,PNSPILL95,LA-45.521567860152,LN170.195578682628,EL19.929846,--G. St. SPILLWAY
+--GS,PNSPILL95,N 4916817.1219,E 1392946.3951,EL20.1731,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.650, HDOP:0.733, VDOP:1.478
+--DT10-31-2017
+--TM12:30:44
+GPS,PNSPILL96,LA-45.521571017168,LN170.195526165408,EL19.917941,--G. St. SPILLWAY
+--GS,PNSPILL96,N 4916815.7690,E 1392935.1059,EL20.1612,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.016, VSIG:0.025, STATUS:FIXED, SATS:15, PDOP:1.650, HDOP:0.733, VDOP:1.478
+--DT10-31-2017
+--TM12:30:49
+GPS,PNSPILL97,LA-45.521573053492,LN170.195478132022,EL19.905771,--G. St. SPILLWAY
+--GS,PNSPILL97,N 4916814.7942,E 1392924.7718,EL20.1491,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.018, VSIG:0.026, STATUS:DGPS, SATS:15, PDOP:1.650, HDOP:0.733, VDOP:1.478
+--DT10-31-2017
+--TM12:30:53
+GPS,PNSPILL98,LA-45.521573089378,LN170.195476348647,EL19.928086,--G. St. SPILLWAY
+--GS,PNSPILL98,N 4916814.7702,E 1392924.3877,EL20.1714,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.650, HDOP:0.733, VDOP:1.478
+--DT10-31-2017
+--TM12:31:08
+GPS,PNSPILL99,LA-45.521573649562,LN170.195421079350,EL19.907951,--G. St. SPILLWAY
+--GS,PNSPILL99,N 4916814.1988,E 1392912.4784,EL20.1512,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.654, HDOP:0.734, VDOP:1.482
+--DT10-31-2017
+--TM12:31:16
+GPS,PNSPILL100,LA-45.521573756641,LN170.195365306489,EL19.818368,--G. St. SPILLWAY
+--GS,PNSPILL100,N 4916813.7635,E 1392900.4559,EL20.0617,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.654, HDOP:0.734, VDOP:1.483
+--DT10-31-2017
+--TM12:31:20
+GPS,PNSPILL101,LA-45.521572434725,LN170.195312873197,EL19.827788,--G. St. SPILLWAY
+--GS,PNSPILL101,N 4916813.7933,E 1392889.1386,EL20.0711,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.016, VSIG:0.025, STATUS:FIXED, SATS:15, PDOP:1.654, HDOP:0.734, VDOP:1.483
+--DT10-31-2017
+--TM12:31:24
+GPS,PNSPILL102,LA-45.521571848658,LN170.195265066215,EL19.734531,--G. St. SPILLWAY
+--GS,PNSPILL102,N 4916813.6294,E 1392878.8262,EL19.9778,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.018, VSIG:0.026, STATUS:DGPS, SATS:15, PDOP:1.654, HDOP:0.734, VDOP:1.483
+--DT10-31-2017
+--TM12:31:28
+GPS,PNSPILL103,LA-45.521571786994,LN170.195253588127,EL19.764447,--G. St. SPILLWAY
+--GS,PNSPILL103,N 4916813.5656,E 1392876.3511,EL20.0077,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.656, HDOP:0.734, VDOP:1.484
+--DT10-31-2017
+--TM12:31:36
+GPS,PNSPILL104,LA-45.521571391919,LN170.195200817926,EL19.789344,--G. St. SPILLWAY
+--GS,PNSPILL104,N 4916813.3069,E 1392864.9707,EL20.0326,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.657, HDOP:0.734, VDOP:1.485
+--DT10-31-2017
+--TM12:31:44
+GPS,PNSPILL105,LA-45.521570280006,LN170.195144924607,EL19.769540,--G. St. SPILLWAY
+--GS,PNSPILL105,N 4916813.2469,E 1392852.9096,EL20.0128,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.657, HDOP:0.734, VDOP:1.485
+--DT10-31-2017
+--TM12:31:48
+GPS,PNSPILL106,LA-45.521569996532,LN170.195089307665,EL19.735231,--G. St. SPILLWAY
+--GS,PNSPILL106,N 4916812.9332,E 1392840.9167,EL19.9785,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:14, PDOP:1.886, HDOP:0.770, VDOP:1.722
+--DT10-31-2017
+--TM12:31:52
+GPS,PNSPILL107,LA-45.521572185213,LN170.195036383578,EL19.662241,--G. St. SPILLWAY
+--GS,PNSPILL107,N 4916811.8759,E 1392829.5298,EL19.9055,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.887, HDOP:0.770, VDOP:1.723
+--DT10-31-2017
+--TM12:31:55
+GPS,PNSPILL108,LA-45.521574331296,LN170.194980878230,EL19.663490,--G. St. SPILLWAY
+--GS,PNSPILL108,N 4916810.8132,E 1392817.5860,EL19.9068,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.015, VSIG:0.024, STATUS:FIXED, SATS:14, PDOP:1.887, HDOP:0.770, VDOP:1.723
+--DT10-31-2017
+--TM12:32:00
+GPS,PNSPILL109,LA-45.521576315511,LN170.194922906634,EL19.677387,--G. St. SPILLWAY
+--GS,PNSPILL109,N 4916809.7825,E 1392805.1089,EL19.9207,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:15, PDOP:1.659, HDOP:0.734, VDOP:1.487
+--DT10-31-2017
+--TM12:32:04
+GPS,PNSPILL110,LA-45.521578080014,LN170.194866060080,EL19.664966,--G. St. SPILLWAY
+--GS,PNSPILL110,N 4916808.8278,E 1392792.8720,EL19.9083,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:15, PDOP:1.659, HDOP:0.734, VDOP:1.487
+--DT10-31-2017
+--TM12:32:07
+GPS,PNSPILL111,LA-45.521581119868,LN170.194814561023,EL19.501174,--G. St. SPILLWAY
+--GS,PNSPILL111,N 4916807.5181,E 1392781.8011,EL19.7445,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.659, HDOP:0.734, VDOP:1.488
+--DT10-31-2017
+--TM12:32:12
+GPS,PNSPILL112,LA-45.521583015680,LN170.194762610765,EL19.526171,--G. St. SPILLWAY
+--GS,PNSPILL112,N 4916806.5581,E 1392770.6212,EL19.7695,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.659, HDOP:0.734, VDOP:1.488
+--DT10-31-2017
+--TM12:32:16
+GPS,PNSPILL113,LA-45.521584778030,LN170.194705023498,EL19.516471,--G. St. SPILLWAY
+--GS,PNSPILL113,N 4916805.5986,E 1392758.2246,EL19.7598,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.660, HDOP:0.734, VDOP:1.489
+--DT10-31-2017
+--TM12:32:20
+GPS,PNSPILL114,LA-45.521586214496,LN170.194647655706,EL19.490077,--G. St. SPILLWAY
+--GS,PNSPILL114,N 4916804.7413,E 1392745.8720,EL19.7334,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.016, VSIG:0.024, STATUS:FIXED, SATS:15, PDOP:1.660, HDOP:0.734, VDOP:1.489
+--DT10-31-2017
+--TM12:32:24
+GPS,PNSPILL115,LA-45.521588788409,LN170.194593871410,EL19.445987,--G. St. SPILLWAY
+--GS,PNSPILL115,N 4916803.5588,E 1392734.3037,EL19.6893,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.660, HDOP:0.734, VDOP:1.489
+--DT10-31-2017
+--TM12:32:27
+GPS,PNSPILL116,LA-45.521590917159,LN170.194542424214,EL19.389872,--G. St. SPILLWAY
+--GS,PNSPILL116,N 4916802.5305,E 1392723.2346,EL19.6332,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.011, VSIG:0.022, STATUS:FIXED, SATS:15, PDOP:1.661, HDOP:0.734, VDOP:1.489
+--DT10-31-2017
+--TM12:32:32
+GPS,PNSPILL117,LA-45.521593598708,LN170.194491047769,EL19.349959,--G. St. SPILLWAY
+--GS,PNSPILL117,N 4916801.3321,E 1392712.1865,EL19.5933,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:15, PDOP:1.661, HDOP:0.734, VDOP:1.490
+--DT10-31-2017
+--TM12:32:36
+GPS,PNSPILL118,LA-45.521596378710,LN170.194443723288,EL19.314474,--G. St. SPILLWAY
+--GS,PNSPILL118,N 4916800.1325,E 1392702.0129,EL19.5578,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.016, VSIG:0.025, STATUS:FIXED, SATS:15, PDOP:1.661, HDOP:0.734, VDOP:1.490
+--DT10-31-2017
+--TM12:32:39
+GPS,PNSPILL119,LA-45.521597992594,LN170.194393127393,EL19.243552,--G. St. SPILLWAY
+--GS,PNSPILL119,N 4916799.2692,E 1392691.1220,EL19.4868,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.024, VSIG:0.032, STATUS:FIXED, SATS:12, PDOP:2.054, HDOP:1.063, VDOP:1.757
+--DT10-31-2017
+--TM12:32:45
+GPS,PNSPILL120,LA-45.521599033662,LN170.194343885332,EL19.251230,--G. St. SPILLWAY
+--GS,PNSPILL120,N 4916798.5924,E 1392680.5171,EL19.4945,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.024, VSIG:0.035, STATUS:FIXED, SATS:10, PDOP:2.608, HDOP:1.757, VDOP:1.927
+--DT10-31-2017
+--TM12:32:54
+GPS,PNSPILL121,LA-45.521600842502,LN170.194288964282,EL19.179233,--G. St. SPILLWAY
+--GS,PNSPILL121,N 4916797.6376,E 1392668.6958,EL19.4225,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.027, VSIG:0.036, STATUS:FIXED, SATS:10, PDOP:2.610, HDOP:1.759, VDOP:1.928
+--DT10-31-2017
+--TM12:33:01
+GPS,PNSPILL122,LA-45.521602921916,LN170.194209080570,EL19.100951,--G. St. SPILLWAY
+--GS,PNSPILL122,N 4916796.4191,E 1392651.4958,EL19.3442,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.029, VSIG:0.036, STATUS:FIXED, SATS:10, PDOP:2.611, HDOP:1.760, VDOP:1.928
+--DT10-31-2017
+--TM12:33:08
+GPS,PNSPILL123,LA-45.521603910159,LN170.194207296115,EL19.103823,--G. St. SPILLWAY
+--GS,PNSPILL123,N 4916796.1013,E 1392651.1214,EL19.3471,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.022, VSIG:0.036, STATUS:FIXED, SATS:12, PDOP:2.065, HDOP:1.070, VDOP:1.766
+--DT10-31-2017
+--TM12:33:33
+GPS,PNSPILL124,LA-45.521605294140,LN170.194183114177,EL19.203649,--G. St. SPILLWAY
+--GS,PNSPILL124,N 4916795.4995,E 1392645.9225,EL19.4469,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.021, VSIG:0.035, STATUS:FIXED, SATS:12, PDOP:2.072, HDOP:1.075, VDOP:1.771
+--DT10-31-2017
+--TM12:34:02
+GPS,PNSPILL125,LA-45.521607245018,LN170.194133024489,EL19.210565,--G. St. SPILLWAY
+--GS,PNSPILL125,N 4916794.5358,E 1392635.1442,EL19.4539,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.023, VSIG:0.029, STATUS:FIXED, SATS:10, PDOP:2.641, HDOP:1.792, VDOP:1.939
+--DT10-31-2017
+--TM12:34:11
+GPS,PNSPILL126,LA-45.521610069961,LN170.194083108936,EL19.091802,--G. St. SPILLWAY
+--GS,PNSPILL126,N 4916793.3035,E 1392624.4126,EL19.3351,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.018, VSIG:0.027, STATUS:FIXED, SATS:11, PDOP:2.641, HDOP:1.792, VDOP:1.939
+--DT10-31-2017
+--TM12:34:18
+GPS,PNSPILL127,LA-45.521612714138,LN170.194027311118,EL18.981708,--G. St. SPILLWAY
+--GS,PNSPILL127,N 4916792.0845,E 1392612.4109,EL19.2250,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.024, VSIG:0.031, STATUS:FIXED, SATS:11, PDOP:2.435, HDOP:1.471, VDOP:1.940
+--DT10-31-2017
+--TM12:34:23
+GPS,PNSPILL128,LA-45.521615120053,LN170.193980184019,EL19.058109,--G. St. SPILLWAY
+--GS,PNSPILL128,N 4916791.0016,E 1392602.2760,EL19.3014,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.027, VSIG:0.034, STATUS:DGPS, SATS:11, PDOP:2.435, HDOP:1.471, VDOP:1.940
+--DT10-31-2017
+--TM12:34:29
+GPS,PNSPILL129,LA-45.521615657364,LN170.193970250347,EL19.016594,--G. St. SPILLWAY
+--GS,PNSPILL129,N 4916790.7641,E 1392600.1401,EL19.2599,--G. St. SPILLWAY
+--Nor Min: 4917808.8021  Max: 4917808.8134
+--Eas Min: 1386116.6862  Max: 1386116.7071
+--Elv Min: 7.7317  Max: 7.7388
+--Nor Avg: 4917808.8078  SD: 0.0041
+--Eas Avg: 1386116.6965  SD: 0.0077
+--Elv Avg: 7.7352  SD: 0.0033
+--HRMS Avg: 0.0210 SD: 0.0015 Min: 0.0189 Max: 0.0229
+--VRMS Avg: 0.0279 SD: 0.0013 Min: 0.0260 Max: 0.0297
+--HDOP Avg: 2.1046  Min: 2.1046 Max: 2.1046
+--VDOP Avg: 1.7125 Min: 1.7125 Max: 1.7125
+--PDOP Avg: 2.7133 Min: 2.7133 Max: 2.7133
+--Number of Satellites Avg: 10 Min: 10 Max: 10
+--HSIG:0.011, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.810, HDOP:0.808, VDOP:1.620
+--DT10-31-2017
+--TM12:34:40
+GPS,PNSPILL130,LA-45.521618355402,LN170.193920720082,EL18.530223,--G. St. SPILLWAY
+--GS,PNSPILL130,N 4916789.5737,E 1392589.4902,EL18.7735,--G. St. SPILLWAY
+--GT,PNSPILL130,SW1973,ST171296010,EW1973,ET171300010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4916789.5674  Max: 4916789.5845
+--Eas Min: 1392589.4856  Max: 1392589.4955
+--Elv Min: 18.7732  Max: 18.7740
+--Nor Avg: 4916789.5737  SD: 0.0070
+--Eas Avg: 1392589.4902  SD: 0.0040
+--Elv Avg: 18.7735  SD: 0.0004
+--HRMS Avg: 0.0125 SD: 0.0022 Min: 0.0112 Max: 0.0164
+--VRMS Avg: 0.0223 SD: 0.0011 Min: 0.0217 Max: 0.0243
+--HDOP Avg: 0.7355  Min: 0.7355 Max: 0.7355
+--VDOP Avg: 1.5005 Min: 1.5005 Max: 1.5007
+--PDOP Avg: 1.6711 Min: 1.6710 Max: 1.6712
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--HSIG:0.011, VSIG:0.022, STATUS:FIXED, SATS:15, PDOP:1.671, HDOP:0.736, VDOP:1.501
+--DT10-31-2017
+--TM12:36:02
+GPS,PNSPILL131,LA-45.521623102022,LN170.193879282378,EL18.601885,--G. St. SPILLWAY
+--GS,PNSPILL131,N 4916787.8095,E 1392580.6060,EL18.8452,--G. St. SPILLWAY
+--GT,PNSPILL131,SW1973,ST171316010,EW1973,ET171320010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4916787.7993  Max: 4916787.8170
+--Eas Min: 1392580.5985  Max: 1392580.6148
+--Elv Min: 18.8424  Max: 18.8494
+--Nor Avg: 4916787.8095  SD: 0.0064
+--Eas Avg: 1392580.6060  SD: 0.0058
+--Elv Avg: 18.8452  SD: 0.0026
+--HRMS Avg: 0.0123 SD: 0.0008 Min: 0.0112 Max: 0.0134
+--VRMS Avg: 0.0222 SD: 0.0004 Min: 0.0217 Max: 0.0227
+--HDOP Avg: 0.8427  Min: 0.7355 Max: 0.8784
+--VDOP Avg: 1.5655 Min: 1.5010 Max: 1.5870
+--PDOP Avg: 1.7783 Min: 1.6715 Max: 1.8139
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--HSIG:0.011, VSIG:0.022, STATUS:FIXED, SATS:15, PDOP:1.671, HDOP:0.736, VDOP:1.501
+--DT10-31-2017
+--TM12:36:23
+GPS,PNSPILL132,LA-45.521627205832,LN170.193850366332,EL18.625677,--G. St. SPILLWAY
+--GS,PNSPILL132,N 4916786.3342,E 1392574.4147,EL18.8690,--G. St. SPILLWAY
+--GT,PNSPILL132,SW1973,ST171334010,EW1973,ET171338010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.011, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.943, HDOP:0.766, VDOP:1.785
+--DT10-31-2017
+--TM12:36:39
+GPS,PNX_SECT28S,LA-45.521632335530,LN170.193836548133,EL18.837789,--G. St. SPILLWAY
+--GS,PNX_SECT28S,N 4916784.6513,E 1392571.4888,EL19.0811,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.011, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.948, HDOP:0.766, VDOP:1.791
+--DT10-31-2017
+--TM12:37:17
+GPS,PNSPILL135,LA-45.521636741822,LN170.193781096066,EL18.935307,--G. St. SPILLWAY
+--GS,PNSPILL135,N 4916782.8909,E 1392559.5799,EL19.1786,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.955, HDOP:0.765, VDOP:1.799
+--DT10-31-2017
+--TM12:38:01
+GPS,PNSPILL136,LA-45.521646204585,LN170.193730654165,EL18.802190,--G. St. SPILLWAY
+--GS,PNSPILL136,N 4916779.6061,E 1392548.8035,EL19.0455,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.016, VSIG:0.025, STATUS:FIXED, SATS:14, PDOP:1.955, HDOP:0.765, VDOP:1.799
+--DT10-31-2017
+--TM12:38:06
+GPS,PNSPILL137,LA-45.521656681974,LN170.193684703645,EL18.770712,--G. St. SPILLWAY
+--GS,PNSPILL137,N 4916776.0407,E 1392539.0058,EL19.0140,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.019, VSIG:0.026, STATUS:DGPS, SATS:14, PDOP:1.955, HDOP:0.765, VDOP:1.799
+--DT10-31-2017
+--TM12:38:11
+GPS,PNSPILL138,LA-45.521669544285,LN170.193631190146,EL18.790778,--G. St. SPILLWAY
+--GS,PNSPILL138,N 4916771.6846,E 1392527.6023,EL19.0341,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.011, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.956, HDOP:0.765, VDOP:1.801
+--DT10-31-2017
+--TM12:38:23
+GPS,PNSPILL139,LA-45.521682216819,LN170.193584377575,EL18.800601,--G. St. SPILLWAY
+--GS,PNSPILL139,N 4916767.4355,E 1392517.6415,EL19.0439,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:14, PDOP:1.957, HDOP:0.765, VDOP:1.802
+--DT10-31-2017
+--TM12:38:27
+GPS,PNSPILL140,LA-45.521694556972,LN170.193539717400,EL18.815721,--G. St. SPILLWAY
+--GS,PNSPILL140,N 4916763.3044,E 1392508.1412,EL19.0590,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.958, HDOP:0.764, VDOP:1.802
+--DT10-31-2017
+--TM12:38:31
+GPS,PNSPILL141,LA-45.521709019759,LN170.193487256921,EL18.797642,--G. St. SPILLWAY
+--GS,PNSPILL141,N 4916758.4620,E 1392496.9814,EL19.0409,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.016, VSIG:0.025, STATUS:FIXED, SATS:14, PDOP:1.958, HDOP:0.764, VDOP:1.802
+--DT10-31-2017
+--TM12:38:36
+GPS,PNSPILL142,LA-45.521722502257,LN170.193441258790,EL18.826356,--G. St. SPILLWAY
+--GS,PNSPILL142,N 4916753.9687,E 1392487.2045,EL19.0697,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.011, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.959, HDOP:0.764, VDOP:1.804
+--DT10-31-2017
+--TM12:38:46
+GPS,PNSPILL143,LA-45.521737410867,LN170.193389691688,EL18.757583,--G. St. SPILLWAY
+--GS,PNSPILL143,N 4916748.9951,E 1392476.2419,EL19.0009,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.011, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.960, HDOP:0.764, VDOP:1.805
+--DT10-31-2017
+--TM12:38:52
+GPS,PNSPILL144,LA-45.521749879551,LN170.193344252889,EL18.723422,--G. St. SPILLWAY
+--GS,PNSPILL144,N 4916744.8187,E 1392466.5752,EL18.9667,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.960, HDOP:0.764, VDOP:1.805
+--DT10-31-2017
+--TM12:38:57
+GPS,PNSPILL145,LA-45.521765023516,LN170.193296690820,EL18.658668,--G. St. SPILLWAY
+--GS,PNSPILL145,N 4916739.8013,E 1392456.4785,EL18.9020,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.016, VSIG:0.025, STATUS:FIXED, SATS:14, PDOP:1.961, HDOP:0.764, VDOP:1.805
+--DT10-31-2017
+--TM12:39:03
+GPS,PNSPILL146,LA-45.521778103009,LN170.193249742060,EL18.663426,--G. St. SPILLWAY
+--GS,PNSPILL146,N 4916735.4255,E 1392446.4926,EL18.9067,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.962, HDOP:0.764, VDOP:1.807
+--DT10-31-2017
+--TM12:39:09
+GPS,PNSPILL147,LA-45.521793062024,LN170.193205816964,EL18.550915,--G. St. SPILLWAY
+--GS,PNSPILL147,N 4916730.4914,E 1392437.1780,EL18.7942,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.017, VSIG:0.025, STATUS:DGPS, SATS:14, PDOP:1.962, HDOP:0.764, VDOP:1.807
+--DT10-31-2017
+--TM12:39:16
+GPS,PNSPILL148,LA-45.521805388024,LN170.193162788732,EL18.519609,--G. St. SPILLWAY
+--GS,PNSPILL148,N 4916726.3764,E 1392428.0295,EL18.7629,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:13, PDOP:2.005, HDOP:0.819, VDOP:1.830
+--DT10-31-2017
+--TM12:39:58
+GPS,PNSPILL149,LA-45.521819665845,LN170.193114250135,EL18.598719,--G. St. SPILLWAY
+--GS,PNSPILL149,N 4916721.6192,E 1392417.7134,EL18.8420,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.018, VSIG:0.027, STATUS:FIXED, SATS:11, PDOP:2.318, HDOP:0.989, VDOP:2.097
+--DT10-31-2017
+--TM12:40:04
+GPS,PNSPILL150,LA-45.521834910199,LN170.193062841798,EL18.649400,--G. St. SPILLWAY
+--GS,PNSPILL150,N 4916716.5430,E 1392406.7886,EL18.8927,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.018, VSIG:0.027, STATUS:FIXED, SATS:12, PDOP:2.106, HDOP:0.972, VDOP:1.868
+--DT10-31-2017
+--TM12:40:10
+GPS,PNSPILL151,LA-45.521848310279,LN170.193016150572,EL18.582077,--G. St. SPILLWAY
+--GS,PNSPILL151,N 4916712.0700,E 1392396.8616,EL18.8254,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.021, VSIG:0.029, STATUS:DGPS, SATS:12, PDOP:2.106, HDOP:0.972, VDOP:1.868
+--DT10-31-2017
+--TM12:40:15
+GPS,PNSPILL152,LA-45.521851727611,LN170.193005705760,EL18.552801,--G. St. SPILLWAY
+--GS,PNSPILL152,N 4916710.9399,E 1392394.6453,EL18.7961,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.012, VSIG:0.023, STATUS:FIXED, SATS:13, PDOP:2.024, HDOP:0.862, VDOP:1.831
+--DT10-31-2017
+--TM12:40:22
+GPS,PNSPILL153,LA-45.521864818841,LN170.192958803405,EL18.556704,--G. St. SPILLWAY
+--GS,PNSPILL153,N 4916706.5606,E 1392384.6696,EL18.8000,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.016, VSIG:0.025, STATUS:FIXED, SATS:13, PDOP:2.024, HDOP:0.862, VDOP:1.832
+--DT10-31-2017
+--TM12:40:30
+GPS,PNSPILL154,LA-45.521880399442,LN170.192906835471,EL18.598102,--G. St. SPILLWAY
+--GS,PNSPILL154,N 4916701.3765,E 1392373.6277,EL18.8414,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.968, HDOP:0.763, VDOP:1.814
+--DT10-31-2017
+--TM12:40:34
+GPS,PNSPILL155,LA-45.521892685997,LN170.192863246009,EL18.531302,--G. St. SPILLWAY
+--GS,PNSPILL155,N 4916697.2695,E 1392364.3579,EL18.7746,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.016, VSIG:0.024, STATUS:FIXED, SATS:14, PDOP:1.968, HDOP:0.763, VDOP:1.814
+--DT10-31-2017
+--TM12:40:39
+GPS,PNSPILL156,LA-45.521907190741,LN170.192810965281,EL18.496565,--G. St. SPILLWAY
+--GS,PNSPILL156,N 4916692.4152,E 1392353.2375,EL18.7399,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.968, HDOP:0.763, VDOP:1.815
+--DT10-31-2017
+--TM12:40:44
+GPS,PNSPILL157,LA-45.521920186344,LN170.192767619116,EL18.488091,--G. St. SPILLWAY
+--GS,PNSPILL157,N 4916688.0911,E 1392344.0275,EL18.7314,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.968, HDOP:0.763, VDOP:1.815
+--DT10-31-2017
+--TM12:40:49
+GPS,PNSPILL158,LA-45.521934866111,LN170.192719715612,EL18.522163,--G. St. SPILLWAY
+--GS,PNSPILL158,N 4916683.2143,E 1392333.8525,EL18.7655,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.969, HDOP:0.762, VDOP:1.815
+--DT10-31-2017
+--TM12:40:54
+GPS,PNSPILL159,LA-45.521947907970,LN170.192674892122,EL18.500172,--G. St. SPILLWAY
+--GS,PNSPILL159,N 4916678.8652,E 1392324.3246,EL18.7435,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.011, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.969, HDOP:0.762, VDOP:1.815
+--DT10-31-2017
+--TM12:41:00
+GPS,PNSPILL160,LA-45.521960748648,LN170.192631980543,EL18.427727,--G. St. SPILLWAY
+--GS,PNSPILL160,N 4916674.5921,E 1392315.2067,EL18.6710,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.969, HDOP:0.762, VDOP:1.816
+--DT10-31-2017
+--TM12:41:05
+GPS,PNSPILL161,LA-45.521973622934,LN170.192584575079,EL18.443475,--G. St. SPILLWAY
+--GS,PNSPILL161,N 4916670.2761,E 1392305.1205,EL18.6868,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.969, HDOP:0.762, VDOP:1.816
+--DT10-31-2017
+--TM12:41:10
+GPS,PNSPILL162,LA-45.521989781663,LN170.192533260877,EL18.470933,--G. St. SPILLWAY
+--GS,PNSPILL162,N 4916664.9181,E 1392294.2256,EL18.7142,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.016, VSIG:0.024, STATUS:FIXED, SATS:14, PDOP:1.969, HDOP:0.762, VDOP:1.816
+--DT10-31-2017
+--TM12:41:16
+GPS,PNSPILL163,LA-45.522004288427,LN170.192488198776,EL18.380922,--G. St. SPILLWAY
+--GS,PNSPILL163,N 4916660.1152,E 1392284.6614,EL18.6242,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.969, HDOP:0.762, VDOP:1.816
+--DT10-31-2017
+--TM12:41:21
+GPS,PNSPILL164,LA-45.522018798397,LN170.192441247601,EL18.342539,--G. St. SPILLWAY
+--GS,PNSPILL164,N 4916655.2976,E 1392274.6901,EL18.5858,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.970, HDOP:0.762, VDOP:1.817
+--DT10-31-2017
+--TM12:41:28
+GPS,PNSPILL165,LA-45.522032566152,LN170.192396484532,EL18.356552,--G. St. SPILLWAY
+--GS,PNSPILL165,N 4916650.7248,E 1392265.1828,EL18.5998,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.011, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.970, HDOP:0.762, VDOP:1.817
+--DT10-31-2017
+--TM12:41:32
+GPS,PNSPILL166,LA-45.522048709124,LN170.192345285266,EL18.349438,--G. St. SPILLWAY
+--GS,PNSPILL166,N 4916645.3725,E 1392254.3126,EL18.5927,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:14, PDOP:1.970, HDOP:0.762, VDOP:1.817
+--DT10-31-2017
+--TM12:41:37
+GPS,PNSPILL167,LA-45.522063245648,LN170.192296751841,EL18.306075,--G. St. SPILLWAY
+--GS,PNSPILL167,N 4916640.5352,E 1392244.0004,EL18.5494,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.011, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.970, HDOP:0.762, VDOP:1.817
+--DT10-31-2017
+--TM12:41:42
+GPS,PNSPILL168,LA-45.522076489866,LN170.192250841440,EL18.254727,--G. St. SPILLWAY
+--GS,PNSPILL168,N 4916636.1157,E 1392234.2404,EL18.4980,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.014, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.970, HDOP:0.762, VDOP:1.817
+--DT10-31-2017
+--TM12:41:47
+GPS,PNSPILL169,LA-45.522098499888,LN170.192176681279,EL18.160182,--G. St. SPILLWAY
+--GS,PNSPILL169,N 4916628.7865,E 1392218.4812,EL18.4035,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.970, HDOP:0.762, VDOP:1.817
+--DT10-31-2017
+--TM12:41:56
+GPS,PNSPILL170,LA-45.522111912872,LN170.192129536471,EL18.182917,--G. St. SPILLWAY
+--GS,PNSPILL170,N 4916624.3060,E 1392208.4569,EL18.4262,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.971, HDOP:0.761, VDOP:1.818
+--DT10-31-2017
+--TM12:42:05
+GPS,PNSPILL171,LA-45.522126136320,LN170.192079512046,EL18.201407,--G. St. SPILLWAY
+--GS,PNSPILL171,N 4916619.5544,E 1392197.8201,EL18.4447,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.971, HDOP:0.761, VDOP:1.818
+--DT10-31-2017
+--TM12:42:10
+GPS,PNSPILL172,LA-45.522138519439,LN170.192032857076,EL18.110079,--G. St. SPILLWAY
+--GS,PNSPILL172,N 4916615.3952,E 1392187.8907,EL18.3534,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.016, VSIG:0.024, STATUS:FIXED, SATS:14, PDOP:1.971, HDOP:0.761, VDOP:1.818
+--DT10-31-2017
+--TM12:42:15
+GPS,PNSPILL173,LA-45.522151631231,LN170.191968553336,EL18.217737,--G. St. SPILLWAY
+--GS,PNSPILL173,N 4916610.8833,E 1392174.1642,EL18.4610,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.011, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.971, HDOP:0.761, VDOP:1.818
+--DT10-31-2017
+--TM12:42:27
+GPS,PNSPILL174,LA-45.522160381523,LN170.191919841689,EL18.169550,--G. St. SPILLWAY
+--GS,PNSPILL174,N 4916607.8303,E 1392163.7539,EL18.4128,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.971, HDOP:0.761, VDOP:1.818
+--DT10-31-2017
+--TM12:42:32
+GPS,PNSPILL175,LA-45.522170938976,LN170.191870722466,EL17.934551,--G. St. SPILLWAY
+--GS,PNSPILL175,N 4916604.2166,E 1392153.2743,EL18.1778,--G. St. SPILLWAY
+--Nor Min: 4916786.3294  Max: 4916786.3363
+--Eas Min: 1392574.4130  Max: 1392574.4175
+--Elv Min: 18.8639  Max: 18.8813
+--Nor Avg: 4916786.3342  SD: 0.0028
+--Eas Avg: 1392574.4147  SD: 0.0017
+--Elv Avg: 18.8690  SD: 0.0072
+--HRMS Avg: 0.0116 SD: 0.0004 Min: 0.0112 Max: 0.0120
+--VRMS Avg: 0.0221 SD: 0.0002 Min: 0.0219 Max: 0.0223
+--HDOP Avg: 0.7661  Min: 0.7661 Max: 0.7661
+--VDOP Avg: 1.7855 Min: 1.7855 Max: 1.7855
+--PDOP Avg: 1.9429 Min: 1.9429 Max: 1.9429
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.012, VSIG:0.022, STATUS:FIXED, SATS:14, PDOP:1.971, HDOP:0.761, VDOP:1.818
+--DT10-31-2017
+--TM12:42:40
+GPS,PNSPILL176,LA-45.522182264835,LN170.191810603557,EL18.927491,--RE
+--GS,PNSPILL176,N 4916600.2862,E 1392140.4315,EL19.1708,--RE
+--GT,PNSPILL176,SW1973,ST171786009,EW1973,ET171790010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4916600.2766  Max: 4916600.2921
+--Eas Min: 1392140.4205  Max: 1392140.4441
+--Elv Min: 19.1688  Max: 19.1720
+--Nor Avg: 4916600.2862  SD: 0.0059
+--Eas Avg: 1392140.4315  SD: 0.0108
+--Elv Avg: 19.1708  SD: 0.0013
+--HRMS Avg: 0.0117 SD: 0.0009 Min: 0.0109 Max: 0.0130
+--VRMS Avg: 0.0216 SD: 0.0004 Min: 0.0212 Max: 0.0221
+--HDOP Avg: 0.7596  Min: 0.7595 Max: 0.7596
+--VDOP Avg: 1.8168 Min: 1.8167 Max: 1.8168
+--PDOP Avg: 1.9692 Min: 1.9690 Max: 1.9692
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--HSIG:0.011, VSIG:0.021, STATUS:FIXED, SATS:14, PDOP:1.969, HDOP:0.760, VDOP:1.817
+--DT10-31-2017
+--TM12:44:21
+--DT10-31-2017
+--TM15:49:48
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:400314
+--Localization File: \Program Files\SurvCE\TAIERI-2017-CS14-C54X.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+--Base Configuration by Reading GPS Position
+--DT10-31-2017
+--TM15:49:50
+--Base Rod Hgt: 1.471
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+BP,PNBP0000001,LA-46.025307750512,LN170.111929188625,EL6.6431,AG1.410,PA0.061,--

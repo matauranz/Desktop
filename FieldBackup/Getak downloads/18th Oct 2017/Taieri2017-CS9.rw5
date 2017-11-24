@@ -1,0 +1,112 @@
+JB,NMTaieri2017-CS9,DT10-18-2017,TM05:56:16
+MO,AD0,UN1,SF1.00000000,EC0,EO0.0,AU0
+--SurvCE Version 2.54.4
+--CRD: Alphanumeric
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Instrument
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: None
+--Geoid Separation File: None
+--GPS Scale: 1.00000000
+--Scale Point not used
+--ANDREW2:
+--DT10-18-2017
+--TM07:46:05
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: None
+--Geoid Separation File: None
+--GPS Scale: 1.00000000
+--Scale Point not used
+SP,PN1,N 4906682.5200,E 1383527.3400,EL178.5570,--STEV
+--Base Configuration by Reading GPS Position
+--DT10-18-2017
+--TM07:48:46
+--Base Rod Hgt: 1.471
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+BP,PNBP0000001,LA-45.573340763140,LN170.122290591141,EL178.2916,AG1.410,PA0.061,--
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--RTK Method: RTCM V3.0, Device: Internal UHF
+--Entered HR: 2.0000, Slant
+LS,HR2.0180
+GPS,PN2,LA-45.573335622386,LN170.122289937652,EL178.816453,--STEV-OBS
+--GS,PN2,N 4906683.2103,E 1383526.1477,EL176.7985,--STEV-OBS
+--GT,PNX_SECT27S,SW1971,ST240818011,EW1971,ET240851011
+--31 Valid Readings out of 31 Readings
+--31 Fixed Readings out of 31
+--Nor Min: 4906683.1970  Max: 4906683.2291
+--Eas Min: 1383526.1290  Max: 1383526.1688
+--Elv Min: 176.7906  Max: 176.8052
+--Nor Avg: 4906683.2103  SD: 0.0082
+--Eas Avg: 1383526.1477  SD: 0.0088
+--Elv Avg: 176.7985  SD: 0.0040
+--HRMS Avg: 0.0063 SD: 0.0001 Min: 0.0062 Max: 0.0069
+--VRMS Avg: 0.0075 SD: 0.0001 Min: 0.0074 Max: 0.0079
+--HDOP Avg: 0.6579  Min: 0.6577 Max: 0.6581
+--VDOP Avg: 1.0269 Min: 1.0260 Max: 1.0277
+--PDOP Avg: 1.2196 Min: 1.2187 Max: 1.2203
+--Number of Satellites Avg: 18 Min: 18 Max: 18
+--DT10-18-2017
+--TM07:54:50
+--Localization File: \Program Files\SurvCE\Taieri 2017\Taieri2017-CS9-18-10-17-STEV.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Localization Azimuth: State Plane Grid
+SP,PN3,N 4903747.2700,E 1379802.4700,EL8.0750,--AEYF
+--DT10-18-2017
+--TM08:24:24
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:912235
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: \Program Files\SurvCE\Taieri 2017\Taieri2017-CS9-18-10-17-STEV.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+--RTK Method: RTCM V3.0, Device: Internal UHF
+--Entered HR: 2.0000, Slant
+LS,HR2.0180
+GPS,PN4,LA-45.590408045251,LN170.092519856725,EL8.012258,--AEYF-OBS
+--GS,PN4,N 4903747.2718,E 1379802.4972,EL7.7528,--AEYF-OBS
+--GT,PNX_SECT27S,SW1971,ST242466009,EW1971,ET242467009
+--0 Valid Readings out of 32 Readings
+--1 Fixed Readings out of 32
+--GT,PNX_SECT27S,SW1971,ST242567010,EW1971,ET242581010
+--14 Valid Readings out of 14 Readings
+--14 Fixed Readings out of 14
+--Nor Min: 4903747.2669  Max: 4903747.2794
+--Eas Min: 1379802.4862  Max: 1379802.5076
+--Elv Min: 7.7432  Max: 7.7595
+--Nor Avg: 4903747.2718  SD: 0.0031
+--Eas Avg: 1379802.4972  SD: 0.0072
+--Elv Avg: 7.7528  SD: 0.0043
+--HRMS Avg: 0.0113 SD: 0.0003 Min: 0.0111 Max: 0.0120
+--VRMS Avg: 0.0180 SD: 0.0003 Min: 0.0174 Max: 0.0186
+--HDOP Avg: 0.8227  Min: 0.8226 Max: 0.8228
+--VDOP Avg: 1.1569 Min: 1.1563 Max: 1.1573
+--PDOP Avg: 1.4196 Min: 1.4192 Max: 1.4199
+--Number of Satellites Avg: 13 Min: 13 Max: 14
+--DT10-18-2017
+--TM08:24:37
+GPS,PN5,LA-45.564025000324,LN170.123319110137,EL7.335695,--DAIRY
+--GS,PN5,N 4908329.2279,E 1383691.4343,EL7.0763,--DAIRY
+--GT,PNX_SECT26S,SW1971,ST244790009,EW1971,ET244817009
+--27 Valid Readings out of 27 Readings
+--27 Fixed Readings out of 27
+--Nor Min: 4908329.2142  Max: 4908329.2364
+--Eas Min: 1383691.4184  Max: 1383691.4449
+--Elv Min: 7.0687  Max: 7.0852
+--Nor Avg: 4908329.2279  SD: 0.0053
+--Eas Avg: 1383691.4343  SD: 0.0057
+--Elv Avg: 7.0763  SD: 0.0044
+--HRMS Avg: 0.0091 SD: 0.0003 Min: 0.0088 Max: 0.0094
+--VRMS Avg: 0.0126 SD: 0.0002 Min: 0.0124 Max: 0.0128
+--HDOP Avg: 0.7454  Min: 0.7453 Max: 0.7455
+--VDOP Avg: 1.1529 Min: 1.1525 Max: 1.1533
+--PDOP Avg: 1.3729 Min: 1.3726 Max: 1.3732
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--DT10-18-2017
+--TM09:00:54

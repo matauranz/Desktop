@@ -1,0 +1,69 @@
+JB,NMTAIERI-2017-CS17,DT10-23-2009,TM12:53:44
+MO,AD0,UN1,SF1.00000000,EC0,EO0.0,AU0
+--SurvCE Version 2.54.4
+--CRD: Alphanumeric
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Instrument
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: None
+--Geoid Separation File: None
+--GPS Scale: 1.00000000
+--Scale Point not used
+--ANDREW2:
+SP,PN1,N 4903747.2000,E 1379802.4700,EL2.3622,--AEYF
+SP,PN2,N 4906723.0300,E 1382848.4200,EL0.0000,--LT2
+SP,PN3,N 4095008.8800,E 1381373.6500,EL9.3500,--LT5
+SP,PN4,N 4904689.3500,E 1381008.9600,EL8.1350,--LT6
+--Base Configuration by Reading GPS Position
+--DT10-23-2009
+--TM13:01:49
+--Base Rod Hgt: 1.471
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+BP,PNBP0000001,LA-45.590361133001,LN170.092556813134,EL9.1991,AG1.410,PA0.061,--
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--RTK Method: RTCM V3.0, Device: Internal UHF
+--Entered HR: 2.0000, Slant
+LS,HR2.0180
+GPS,PN5,LA-45.590413198134,LN170.092523250642,EL10.691664,--AEYF-OBS
+--GS,PN5,N 4903746.3979,E 1379802.0919,EL8.6737,--AEYF-OBS
+--GT,PN5,SW1973,ST593925009,EW1973,ET593958009
+--32 Valid Readings out of 32 Readings
+--32 Fixed Readings out of 32
+--Nor Min: 4903746.3868  Max: 4903746.4084
+--Eas Min: 1379802.0727  Max: 1379802.1224
+--Elv Min: 8.6503  Max: 8.6863
+--Nor Avg: 4903746.3979  SD: 0.0041
+--Eas Avg: 1379802.0919  SD: 0.0097
+--Elv Avg: 8.6737  SD: 0.0077
+--HRMS Avg: 0.0099 SD: 0.0008 Min: 0.0090 Max: 0.0121
+--VRMS Avg: 0.0145 SD: 0.0015 Min: 0.0131 Max: 0.0177
+--HDOP Avg: 0.8820  Min: 0.8476 Max: 0.9851
+--VDOP Avg: 1.4173 Min: 1.3739 Max: 1.5434
+--PDOP Avg: 1.6693 Min: 1.6143 Max: 1.8310
+--Number of Satellites Avg: 11 Min: 11 Max: 12
+--DT10-23-2009
+--TM13:04:01
+--Localization File: \Program Files\SurvCE\TAIERI-2017-CS17.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Localization Azimuth: State Plane Grid
+SP,PN3,N 4905008.8800,E 1381373.6500,EL9.3500,--LT5
+GPS,PN6,LA-45.573131918203,LN170.115149950517,EL13.982724,--LT2-OBS
+--GS,PN6,N 4906723.1346,E 1382848.4654,EL5.6533,--LT2-OBS
+--GT,PN6,SW1973,ST596349008,EW1973,ET596381009
+--32 Valid Readings out of 32 Readings
+--32 Fixed Readings out of 32
+--Nor Min: 4906723.1181  Max: 4906723.1505
+--Eas Min: 1382848.4493  Max: 1382848.4905
+--Elv Min: 5.6401  Max: 5.6764
+--Nor Avg: 4906723.1346  SD: 0.0076
+--Eas Avg: 1382848.4654  SD: 0.0082
+--Elv Avg: 5.6533  SD: 0.0084
+--HRMS Avg: 0.0269 SD: 0.0015 Min: 0.0222 Max: 0.0287
+--VRMS Avg: 0.0433 SD: 0.0028 Min: 0.0348 Max: 0.0466
+--HDOP Avg: 1.0983  Min: 1.0382 Max: 1.1264
+--VDOP Avg: 1.5920 Min: 1.5336 Max: 1.6204
+--PDOP Avg: 1.9341 Min: 1.8519 Max: 1.9734
+--Number of Satellites Avg: 10 Min: 10 Max: 11
+--DT10-23-2009
+--TM13:44:21
