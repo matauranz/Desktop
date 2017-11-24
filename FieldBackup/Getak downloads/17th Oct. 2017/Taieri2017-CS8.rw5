@@ -1,0 +1,3470 @@
+JB,NMTaieri2017-CS8,DT10-17-2017,TM06:02:46
+MO,AD0,UN1,SF1.00000000,EC0,EO0.0,AU0
+--SurvCE Version 2.54.4
+--CRD: Alphanumeric
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Instrument
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: None
+--Geoid Separation File: None
+--GPS Scale: 1.00000000
+--Scale Point not used
+--ANDREW2:
+--DT10-17-2017
+--TM08:09:58
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: None
+--Geoid Separation File: None
+--GPS Scale: 1.00000000
+--Scale Point not used
+SP,PN1,N 4903747.2000,E 1379802.4700,EL8.0750,--AEYF
+--Base Configuration by Reading GPS Position
+--DT10-17-2017
+--TM08:12:54
+--Base Rod Hgt: 1.471
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+BP,PNBP0000001,LA-45.590628817782,LN170.085565707799,EL7.5528,AG1.410,PA0.061,--
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--RTK Method: RTCM V3.0, Device: Internal UHF
+--Entered HR: 2.0000, Slant
+LS,HR2.0180
+GPS,PN2,LA-45.590656525232,LN170.085556317481,EL7.526059,--HENLEY-III
+--GS,PN2,N 4903648.4738,E 1379166.4726,EL5.5081,--HENLEY-III
+--GT,PNX_SECT27S,SW1971,ST155781012,EW1971,ET155807012
+--18 Valid Readings out of 18 Readings
+--18 Fixed Readings out of 18
+--Nor Min: 4903648.4465  Max: 4903648.4929
+--Eas Min: 1379166.4596  Max: 1379166.4974
+--Elv Min: 5.5008  Max: 5.5137
+--Nor Avg: 4903648.4738  SD: 0.0102
+--Eas Avg: 1379166.4726  SD: 0.0096
+--Elv Avg: 5.5081  SD: 0.0034
+--HRMS Avg: 0.0073 SD: 0.0006 Min: 0.0071 Max: 0.0094
+--VRMS Avg: 0.0089 SD: 0.0004 Min: 0.0087 Max: 0.0104
+--HDOP Avg: 0.6550  Min: 0.6549 Max: 0.6551
+--VDOP Avg: 0.9055 Min: 0.9047 Max: 0.9067
+--PDOP Avg: 1.1176 Min: 1.1168 Max: 1.1186
+--Number of Satellites Avg: 18 Min: 18 Max: 18
+--DT10-17-2017
+--TM08:17:28
+SP,PN3,N 4903648.7530,E 1379166.5060,EL5.0330,--HENLEY-III-BRIAN
+GPS,PN4,LA-45.590409562340,LN170.092519206205,EL9.083438,--AEYF-OBS
+--GS,PN4,N 4903747.4889,E 1379801.1817,EL7.0655,--AEYF-OBS
+--GT,PNX_SECT27S,SW1971,ST156467010,EW1971,ET156498010
+--31 Valid Readings out of 31 Readings
+--31 Fixed Readings out of 31
+--Nor Min: 4903747.4683  Max: 4903747.5041
+--Eas Min: 1379801.1515  Max: 1379801.1935
+--Elv Min: 7.0570  Max: 7.0737
+--Nor Avg: 4903747.4889  SD: 0.0086
+--Eas Avg: 1379801.1817  SD: 0.0076
+--Elv Avg: 7.0655  SD: 0.0045
+--HRMS Avg: 0.0148 SD: 0.0007 Min: 0.0136 Max: 0.0163
+--VRMS Avg: 0.0224 SD: 0.0008 Min: 0.0209 Max: 0.0235
+--HDOP Avg: 0.8348  Min: 0.8346 Max: 0.8349
+--VDOP Avg: 1.0923 Min: 1.0918 Max: 1.0928
+--PDOP Avg: 1.3747 Min: 1.3744 Max: 1.3751
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--DT10-17-2017
+--TM08:28:59
+--Localization File: \Program Files\SurvCE\Taieri 2017\Taieri2017-CS8-17-10-17-AEYF.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Localization Azimuth: State Plane Grid
+GPS,PNLH9R/1,LA-45.593349291806,LN170.084976079278,EL11.884899,--RE
+--GS,PNLH9R/1,N 4902812.6797,E 1379072.7137,EL10.8765,--RE
+--GT,PN4,SW1971,ST162126009,EW1971,ET162130009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4902812.6727  Max: 4902812.6892
+--Eas Min: 1379072.7095  Max: 1379072.7202
+--Elv Min: 10.8700  Max: 10.8827
+--Nor Avg: 4902812.6797  SD: 0.0062
+--Eas Avg: 1379072.7137  SD: 0.0043
+--Elv Avg: 10.8765  SD: 0.0048
+--HRMS Avg: 0.0094 SD: 0.0004 Min: 0.0089 Max: 0.0098
+--VRMS Avg: 0.0171 SD: 0.0002 Min: 0.0168 Max: 0.0173
+--HDOP Avg: 0.9200  Min: 0.9199 Max: 0.9202
+--VDOP Avg: 1.4918 Min: 1.4917 Max: 1.4921
+--PDOP Avg: 1.7527 Min: 1.7525 Max: 1.7531
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+63.947,Right 0.00,1+63.947,Left 0.13,0.00,10.88,10.88,,RE,LH9R/1,
+--CTSD1:4902812.68,1379072.71,0.13,0.00,,,,,,
+--HSIG:0.010, VSIG:0.017, STATUS:FIXED, SATS:13, PDOP:1.753, HDOP:0.920, VDOP:1.492
+--DT10-17-2017
+--TM10:02:47
+GPS,PNLH9R/2,LA-45.593332070202,LN170.084976719757,EL12.160711,--RE
+--GS,PNLH9R/2,N 4902817.9996,E 1379072.6610,EL11.1523,--RE
+--GT,PNLH9R/2,SW1971,ST162154009,EW1971,ET162158009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4902817.9863  Max: 4902818.0068
+--Eas Min: 1379072.6492  Max: 1379072.6728
+--Elv Min: 11.1493  Max: 11.1570
+--Nor Avg: 4902817.9996  SD: 0.0081
+--Eas Avg: 1379072.6610  SD: 0.0084
+--Elv Avg: 11.1523  SD: 0.0028
+--HRMS Avg: 0.0091 SD: 0.0004 Min: 0.0088 Max: 0.0098
+--VRMS Avg: 0.0167 SD: 0.0002 Min: 0.0166 Max: 0.0171
+--HDOP Avg: 0.9213  Min: 0.9213 Max: 0.9213
+--VDOP Avg: 1.4944 Min: 1.4944 Max: 1.4944
+--PDOP Avg: 1.7556 Min: 1.7556 Max: 1.7556
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+58.627,Right 0.00,1+58.627,Left 0.06,0.00,11.15,11.15,,RE,LH9R/2,
+--CTSD1:4902818.00,1379072.66,0.06,0.00,,,,,,
+--HSIG:0.009, VSIG:0.017, STATUS:FIXED, SATS:13, PDOP:1.756, HDOP:0.921, VDOP:1.494
+--DT10-17-2017
+--TM10:03:15
+GPS,PNLH9R/3,LA-45.593313905604,LN170.084978208996,EL11.772742,--TB
+--GS,PNLH9R/3,N 4902823.6169,E 1379072.7804,EL10.7643,--TB
+--GT,PNLH9R/3,SW1971,ST162185015,EW1971,ET162189009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4902823.6082  Max: 4902823.6266
+--Eas Min: 1379072.7774  Max: 1379072.7838
+--Elv Min: 10.7595  Max: 10.7684
+--Nor Avg: 4902823.6169  SD: 0.0066
+--Eas Avg: 1379072.7804  SD: 0.0023
+--Elv Avg: 10.7643  SD: 0.0033
+--HRMS Avg: 0.0088 SD: 0.0004 Min: 0.0086 Max: 0.0095
+--VRMS Avg: 0.0161 SD: 0.0002 Min: 0.0159 Max: 0.0164
+--HDOP Avg: 0.9228  Min: 0.9228 Max: 0.9228
+--VDOP Avg: 1.4973 Min: 1.4973 Max: 1.4973
+--PDOP Avg: 1.7588 Min: 1.7588 Max: 1.7588
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+53.010,Right 0.00,1+53.010,Left 0.16,0.00,10.76,10.76,,TB,LH9R/3,
+--CTSD1:4902823.62,1379072.78,0.16,0.00,,,,,,
+--HSIG:0.009, VSIG:0.016, STATUS:FIXED, SATS:13, PDOP:1.759, HDOP:0.923, VDOP:1.497
+--DT10-17-2017
+--TM10:03:45
+GPS,PNLH9R/4,LA-45.593282020009,LN170.084979605639,EL6.434426,--W
+--GS,PNLH9R/4,N 4902833.4681,E 1379072.7281,EL5.4260,--W
+--GT,PNLH9R/4,SW1971,ST162269009,EW1971,ET162273009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4902833.4639  Max: 4902833.4706
+--Eas Min: 1379072.7242  Max: 1379072.7303
+--Elv Min: 5.4226  Max: 5.4298
+--Nor Avg: 4902833.4681  SD: 0.0026
+--Eas Avg: 1379072.7281  SD: 0.0023
+--Elv Avg: 5.4260  SD: 0.0029
+--HRMS Avg: 0.0102 SD: 0.0005 Min: 0.0098 Max: 0.0111
+--VRMS Avg: 0.0196 SD: 0.0006 Min: 0.0190 Max: 0.0206
+--HDOP Avg: 0.8335  Min: 0.8335 Max: 0.8335
+--VDOP Avg: 1.3932 Min: 1.3932 Max: 1.3932
+--PDOP Avg: 1.6235 Min: 1.6235 Max: 1.6235
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+43.159,Right 0.00,1+43.159,Left 0.07,0.00,5.43,5.43,,W,LH9R/4,
+--CTSD1:4902833.47,1379072.73,0.07,0.00,,,,,,
+--HSIG:0.010, VSIG:0.019, STATUS:FIXED, SATS:14, PDOP:1.624, HDOP:0.833, VDOP:1.393
+--DT10-17-2017
+--TM10:05:10
+GPS,PNLH9L/5,LA-45.592807812615,LN170.085001598674,EL8.410669,--SO
+--GS,PNLH9L/5,N 4902979.9861,E 1379072.2138,EL7.4023,--SO
+--GT,PNLH9R/5,SW1971,ST162970009,EW1971,ET162980010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4902979.9733  Max: 4902980.0162
+--Eas Min: 1379072.2050  Max: 1379072.2247
+--Elv Min: 7.3807  Max: 7.4145
+--Nor Avg: 4902979.9861  SD: 0.0175
+--Eas Avg: 1379072.2138  SD: 0.0083
+--Elv Avg: 7.4023  SD: 0.0136
+--HRMS Avg: 0.0185 SD: 0.0008 Min: 0.0177 Max: 0.0197
+--VRMS Avg: 0.0566 SD: 0.0007 Min: 0.0559 Max: 0.0577
+--HDOP Avg: 0.9159  Min: 0.9157 Max: 0.9163
+--VDOP Avg: 1.5279 Min: 1.5272 Max: 1.5282
+--PDOP Avg: 1.7814 Min: 1.7810 Max: 1.7815
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,-0+03.356,Right 0.00,-0+03.356,Right 1.01,0.00,7.40,7.40,,SO,LH9L/5,
+--CTSD1:4902979.99,1379072.21,1.01,0.00,,,,,,
+--HSIG:0.019, VSIG:0.056, STATUS:FIXED, SATS:12, PDOP:1.781, HDOP:0.916, VDOP:1.527
+--DT10-17-2017
+--TM10:17:10
+GPS,PNLH9L/6,LA-45.592830477893,LN170.085001576190,EL6.426781,--W
+--GS,PNLH9L/6,N 4902972.9910,E 1379072.4596,EL5.4184,--W
+--GT,PNLH9L/6,SW1971,ST163120009,EW1971,ET163124009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4902972.9772  Max: 4902973.0010
+--Eas Min: 1379072.4426  Max: 1379072.4746
+--Elv Min: 5.4077  Max: 5.4285
+--Nor Avg: 4902972.9910  SD: 0.0089
+--Eas Avg: 1379072.4596  SD: 0.0116
+--Elv Avg: 5.4184  SD: 0.0079
+--HRMS Avg: 0.0153 SD: 0.0000 Min: 0.0152 Max: 0.0153
+--VRMS Avg: 0.0445 SD: 0.0001 Min: 0.0444 Max: 0.0447
+--HDOP Avg: 0.9139  Min: 0.9139 Max: 0.9139
+--VDOP Avg: 1.4972 Min: 1.4972 Max: 1.4972
+--PDOP Avg: 1.7541 Min: 1.7541 Max: 1.7541
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+03.638,Right 0.00,0+03.638,Right 0.73,0.00,5.42,5.42,,W,LH9L/6,
+--CTSD1:4902972.99,1379072.46,0.73,0.00,,,,,,
+--HSIG:0.015, VSIG:0.044, STATUS:FIXED, SATS:12, PDOP:1.754, HDOP:0.914, VDOP:1.497
+--DT10-17-2017
+--TM10:19:27
+GPS,PNLH8L/1,LA-45.592505682916,LN170.084280825645,EL6.453933,--W
+--GS,PNLH8L/1,N 4903067.6694,E 1378913.8204,EL5.4455,--W
+--GT,PNLH9L/7,SW1971,ST163844008,EW1971,ET163854008
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4903067.6654  Max: 4903067.6746
+--Eas Min: 1378913.8141  Max: 1378913.8295
+--Elv Min: 5.4333  Max: 5.4576
+--Nor Avg: 4903067.6694  SD: 0.0036
+--Eas Avg: 1378913.8204  SD: 0.0065
+--Elv Avg: 5.4455  SD: 0.0102
+--HRMS Avg: 0.0120 SD: 0.0004 Min: 0.0117 Max: 0.0127
+--VRMS Avg: 0.0322 SD: 0.0002 Min: 0.0320 Max: 0.0324
+--HDOP Avg: 1.0045  Min: 1.0045 Max: 1.0045
+--VDOP Avg: 2.1614 Min: 2.1614 Max: 2.1614
+--PDOP Avg: 2.3834 Min: 2.3834 Max: 2.3834
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+10.687,Right 0.00,0+10.687,Right 0.09,0.00,5.45,5.45,,W,LH8L/1,
+--CTSD1:4903067.67,1378913.82,0.03,0.09,,,,,,
+--HSIG:0.012, VSIG:0.032, STATUS:FIXED, SATS:11, PDOP:2.383, HDOP:1.005, VDOP:2.161
+--DT10-17-2017
+--TM10:31:31
+GPS,PNLH8L/2,LA-45.592495489497,LN170.084327064447,EL7.590594,--SO
+--GS,PNLH8L/2,N 4903071.1720,E 1378923.6544,EL6.5822,--SO
+--GT,PNLH8L/2,SW1971,ST163907009,EW1971,ET163911009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4903071.1692  Max: 4903071.1732
+--Eas Min: 1378923.6539  Max: 1378923.6548
+--Elv Min: 6.5595  Max: 6.5969
+--Nor Avg: 4903071.1720  SD: 0.0016
+--Eas Avg: 1378923.6544  SD: 0.0004
+--Elv Avg: 6.5822  SD: 0.0138
+--HRMS Avg: 0.0141 SD: 0.0014 Min: 0.0119 Max: 0.0156
+--VRMS Avg: 0.0333 SD: 0.0005 Min: 0.0325 Max: 0.0339
+--HDOP Avg: 1.0004  Min: 1.0003 Max: 1.0005
+--VDOP Avg: 2.1657 Min: 2.1657 Max: 2.1658
+--PDOP Avg: 2.3856 Min: 2.3856 Max: 2.3856
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+00.253,Right 0.00,0+00.253,Left 0.25,0.00,6.58,6.58,,SO,LH8L/2,
+--CTSD1:4903071.17,1378923.65,0.09,0.23,,,,,,
+--HSIG:0.012, VSIG:0.033, STATUS:FIXED, SATS:11, PDOP:2.386, HDOP:1.000, VDOP:2.166
+--DT10-17-2017
+--TM10:32:27
+GPS,PNLH8L/3,LA-45.592495389808,LN170.084346442078,EL7.371918,--SO
+--GS,PNLH8L/3,N 4903071.3522,E 1378927.8218,EL6.3635,--SO
+--GT,PNLH8L/3,SW1971,ST163972008,EW1971,ET163982008
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4903071.3454  Max: 4903071.3584
+--Eas Min: 1378927.8197  Max: 1378927.8252
+--Elv Min: 6.3516  Max: 6.3819
+--Nor Avg: 4903071.3522  SD: 0.0050
+--Eas Avg: 1378927.8218  SD: 0.0023
+--Elv Avg: 6.3635  SD: 0.0112
+--HRMS Avg: 0.0118 SD: 0.0005 Min: 0.0114 Max: 0.0127
+--VRMS Avg: 0.0317 SD: 0.0005 Min: 0.0312 Max: 0.0324
+--HDOP Avg: 0.9958  Min: 0.9956 Max: 0.9963
+--VDOP Avg: 2.1676 Min: 2.1676 Max: 2.1677
+--PDOP Avg: 2.3854 Min: 2.3854 Max: 2.3856
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,-0+03.691,Right 0.00,-0+03.691,Left 1.60,0.00,6.36,6.36,,SO,LH8L/3,
+--CTSD1:4903071.35,1378927.82,0.59,1.49,,,,,,
+--HSIG:0.011, VSIG:0.031, STATUS:FIXED, SATS:11, PDOP:2.385, HDOP:0.996, VDOP:2.168
+--DT10-17-2017
+--TM10:33:40
+GPS,PNXSEC1L/1,LA-45.590608731405,LN170.091650013915,EL8.211598,--RE
+--GS,PNXSEC1L/1,N 4903679.0519,E 1379617.6681,EL7.2032,--RE
+--GT,PNLH8L/4,SW1971,ST165869009,EW1971,ET165873009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--GT,PNX-SECT1L/,SW1971,ST165909009,EW1971,ET165913009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4903679.0414  Max: 4903679.0601
+--Eas Min: 1379617.6515  Max: 1379617.6783
+--Elv Min: 7.1953  Max: 7.2094
+--Nor Avg: 4903679.0519  SD: 0.0067
+--Eas Avg: 1379617.6681  SD: 0.0100
+--Elv Avg: 7.2032  SD: 0.0062
+--HRMS Avg: 0.0093 SD: 0.0002 Min: 0.0090 Max: 0.0097
+--VRMS Avg: 0.0155 SD: 0.0002 Min: 0.0152 Max: 0.0157
+--HDOP Avg: 0.8482  Min: 0.8482 Max: 0.8482
+--VDOP Avg: 1.4655 Min: 1.4655 Max: 1.4655
+--PDOP Avg: 1.6933 Min: 1.6933 Max: 1.6933
+--Number of Satellites Avg: 11 Min: 11 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+01.759,Right 0.00,0+01.759,Right 0.15,0.00,7.20,7.20,,RE,XSEC1L/1,
+--CTSD1:4903679.05,1379617.67,0.14,0.06,,,,,,
+--HSIG:0.009, VSIG:0.016, STATUS:FIXED, SATS:11, PDOP:1.693, HDOP:0.848, VDOP:1.465
+--DT10-17-2017
+--TM11:05:50
+GPS,PNXSEC1L/2,LA-45.590588108956,LN170.091636518988,EL8.763267,--RE
+--GS,PNXSEC1L/2,N 4903685.3125,E 1379614.5373,EL7.7549,--RE
+--GT,PNXSEC1L/2,SW1971,ST165937009,EW1971,ET165948009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4903685.2992  Max: 4903685.3385
+--Eas Min: 1379614.5317  Max: 1379614.5438
+--Elv Min: 7.7365  Max: 7.7653
+--Nor Avg: 4903685.3125  SD: 0.0154
+--Eas Avg: 1379614.5373  SD: 0.0043
+--Elv Avg: 7.7549  SD: 0.0110
+--HRMS Avg: 0.0099 SD: 0.0004 Min: 0.0093 Max: 0.0105
+--VRMS Avg: 0.0162 SD: 0.0008 Min: 0.0156 Max: 0.0177
+--HDOP Avg: 0.8753  Min: 0.8471 Max: 0.9602
+--VDOP Avg: 1.5152 Min: 1.4584 Max: 1.6853
+--PDOP Avg: 1.7498 Min: 1.6866 Max: 1.9396
+--Number of Satellites Avg: 11 Min: 11 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+08.745,Right 0.00,0+08.745,Left 0.29,0.00,7.75,7.75,,RE,XSEC1L/2,
+--CTSD1:4903685.31,1379614.54,0.26,0.11,,,,,,
+--HSIG:0.009, VSIG:0.016, STATUS:FIXED, SATS:12, PDOP:1.687, HDOP:0.847, VDOP:1.458
+--DT10-17-2017
+--TM11:06:25
+GPS,PNXSEC1L/3,LA-45.590555095004,LN170.091620246778,EL7.909129,--SO
+--GS,PNXSEC1L/3,N 4903695.3760,E 1379610.6724,EL6.9007,--SO
+--GT,PNXSEC1L/3,SW1971,ST165984008,EW1971,ET165988009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4903695.3702  Max: 4903695.3861
+--Eas Min: 1379610.6635  Max: 1379610.6926
+--Elv Min: 6.8770  Max: 6.9406
+--Nor Avg: 4903695.3760  SD: 0.0060
+--Eas Avg: 1379610.6724  SD: 0.0119
+--Elv Avg: 6.9007  SD: 0.0239
+--HRMS Avg: 0.0106 SD: 0.0005 Min: 0.0099 Max: 0.0114
+--VRMS Avg: 0.0184 SD: 0.0011 Min: 0.0166 Max: 0.0193
+--HDOP Avg: 1.1836  Min: 1.1836 Max: 1.1836
+--VDOP Avg: 1.9318 Min: 1.9318 Max: 1.9318
+--PDOP Avg: 2.2655 Min: 2.2655 Max: 2.2655
+--Number of Satellites Avg: 10 Min: 10 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+19.519,Right 0.00,0+19.519,Right 0.08,0.00,6.90,6.90,,SO,XSEC1L/3,
+--CTSD1:4903695.38,1379610.67,0.07,0.03,,,,,,
+--HSIG:0.010, VSIG:0.017, STATUS:FIXED, SATS:11, PDOP:2.266, HDOP:1.184, VDOP:1.932
+--DT10-17-2017
+--TM11:07:10
+GPS,PNXSEC1L/4,LA-45.590515420145,LN170.091640157330,EL6.652222,---OFFSET
+--GS,PNXSEC1L/4,N 4903707.7735,E 1379614.5182,EL5.6438,---OFFSET
+--GT,PNXSEC1L/4,SW1971,ST166155007,EW1971,ET166159008
+--2 Valid Readings out of 4 Readings
+--2 Fixed Readings out of 4
+--Nor Min: 4903707.7496  Max: 4903707.7974
+--Eas Min: 1379614.5095  Max: 1379614.5270
+--Elv Min: 5.6258  Max: 5.6618
+--Nor Avg: 4903707.7735  SD: 0.0239
+--Eas Avg: 1379614.5182  SD: 0.0088
+--Elv Avg: 5.6438  SD: 0.0180
+--HRMS Avg: 0.0283 SD: 0.0010 Min: 0.0273 Max: 0.0293
+--VRMS Avg: 0.0295 SD: 0.0004 Min: 0.0291 Max: 0.0299
+--HDOP Avg: 1.6000  Min: 1.6000 Max: 1.6000
+--VDOP Avg: 2.6146 Min: 2.6146 Max: 2.6146
+--PDOP Avg: 3.0654 Min: 3.0654 Max: 3.0654
+--Number of Satellites Avg: 9 Min: 8 Max: 10
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+29.435,Right 0.00,0+29.435,Right 8.46,0.00,5.64,5.64,,-OFFSET,
+--CTSD1:XSEC1L/4,4903707.77,1379614.52,7.79,3.30,,,,,,
+--HSIG:0.029, VSIG:0.029, STATUS:FIXED, SATS:10, PDOP:3.065, HDOP:1.600, VDOP:2.615
+--DT10-17-2017
+--TM11:10:13
+GPS,PNXSEC2L/1,LA-45.585025409759,LN170.095210670570,EL8.762262,--SO
+--GS,PNXSEC2L/1,N 4904195.0250,E 1380366.2994,EL7.7539,--SO
+--GT,PNXSEC1L/5,SW1971,ST166885010,EW1971,ET166889010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4904195.0198  Max: 4904195.0385
+--Eas Min: 1380366.2900  Max: 1380366.3057
+--Elv Min: 7.7483  Max: 7.7605
+--Nor Avg: 4904195.0250  SD: 0.0078
+--Eas Avg: 1380366.2994  SD: 0.0058
+--Elv Avg: 7.7539  SD: 0.0044
+--HRMS Avg: 0.0110 SD: 0.0004 Min: 0.0106 Max: 0.0116
+--VRMS Avg: 0.0147 SD: 0.0002 Min: 0.0145 Max: 0.0150
+--HDOP Avg: 0.7572  Min: 0.7572 Max: 0.7572
+--VDOP Avg: 1.0903 Min: 1.0903 Max: 1.0903
+--PDOP Avg: 1.3275 Min: 1.3275 Max: 1.3275
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+00.382,Right 0.00,0+00.382,Left 0.16,0.00,7.75,7.75,,SO,XSEC2L/1,
+--CTSD1:4904195.02,1380366.30,0.13,0.09,,,,,,
+--HSIG:0.012, VSIG:0.015, STATUS:FIXED, SATS:14, PDOP:1.327, HDOP:0.757, VDOP:1.090
+--DT10-17-2017
+--TM11:22:06
+GPS,PNXSEC2L/2,LA-45.585015466291,LN170.095202323062,EL9.136233,--RE
+--GS,PNXSEC2L/2,N 4904198.0297,E 1380364.3941,EL8.1278,--RE
+--GT,PNXSEC2L/2,SW1971,ST166913010,EW1971,ET166917011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4904198.0195  Max: 4904198.0362
+--Eas Min: 1380364.3905  Max: 1380364.4019
+--Elv Min: 8.1243  Max: 8.1308
+--Nor Avg: 4904198.0297  SD: 0.0062
+--Eas Avg: 1380364.3941  SD: 0.0046
+--Elv Avg: 8.1278  SD: 0.0023
+--HRMS Avg: 0.0106 SD: 0.0003 Min: 0.0104 Max: 0.0109
+--VRMS Avg: 0.0141 SD: 0.0001 Min: 0.0139 Max: 0.0142
+--HDOP Avg: 0.7198  Min: 0.7074 Max: 0.7571
+--VDOP Avg: 1.0312 Min: 1.0118 Max: 1.0895
+--PDOP Avg: 1.2576 Min: 1.2346 Max: 1.3267
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+03.935,Right 0.00,0+03.935,Right 0.03,0.00,8.13,8.13,,RE,XSEC2L/2,
+--CTSD1:4904198.03,1380364.39,0.03,0.02,,,,,,
+--HSIG:0.011, VSIG:0.014, STATUS:FIXED, SATS:15, PDOP:1.235, HDOP:0.707, VDOP:1.012
+--DT10-17-2017
+--TM11:22:34
+GPS,PNXSEC2L/3,LA-45.584987582590,LN170.095175401454,EL9.238759,--RE
+--GS,PNXSEC2L/3,N 4904206.4288,E 1380358.2952,EL8.2303,--RE
+--GT,PNXSEC2L/3,SW1971,ST166940011,EW1971,ET166944011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4904206.4171  Max: 4904206.4392
+--Eas Min: 1380358.2859  Max: 1380358.3010
+--Elv Min: 8.2286  Max: 8.2314
+--Nor Avg: 4904206.4288  SD: 0.0092
+--Eas Avg: 1380358.2952  SD: 0.0061
+--Elv Avg: 8.2303  SD: 0.0010
+--HRMS Avg: 0.0103 SD: 0.0000 Min: 0.0103 Max: 0.0103
+--VRMS Avg: 0.0136 SD: 0.0000 Min: 0.0136 Max: 0.0136
+--HDOP Avg: 0.7461  Min: 0.7461 Max: 0.7461
+--VDOP Avg: 1.0128 Min: 1.0128 Max: 1.0128
+--PDOP Avg: 1.2580 Min: 1.2580 Max: 1.2580
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+14.314,Right 0.00,0+14.314,Left 0.05,0.00,8.23,8.23,,RE,XSEC2L/3,
+--CTSD1:4904206.43,1380358.30,0.04,0.03,,,,,,
+--HSIG:0.010, VSIG:0.014, STATUS:FIXED, SATS:14, PDOP:1.258, HDOP:0.746, VDOP:1.013
+--DT10-17-2017
+--TM11:23:06
+GPS,PNXSEC2L/4,LA-45.584981583889,LN170.095170919986,EL9.215357,--TB
+--GS,PNXSEC2L/4,N 4904208.2458,E 1380357.2651,EL8.2069,--TB
+--GT,PNXSEC2L/4,SW1971,ST166983010,EW1971,ET166988010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4904208.2238  Max: 4904208.2750
+--Eas Min: 1380357.2589  Max: 1380357.2678
+--Elv Min: 8.2039  Max: 8.2106
+--Nor Avg: 4904208.2458  SD: 0.0197
+--Eas Avg: 1380357.2651  SD: 0.0036
+--Elv Avg: 8.2069  SD: 0.0027
+--HRMS Avg: 0.0105 SD: 0.0002 Min: 0.0103 Max: 0.0107
+--VRMS Avg: 0.0138 SD: 0.0001 Min: 0.0136 Max: 0.0140
+--HDOP Avg: 0.7750  Min: 0.7565 Max: 0.8305
+--VDOP Avg: 1.0874 Min: 1.0849 Max: 1.0949
+--PDOP Avg: 1.3356 Min: 1.3227 Max: 1.3742
+--Number of Satellites Avg: 13 Min: 13 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+16.391,Right 0.00,0+16.391,Right 0.17,0.00,8.21,8.21,,TB,XSEC2L/4,
+--CTSD1:4904208.25,1380357.27,0.14,0.10,,,,,,
+--HSIG:0.010, VSIG:0.014, STATUS:FIXED, SATS:14, PDOP:1.323, HDOP:0.757, VDOP:1.085
+--DT10-17-2017
+--TM11:23:44
+GPS,PNXSEC2L/5,LA-45.584962635428,LN170.095150475627,EL6.587273,--W
+--GS,PNXSEC2L/5,N 4904213.9369,E 1380352.6581,EL5.5789,--W
+--GT,PNXSEC2L/5,SW1971,ST167030009,EW1971,ET167034010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4904213.9332  Max: 4904213.9407
+--Eas Min: 1380352.6532  Max: 1380352.6653
+--Elv Min: 5.5772  Max: 5.5818
+--Nor Avg: 4904213.9369  SD: 0.0029
+--Eas Avg: 1380352.6581  SD: 0.0046
+--Elv Avg: 5.5789  SD: 0.0018
+--HRMS Avg: 0.0145 SD: 0.0000 Min: 0.0145 Max: 0.0146
+--VRMS Avg: 0.0200 SD: 0.0001 Min: 0.0199 Max: 0.0201
+--HDOP Avg: 0.8255  Min: 0.8255 Max: 0.8255
+--VDOP Avg: 1.2148 Min: 1.2148 Max: 1.2148
+--PDOP Avg: 1.4688 Min: 1.4688 Max: 1.4688
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+23.700,Right 0.00,0+23.700,Left 0.27,0.00,5.58,5.58,,W,XSEC2L/5,
+--CTSD1:4904213.94,1380352.66,0.22,0.16,,,,,,
+--HSIG:0.015, VSIG:0.020, STATUS:FIXED, SATS:12, PDOP:1.469, HDOP:0.826, VDOP:1.215
+--DT10-17-2017
+--TM11:24:31
+GPS,PNXSEC2L/6,LA-45.583252146238,LN170.102976922060,EL10.055438,--SO-BANK
+--GS,PNXSEC2L/6,N 4904771.0918,E 1381157.2124,EL9.0470,--SO-BANK
+--GT,PNXSEC2L/6,SW1971,ST167634010,EW1971,ET167638010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4904771.0874  Max: 4904771.0973
+--Eas Min: 1381157.2024  Max: 1381157.2205
+--Elv Min: 9.0420  Max: 9.0560
+--Nor Avg: 4904771.0918  SD: 0.0036
+--Eas Avg: 1381157.2124  SD: 0.0080
+--Elv Avg: 9.0470  SD: 0.0054
+--HRMS Avg: 0.0148 SD: 0.0000 Min: 0.0147 Max: 0.0148
+--VRMS Avg: 0.0201 SD: 0.0000 Min: 0.0201 Max: 0.0201
+--HDOP Avg: 0.9762  Min: 0.9762 Max: 0.9762
+--VDOP Avg: 1.3256 Min: 1.3256 Max: 1.3256
+--PDOP Avg: 1.6462 Min: 1.6462 Max: 1.6462
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+01.258,Right 0.00,0+01.258,Left 0.77,0.00,9.05,9.05,,SO-BANK,
+--CTSD1:XSEC2L/6,4904771.09,1381157.21,0.55,0.54,,,,,,
+--HSIG:0.015, VSIG:0.020, STATUS:FIXED, SATS:13, PDOP:1.646, HDOP:0.976, VDOP:1.326
+--DT10-17-2017
+--TM11:34:38
+GPS,PNXSEC2L/7,LA-45.583248101160,LN170.102975607762,EL8.928248,--DR
+--GS,PNXSEC2L/7,N 4904772.3302,E 1381156.8853,EL7.9198,--DR
+--GT,PNXSEC2L/7,SW1971,ST167672010,EW1971,ET167676009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4904772.3291  Max: 4904772.3320
+--Eas Min: 1381156.8802  Max: 1381156.8890
+--Elv Min: 7.9151  Max: 7.9222
+--Nor Avg: 4904772.3302  SD: 0.0011
+--Eas Avg: 1381156.8853  SD: 0.0032
+--Elv Avg: 7.9198  SD: 0.0028
+--HRMS Avg: 0.0145 SD: 0.0000 Min: 0.0145 Max: 0.0146
+--VRMS Avg: 0.0199 SD: 0.0001 Min: 0.0198 Max: 0.0199
+--HDOP Avg: 0.9773  Min: 0.9773 Max: 0.9774
+--VDOP Avg: 1.3316 Min: 1.3312 Max: 1.3320
+--PDOP Avg: 1.6518 Min: 1.6514 Max: 1.6522
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+02.370,Right 0.00,0+02.370,Left 0.13,0.00,7.92,7.92,,DR,XSEC2L/7,
+--CTSD1:4904772.33,1381156.89,0.10,0.09,,,,,,
+--HSIG:0.014, VSIG:0.020, STATUS:FIXED, SATS:13, PDOP:1.652, HDOP:0.977, VDOP:1.332
+--DT10-17-2017
+--TM11:35:12
+GPS,PNXSEC2L/8,LA-45.583244395153,LN170.102973242609,EL9.544652,--RE
+--GS,PNXSEC2L/8,N 4904773.4558,E 1381156.3358,EL8.5362,--RE
+--GT,PNXSEC2L/8,SW1971,ST167700010,EW1971,ET167704010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4904773.4550  Max: 4904773.4566
+--Eas Min: 1381156.3268  Max: 1381156.3464
+--Elv Min: 8.5325  Max: 8.5438
+--Nor Avg: 4904773.4558  SD: 0.0007
+--Eas Avg: 1381156.3358  SD: 0.0070
+--Elv Avg: 8.5362  SD: 0.0045
+--HRMS Avg: 0.0142 SD: 0.0000 Min: 0.0142 Max: 0.0143
+--VRMS Avg: 0.0194 SD: 0.0001 Min: 0.0193 Max: 0.0195
+--HDOP Avg: 1.0065  Min: 1.0065 Max: 1.0065
+--VDOP Avg: 1.3525 Min: 1.3525 Max: 1.3525
+--PDOP Avg: 1.6859 Min: 1.6859 Max: 1.6859
+--Number of Satellites Avg: 12 Min: 12 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+03.559,Right 0.00,0+03.559,Right 0.26,0.00,8.54,8.54,,RE,XSEC2L/8,
+--CTSD1:4904773.46,1381156.34,0.19,0.18,,,,,,
+--HSIG:0.014, VSIG:0.019, STATUS:FIXED, SATS:13, PDOP:1.686, HDOP:1.007, VDOP:1.353
+--DT10-17-2017
+--TM11:35:40
+GPS,PNXSEC3L/4,LA-45.583228271727,LN170.102951276389,EL9.547182,--RE
+--GS,PNXSEC3L/4,N 4904778.2641,E 1381151.4326,EL8.5388,--RE
+--GT,PNXSEC2L/9,SW1971,ST167764009,EW1971,ET167768010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4904778.2622  Max: 4904778.2672
+--Eas Min: 1381151.4221  Max: 1381151.4382
+--Elv Min: 8.5335  Max: 8.5441
+--Nor Avg: 4904778.2641  SD: 0.0019
+--Eas Avg: 1381151.4326  SD: 0.0063
+--Elv Avg: 8.5388  SD: 0.0038
+--HRMS Avg: 0.0150 SD: 0.0009 Min: 0.0142 Max: 0.0161
+--VRMS Avg: 0.0196 SD: 0.0012 Min: 0.0184 Max: 0.0211
+--HDOP Avg: 1.0072  Min: 1.0072 Max: 1.0072
+--VDOP Avg: 1.3522 Min: 1.3522 Max: 1.3522
+--PDOP Avg: 1.6861 Min: 1.6861 Max: 1.6861
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+10.425,Right 0.00,0+10.425,Right 0.13,0.00,8.54,8.54,,RE,XSEC3L/4,
+--CTSD1:4904778.26,1381151.43,0.09,0.09,,,,,,
+--HSIG:0.014, VSIG:0.018, STATUS:FIXED, SATS:12, PDOP:1.686, HDOP:1.007, VDOP:1.352
+--DT10-17-2017
+--TM11:36:44
+GPS,PNXSEC3L/5,LA-45.583215109477,LN170.102945623626,EL9.410218,--TB
+--GS,PNXSEC3L/5,N 4904782.2830,E 1381150.0721,EL8.4018,--TB
+--GT,PNXSEC3L/5,SW1971,ST167800009,EW1971,ET167804010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4904782.2745  Max: 4904782.2931
+--Eas Min: 1381150.0609  Max: 1381150.0794
+--Elv Min: 8.3950  Max: 8.4088
+--Nor Avg: 4904782.2830  SD: 0.0071
+--Eas Avg: 1381150.0721  SD: 0.0076
+--Elv Avg: 8.4018  SD: 0.0050
+--HRMS Avg: 0.0146 SD: 0.0002 Min: 0.0145 Max: 0.0150
+--VRMS Avg: 0.0193 SD: 0.0001 Min: 0.0192 Max: 0.0195
+--HDOP Avg: 1.0082  Min: 1.0082 Max: 1.0082
+--VDOP Avg: 1.3582 Min: 1.3582 Max: 1.3582
+--PDOP Avg: 1.6914 Min: 1.6914 Max: 1.6914
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+14.246,Right 0.00,0+14.246,Right 1.98,0.00,8.40,8.40,,TB,XSEC3L/5,
+--CTSD1:4904782.28,1381150.07,1.41,1.38,,,,,,
+--HSIG:0.015, VSIG:0.019, STATUS:FIXED, SATS:12, PDOP:1.691, HDOP:1.008, VDOP:1.358
+--DT10-17-2017
+--TM11:37:24
+GPS,PNXSEC3L/6,LA-45.583197363699,LN170.102930485748,EL6.598381,--W
+--GS,PNXSEC3L/6,N 4904787.6441,E 1381146.6205,EL5.5900,--W
+--GT,PNXSEC3L/6,SW1971,ST167893010,EW1971,ET167897010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4904787.6396  Max: 4904787.6495
+--Eas Min: 1381146.6196  Max: 1381146.6219
+--Elv Min: 5.5803  Max: 5.5985
+--Nor Avg: 4904787.6441  SD: 0.0045
+--Eas Avg: 1381146.6205  SD: 0.0009
+--Elv Avg: 5.5900  SD: 0.0067
+--HRMS Avg: 0.0249 SD: 0.0001 Min: 0.0247 Max: 0.0250
+--VRMS Avg: 0.0334 SD: 0.0001 Min: 0.0332 Max: 0.0336
+--HDOP Avg: 1.1857  Min: 1.1688 Max: 1.2363
+--VDOP Avg: 1.7513 Min: 1.7239 Max: 1.8335
+--PDOP Avg: 2.1149 Min: 2.0827 Max: 2.2114
+--Number of Satellites Avg: 11 Min: 11 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+20.489,Right 0.00,0+20.489,Right 3.27,0.00,5.59,5.59,,W,XSEC3L/6,
+--CTSD1:4904787.64,1381146.62,2.33,2.29,,,,,,
+--HSIG:0.025, VSIG:0.034, STATUS:FIXED, SATS:12, PDOP:2.083, HDOP:1.169, VDOP:1.724
+--DT10-17-2017
+--TM11:38:59
+GPS,PNXSEC4L/1,LA-45.582136600372,LN170.104845970502,EL9.182559,--DR
+--GS,PNXSEC4L/1,N 4905129.6246,E 1381547.1923,EL8.1741,--DR
+--GT,PNXSEC3L/7,SW1971,ST168895009,EW1971,ET168899009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905129.6148  Max: 4905129.6373
+--Eas Min: 1381547.1826  Max: 1381547.1992
+--Elv Min: 8.1659  Max: 8.1788
+--Nor Avg: 4905129.6246  SD: 0.0081
+--Eas Avg: 1381547.1923  SD: 0.0064
+--Elv Avg: 8.1741  SD: 0.0051
+--HRMS Avg: 0.0123 SD: 0.0000 Min: 0.0123 Max: 0.0124
+--VRMS Avg: 0.0163 SD: 0.0000 Min: 0.0163 Max: 0.0163
+--HDOP Avg: 1.0185  Min: 1.0185 Max: 1.0185
+--VDOP Avg: 1.5185 Min: 1.5185 Max: 1.5185
+--PDOP Avg: 1.8284 Min: 1.8284 Max: 1.8284
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,-0+00.981,Right 0.00,-0+00.981,Left 0.24,0.00,8.17,8.17,,DR,
+--CTSD1:XSEC4L/1,4905129.62,1381547.19,0.22,0.11,,,,,,
+--HSIG:0.012, VSIG:0.016, STATUS:FIXED, SATS:12, PDOP:1.828, HDOP:1.018, VDOP:1.518
+--DT10-17-2017
+--TM11:55:38
+GPS,PNXSEC4L/2,LA-45.582131933755,LN170.104843672141,EL9.693307,--RE
+--GS,PNXSEC4L/2,N 4905131.0473,E 1381546.6467,EL8.6849,--RE
+--GT,PNXSEC4L/2,SW1971,ST168922009,EW1971,ET168926009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905131.0417  Max: 4905131.0543
+--Eas Min: 1381546.6420  Max: 1381546.6520
+--Elv Min: 8.6819  Max: 8.6884
+--Nor Avg: 4905131.0473  SD: 0.0047
+--Eas Avg: 1381546.6467  SD: 0.0036
+--Elv Avg: 8.6849  SD: 0.0030
+--HRMS Avg: 0.0118 SD: 0.0003 Min: 0.0115 Max: 0.0121
+--VRMS Avg: 0.0157 SD: 0.0002 Min: 0.0155 Max: 0.0158
+--HDOP Avg: 1.0186  Min: 1.0186 Max: 1.0186
+--VDOP Avg: 1.5200 Min: 1.5198 Max: 1.5202
+--PDOP Avg: 1.8297 Min: 1.8296 Max: 1.8299
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+00.533,Right 0.00,0+00.533,Left 0.08,0.00,8.68,8.68,,RE,XSEC4L/2,
+--CTSD1:4905131.05,1381546.65,0.07,0.04,,,,,,
+--HSIG:0.011, VSIG:0.015, STATUS:FIXED, SATS:12, PDOP:1.830, HDOP:1.019, VDOP:1.520
+--DT10-17-2017
+--TM11:56:02
+GPS,PNXSEC4L/3,LA-45.582116156106,LN170.104833718286,EL9.880063,--RE
+--GS,PNXSEC4L/3,N 4905135.8407,E 1381544.3324,EL8.8717,--RE
+--GT,PNXSEC4L/3,SW1971,ST168941009,EW1971,ET168945009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905135.8300  Max: 4905135.8462
+--Eas Min: 1381544.3292  Max: 1381544.3360
+--Elv Min: 8.8649  Max: 8.8834
+--Nor Avg: 4905135.8407  SD: 0.0063
+--Eas Avg: 1381544.3324  SD: 0.0028
+--Elv Avg: 8.8717  SD: 0.0076
+--HRMS Avg: 0.0120 SD: 0.0004 Min: 0.0116 Max: 0.0126
+--VRMS Avg: 0.0156 SD: 0.0002 Min: 0.0154 Max: 0.0159
+--HDOP Avg: 1.0490  Min: 1.0489 Max: 1.0490
+--VDOP Avg: 1.6239 Min: 1.6238 Max: 1.6243
+--PDOP Avg: 1.9332 Min: 1.9331 Max: 1.9335
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+05.855,Right 0.00,0+05.855,Right 0.05,0.00,8.87,8.87,,RE,XSEC4L/3,
+--CTSD1:4905135.84,1381544.33,0.05,0.02,,,,,,
+--HSIG:0.013, VSIG:0.016, STATUS:FIXED, SATS:11, PDOP:1.933, HDOP:1.049, VDOP:1.624
+--DT10-17-2017
+--TM11:56:22
+GPS,PNXSEC4L/4,LA-45.582104543848,LN170.104829180091,EL9.553413,--TB
+--GS,PNXSEC4L/4,N 4905139.3898,E 1381543.2289,EL8.5450,--TB
+--GT,PNXSEC4L/4,SW1971,ST168966009,EW1971,ET168970009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905139.3851  Max: 4905139.3997
+--Eas Min: 1381543.2247  Max: 1381543.2319
+--Elv Min: 8.5433  Max: 8.5475
+--Nor Avg: 4905139.3898  SD: 0.0059
+--Eas Avg: 1381543.2289  SD: 0.0030
+--Elv Avg: 8.5450  SD: 0.0016
+--HRMS Avg: 0.0117 SD: 0.0002 Min: 0.0115 Max: 0.0121
+--VRMS Avg: 0.0155 SD: 0.0001 Min: 0.0154 Max: 0.0157
+--HDOP Avg: 1.0411  Min: 1.0187 Max: 1.0485
+--VDOP Avg: 1.6013 Min: 1.5224 Max: 1.6276
+--PDOP Avg: 1.9100 Min: 1.8318 Max: 1.9361
+--Number of Satellites Avg: 11 Min: 11 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+09.516,Right 0.00,0+09.516,Right 0.69,0.00,8.55,8.55,,TB,XSEC4L/4,
+--CTSD1:4905139.39,1381543.23,0.61,0.31,,,,,,
+--HSIG:0.012, VSIG:0.016, STATUS:FIXED, SATS:12, PDOP:1.832, HDOP:1.019, VDOP:1.522
+--DT10-17-2017
+--TM11:56:49
+GPS,PNXSEC4L/5,LA-45.582097046799,LN170.104821411656,EL8.056882,--BB-F
+--GS,PNXSEC4L/5,N 4905141.6443,E 1381541.4753,EL7.0485,--BB-F
+--GT,PNXSEC4L/5,SW1971,ST169026009,EW1971,ET169030009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905141.6429  Max: 4905141.6467
+--Eas Min: 1381541.4638  Max: 1381541.4800
+--Elv Min: 7.0462  Max: 7.0517
+--Nor Avg: 4905141.6443  SD: 0.0015
+--Eas Avg: 1381541.4753  SD: 0.0066
+--Elv Avg: 7.0485  SD: 0.0020
+--HRMS Avg: 0.0134 SD: 0.0005 Min: 0.0127 Max: 0.0140
+--VRMS Avg: 0.0172 SD: 0.0003 Min: 0.0168 Max: 0.0176
+--HDOP Avg: 1.0474  Min: 1.0473 Max: 1.0474
+--VDOP Avg: 1.6370 Min: 1.6370 Max: 1.6373
+--PDOP Avg: 1.9434 Min: 1.9434 Max: 1.9436
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+12.323,Right 0.00,0+12.323,Right 0.16,0.00,7.05,7.05,,BB-F,
+--CTSD1:XSEC4L/5,4905141.64,1381541.48,0.14,0.07,,,,,,
+--HSIG:0.014, VSIG:0.018, STATUS:FIXED, SATS:11, PDOP:1.944, HDOP:1.047, VDOP:1.637
+--DT10-17-2017
+--TM11:57:46
+GPS,PNXSEC4L/6,LA-45.582047811516,LN170.104790396113,EL7.449442,--SO
+--GS,PNXSEC4L/6,N 4905156.6027,E 1381534.2629,EL6.4410,--SO
+--GT,PNXSEC4L/6,SW1971,ST169067009,EW1971,ET169071009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905156.5937  Max: 4905156.6144
+--Eas Min: 1381534.2501  Max: 1381534.2724
+--Elv Min: 6.4390  Max: 6.4444
+--Nor Avg: 4905156.6027  SD: 0.0083
+--Eas Avg: 1381534.2629  SD: 0.0082
+--Elv Avg: 6.4410  SD: 0.0020
+--HRMS Avg: 0.0126 SD: 0.0002 Min: 0.0125 Max: 0.0130
+--VRMS Avg: 0.0171 SD: 0.0001 Min: 0.0170 Max: 0.0173
+--HDOP Avg: 1.0466  Min: 1.0465 Max: 1.0466
+--VDOP Avg: 1.6430 Min: 1.6427 Max: 1.6434
+--PDOP Avg: 1.9480 Min: 1.9477 Max: 1.9483
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+28.924,Right 0.00,0+28.924,Right 0.57,0.00,6.44,6.44,,SO,XSEC4L/6,
+--CTSD1:4905156.60,1381534.26,0.51,0.26,,,,,,
+--HSIG:0.013, VSIG:0.017, STATUS:FIXED, SATS:11, PDOP:1.948, HDOP:1.047, VDOP:1.643
+--DT10-17-2017
+--TM11:58:28
+GPS,PNXSEC4L/7,LA-45.581991709028,LN170.104750297301,EL7.964197,--SO
+--GS,PNXSEC4L/7,N 4905173.6113,E 1381525.0209,EL6.9558,--SO
+--GT,PNXSEC4L/7,SW1971,ST169109010,EW1971,ET169113010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905173.5932  Max: 4905173.6483
+--Eas Min: 1381524.9927  Max: 1381525.0369
+--Elv Min: 6.9510  Max: 6.9636
+--Nor Avg: 4905173.6113  SD: 0.0220
+--Eas Avg: 1381525.0209  SD: 0.0171
+--Elv Avg: 6.9558  SD: 0.0047
+--HRMS Avg: 0.0136 SD: 0.0005 Min: 0.0132 Max: 0.0145
+--VRMS Avg: 0.0179 SD: 0.0003 Min: 0.0176 Max: 0.0184
+--HDOP Avg: 0.8888  Min: 0.8888 Max: 0.8888
+--VDOP Avg: 1.2814 Min: 1.2814 Max: 1.2814
+--PDOP Avg: 1.5595 Min: 1.5595 Max: 1.5595
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+48.276,Right 0.00,0+48.276,Right 0.12,0.00,6.96,6.96,,SO,XSEC4L/7,
+--CTSD1:4905173.61,1381525.02,0.11,0.05,,,,,,
+--HSIG:0.013, VSIG:0.018, STATUS:FIXED, SATS:12, PDOP:1.559, HDOP:0.889, VDOP:1.281
+--DT10-17-2017
+--TM11:59:11
+GPS,PNXSEC4L/8,LA-45.581937016930,LN170.104712942789,EL8.135780,--SO
+--GS,PNXSEC4L/8,N 4905190.2054,E 1381516.3848,EL7.1274,--SO
+--GT,PNXSEC4L/8,SW1971,ST169148010,EW1971,ET169158010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905190.1816  Max: 4905190.2312
+--Eas Min: 1381516.3756  Max: 1381516.3970
+--Elv Min: 7.1249  Max: 7.1335
+--Nor Avg: 4905190.2054  SD: 0.0182
+--Eas Avg: 1381516.3848  SD: 0.0092
+--Elv Avg: 7.1274  SD: 0.0036
+--HRMS Avg: 0.0133 SD: 0.0001 Min: 0.0133 Max: 0.0134
+--VRMS Avg: 0.0179 SD: 0.0001 Min: 0.0178 Max: 0.0180
+--HDOP Avg: 0.8889  Min: 0.8889 Max: 0.8889
+--VDOP Avg: 1.2852 Min: 1.2852 Max: 1.2852
+--PDOP Avg: 1.5627 Min: 1.5627 Max: 1.5627
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+66.982,Right 0.00,0+66.982,Right 0.01,0.00,7.13,7.13,,SO,XSEC4L/8,
+--CTSD1:4905190.21,1381516.38,0.01,0.01,,,,,,
+--HSIG:0.013, VSIG:0.018, STATUS:FIXED, SATS:12, PDOP:1.563, HDOP:0.889, VDOP:1.285
+--DT10-17-2017
+--TM11:59:54
+GPS,PNXSEC4L/9,LA-45.581882298544,LN170.104672813681,EL8.152661,--SO
+--GS,PNXSEC4L/9,N 4905206.7866,E 1381507.1513,EL7.1442,--SO
+--GT,PNXSEC4L/9,SW1971,ST169193010,EW1971,ET169197010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905206.7601  Max: 4905206.8040
+--Eas Min: 1381507.1382  Max: 1381507.1596
+--Elv Min: 7.1417  Max: 7.1471
+--Nor Avg: 4905206.7866  SD: 0.0173
+--Eas Avg: 1381507.1513  SD: 0.0081
+--Elv Avg: 7.1442  SD: 0.0025
+--HRMS Avg: 0.0135 SD: 0.0002 Min: 0.0132 Max: 0.0136
+--VRMS Avg: 0.0174 SD: 0.0001 Min: 0.0172 Max: 0.0175
+--HDOP Avg: 0.8911  Min: 0.8627 Max: 0.9763
+--VDOP Avg: 1.1954 Min: 1.1822 Max: 1.2350
+--PDOP Avg: 1.4912 Min: 1.4635 Max: 1.5743
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+85.950,Right 0.00,0+85.950,Left 0.63,0.00,7.14,7.14,,SO,XSEC4L/9,
+--CTSD1:4905206.79,1381507.15,0.56,0.29,,,,,,
+--HSIG:0.013, VSIG:0.017, STATUS:FIXED, SATS:13, PDOP:1.463, HDOP:0.863, VDOP:1.182
+--DT10-17-2017
+--TM12:00:36
+GPS,PNXSEC4L/10,LA-45.581829041449,LN170.104641722248,EL8.092145,--SO
+--GS,PNXSEC4L/10,N 4905222.9856,E 1381499.8785,EL7.0837,--SO
+--GT,PNXSEC4L/10,SW1971,ST169238009,EW1971,ET169242010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905222.9775  Max: 4905222.9982
+--Eas Min: 1381499.8718  Max: 1381499.8849
+--Elv Min: 7.0767  Max: 7.0913
+--Nor Avg: 4905222.9856  SD: 0.0077
+--Eas Avg: 1381499.8785  SD: 0.0047
+--Elv Avg: 7.0837  SD: 0.0069
+--HRMS Avg: 0.0135 SD: 0.0004 Min: 0.0131 Max: 0.0142
+--VRMS Avg: 0.0174 SD: 0.0002 Min: 0.0172 Max: 0.0177
+--HDOP Avg: 0.9619  Min: 0.9116 Max: 1.1126
+--VDOP Avg: 1.2921 Min: 1.2476 Max: 1.4257
+--PDOP Avg: 1.6110 Min: 1.5452 Max: 1.8084
+--Number of Satellites Avg: 12 Min: 12 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+03.683,Right 0.00,1+03.683,Right 0.30,0.00,7.08,7.08,,SO,
+--CTSD1:XSEC4L/10,4905222.99,1381499.88,0.27,0.14,,,,,,
+--HSIG:0.013, VSIG:0.017, STATUS:FIXED, SATS:13, PDOP:1.545, HDOP:0.912, VDOP:1.248
+--DT10-17-2017
+--TM12:01:18
+GPS,PNXSEC4L/11,LA-45.581776051323,LN170.104603040821,EL7.811561,--SO
+--GS,PNXSEC4L/11,N 4905239.0443,E 1381490.9753,EL6.8031,--SO
+--GT,PNXSEC4L/11,SW1971,ST169274010,EW1971,ET169278010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905239.0400  Max: 4905239.0503
+--Eas Min: 1381490.9686  Max: 1381490.9802
+--Elv Min: 6.7981  Max: 6.8092
+--Nor Avg: 4905239.0443  SD: 0.0043
+--Eas Avg: 1381490.9753  SD: 0.0047
+--Elv Avg: 6.8031  SD: 0.0040
+--HRMS Avg: 0.0131 SD: 0.0002 Min: 0.0130 Max: 0.0135
+--VRMS Avg: 0.0171 SD: 0.0001 Min: 0.0171 Max: 0.0174
+--HDOP Avg: 0.8626  Min: 0.8626 Max: 0.8626
+--VDOP Avg: 1.1922 Min: 1.1922 Max: 1.1922
+--PDOP Avg: 1.4715 Min: 1.4715 Max: 1.4715
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+22.035,Right 0.00,1+22.035,Left 0.29,0.00,6.80,6.80,,SO,XSEC4L/11,
+--CTSD1:4905239.04,1381490.98,0.26,0.13,,,,,,
+--HSIG:0.013, VSIG:0.017, STATUS:FIXED, SATS:13, PDOP:1.472, HDOP:0.863, VDOP:1.192
+--DT10-17-2017
+--TM12:01:54
+GPS,PNXSEC4L/12,LA-45.581730502029,LN170.104573302144,EL7.889553,--F
+--GS,PNXSEC4L/12,N 4905252.8749,E 1381484.0778,EL6.8811,--F
+--GT,PNXSEC4L/12,SW1971,ST169324010,EW1971,ET169328010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905252.8573  Max: 4905252.8834
+--Eas Min: 1381484.0695  Max: 1381484.0878
+--Elv Min: 6.8755  Max: 6.8899
+--Nor Avg: 4905252.8749  SD: 0.0103
+--Eas Avg: 1381484.0778  SD: 0.0069
+--Elv Avg: 6.8811  SD: 0.0053
+--HRMS Avg: 0.0132 SD: 0.0002 Min: 0.0129 Max: 0.0134
+--VRMS Avg: 0.0169 SD: 0.0001 Min: 0.0168 Max: 0.0171
+--HDOP Avg: 0.8192  Min: 0.8192 Max: 0.8192
+--VDOP Avg: 1.0898 Min: 1.0898 Max: 1.0898
+--PDOP Avg: 1.3634 Min: 1.3634 Max: 1.3634
+--Number of Satellites Avg: 13 Min: 13 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+37.489,Right 0.00,1+37.489,Left 0.11,0.00,6.88,6.88,,F,XSEC4L/12,
+--CTSD1:4905252.87,1381484.08,0.10,0.05,,,,,,
+--HSIG:0.013, VSIG:0.017, STATUS:FIXED, SATS:13, PDOP:1.363, HDOP:0.819, VDOP:1.090
+--DT10-17-2017
+--TM12:02:44
+GPS,PNXSEC4L/13,LA-45.581674145857,LN170.104534791948,EL7.670029,--F
+--GS,PNXSEC4L/13,N 4905269.9738,E 1381475.1746,EL6.6616,--F
+--GT,PNXSEC4L/13,SW1971,ST169393009,EW1971,ET169397009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905269.9690  Max: 4905269.9789
+--Eas Min: 1381475.1550  Max: 1381475.1970
+--Elv Min: 6.6541  Max: 6.6680
+--Nor Avg: 4905269.9738  SD: 0.0036
+--Eas Avg: 1381475.1746  SD: 0.0156
+--Elv Avg: 6.6616  SD: 0.0050
+--HRMS Avg: 0.0133 SD: 0.0002 Min: 0.0132 Max: 0.0137
+--VRMS Avg: 0.0175 SD: 0.0001 Min: 0.0175 Max: 0.0177
+--HDOP Avg: 0.8906  Min: 0.8623 Max: 0.9755
+--VDOP Avg: 1.2255 Min: 1.2068 Max: 1.2818
+--PDOP Avg: 1.5151 Min: 1.4832 Max: 1.6108
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+56.767,Right 0.00,1+56.767,Left 0.22,0.00,6.66,6.66,,F,XSEC4L/13,
+--CTSD1:4905269.97,1381475.17,0.20,0.10,,,,,,
+--HSIG:0.013, VSIG:0.017, STATUS:FIXED, SATS:13, PDOP:1.483, HDOP:0.862, VDOP:1.207
+--DT10-17-2017
+--TM12:03:53
+GPS,PNXSEC4L/14,LA-45.581619059347,LN170.104501532715,EL7.342190,--F
+--GS,PNXSEC4L/14,N 4905286.7208,E 1381467.4152,EL6.3338,--F
+--GT,PNXSEC4L/14,SW1971,ST169434010,EW1971,ET169438010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905286.7133  Max: 4905286.7286
+--Eas Min: 1381467.4104  Max: 1381467.4209
+--Elv Min: 6.3242  Max: 6.3396
+--Nor Avg: 4905286.7208  SD: 0.0071
+--Eas Avg: 1381467.4152  SD: 0.0042
+--Elv Avg: 6.3338  SD: 0.0059
+--HRMS Avg: 0.0132 SD: 0.0000 Min: 0.0132 Max: 0.0133
+--VRMS Avg: 0.0176 SD: 0.0000 Min: 0.0176 Max: 0.0176
+--HDOP Avg: 0.8622  Min: 0.8622 Max: 0.8622
+--VDOP Avg: 1.2116 Min: 1.2116 Max: 1.2116
+--PDOP Avg: 1.4870 Min: 1.4870 Max: 1.4870
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+75.209,Right 0.00,1+75.209,Right 0.52,0.00,6.33,6.33,,F,XSEC4L/14,
+--CTSD1:4905286.72,1381467.42,0.47,0.24,,,,,,
+--HSIG:0.013, VSIG:0.018, STATUS:FIXED, SATS:13, PDOP:1.487, HDOP:0.862, VDOP:1.212
+--DT10-17-2017
+--TM12:04:36
+GPS,PNXSEC4L/15,LA-45.581564562787,LN170.104464897237,EL7.643520,--SO
+--GS,PNXSEC4L/15,N 4905303.2600,E 1381458.9357,EL6.6351,--SO
+--GT,PNXSEC4L/15,SW1971,ST169473009,EW1971,ET169477009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905303.2423  Max: 4905303.2740
+--Eas Min: 1381458.9198  Max: 1381458.9480
+--Elv Min: 6.6331  Max: 6.6370
+--Nor Avg: 4905303.2600  SD: 0.0122
+--Eas Avg: 1381458.9357  SD: 0.0116
+--Elv Avg: 6.6351  SD: 0.0014
+--HRMS Avg: 0.0134 SD: 0.0002 Min: 0.0133 Max: 0.0138
+--VRMS Avg: 0.0178 SD: 0.0001 Min: 0.0178 Max: 0.0180
+--HDOP Avg: 0.8621  Min: 0.8621 Max: 0.8621
+--VDOP Avg: 1.2160 Min: 1.2156 Max: 1.2161
+--PDOP Avg: 1.4906 Min: 1.4903 Max: 1.4907
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+93.795,Right 0.00,1+93.795,Right 0.53,0.00,6.64,6.64,,SO,
+--CTSD1:XSEC4L/15,4905303.26,1381458.94,0.47,0.24,,,,,,
+--HSIG:0.013, VSIG:0.018, STATUS:FIXED, SATS:13, PDOP:1.491, HDOP:0.862, VDOP:1.216
+--DT10-17-2017
+--TM12:05:22
+GPS,PNXSEC4L/16,LA-45.581510613244,LN170.104429336934,EL8.098185,--SO
+--GS,PNXSEC4L/16,N 4905319.6386,E 1381450.6935,EL7.0898,--SO
+--GT,PNXSEC4L/16,SW1971,ST169519010,EW1971,ET169523010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905319.6110  Max: 4905319.6601
+--Eas Min: 1381450.6901  Max: 1381450.6969
+--Elv Min: 7.0850  Max: 7.0976
+--Nor Avg: 4905319.6386  SD: 0.0182
+--Eas Avg: 1381450.6935  SD: 0.0025
+--Elv Avg: 7.0898  SD: 0.0051
+--HRMS Avg: 0.0133 SD: 0.0002 Min: 0.0132 Max: 0.0136
+--VRMS Avg: 0.0178 SD: 0.0001 Min: 0.0177 Max: 0.0179
+--HDOP Avg: 0.8620  Min: 0.8620 Max: 0.8620
+--VDOP Avg: 1.2211 Min: 1.2211 Max: 1.2211
+--PDOP Avg: 1.4947 Min: 1.4947 Max: 1.4947
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,2+12.130,Right 0.00,2+12.130,Right 0.68,0.00,7.09,7.09,,SO,
+--CTSD1:XSEC4L/16,4905319.64,1381450.69,0.61,0.31,,,,,,
+--HSIG:0.013, VSIG:0.018, STATUS:FIXED, SATS:13, PDOP:1.495, HDOP:0.862, VDOP:1.221
+--DT10-17-2017
+--TM12:06:01
+GPS,PNXSEC4L/17,LA-45.581457531729,LN170.104399786450,EL8.660636,--SO
+--GS,PNXSEC4L/17,N 4905335.7951,E 1381443.7540,EL7.6522,--SO
+--GT,PNXSEC4L/17,SW1971,ST169563009,EW1971,ET169567010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905335.7889  Max: 4905335.8034
+--Eas Min: 1381443.7493  Max: 1381443.7645
+--Elv Min: 7.6427  Max: 7.6645
+--Nor Avg: 4905335.7951  SD: 0.0054
+--Eas Avg: 1381443.7540  SD: 0.0062
+--Elv Avg: 7.6522  SD: 0.0079
+--HRMS Avg: 0.0149 SD: 0.0004 Min: 0.0146 Max: 0.0156
+--VRMS Avg: 0.0196 SD: 0.0003 Min: 0.0193 Max: 0.0200
+--HDOP Avg: 1.0750  Min: 0.9407 Max: 1.1198
+--VDOP Avg: 1.3474 Min: 1.3395 Max: 1.3712
+--PDOP Avg: 1.7252 Min: 1.6629 Max: 1.7459
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,2+29.673,Right 0.00,2+29.673,Right 1.89,0.00,7.65,7.65,,SO,
+--CTSD1:XSEC4L/17,4905335.80,1381443.75,1.68,0.86,,,,,,
+--HSIG:0.015, VSIG:0.020, STATUS:FIXED, SATS:11, PDOP:1.746, HDOP:1.120, VDOP:1.340
+--DT10-17-2017
+--TM12:06:44
+GPS,PNXSEC4L/18,LA-45.581426425978,LN170.104406910223,EL9.221443,--TB
+--GS,PNXSEC4L/18,N 4905345.4492,E 1381444.9469,EL8.2130,--TB
+--GT,PNXSEC4L/18,SW1971,ST169676009,EW1971,ET169680009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905345.4397  Max: 4905345.4681
+--Eas Min: 1381444.9423  Max: 1381444.9526
+--Elv Min: 8.2056  Max: 8.2166
+--Nor Avg: 4905345.4492  SD: 0.0111
+--Eas Avg: 1381444.9469  SD: 0.0037
+--Elv Avg: 8.2130  SD: 0.0044
+--HRMS Avg: 0.0160 SD: 0.0002 Min: 0.0159 Max: 0.0164
+--VRMS Avg: 0.0215 SD: 0.0001 Min: 0.0215 Max: 0.0217
+--HDOP Avg: 1.0331  Min: 1.0331 Max: 1.0331
+--VDOP Avg: 1.3458 Min: 1.3457 Max: 1.3458
+--PDOP Avg: 1.6966 Min: 1.6966 Max: 1.6966
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,2+37.716,Right 0.00,2+37.716,Right 7.36,0.00,8.21,8.21,,TB,
+--CTSD1:XSEC4L/18,4905345.45,1381444.95,6.54,3.36,,,,,,
+--HSIG:0.016, VSIG:0.022, STATUS:FIXED, SATS:11, PDOP:1.697, HDOP:1.033, VDOP:1.346
+--DT10-17-2017
+--TM12:08:38
+GPS,PNXSEC5L/1,LA-45.581025186757,LN170.110528643362,EL8.529225,--DR
+--GS,PNXSEC5L/1,N 4905485.4379,E 1381897.1552,EL7.5208,--DR
+--GT,PNXSEC4L/19,SW1971,ST171931010,EW1971,ET171935010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905485.4328  Max: 4905485.4441
+--Eas Min: 1381897.1538  Max: 1381897.1568
+--Elv Min: 7.5162  Max: 7.5243
+--Nor Avg: 4905485.4379  SD: 0.0047
+--Eas Avg: 1381897.1552  SD: 0.0012
+--Elv Avg: 7.5208  SD: 0.0029
+--HRMS Avg: 0.0112 SD: 0.0006 Min: 0.0107 Max: 0.0121
+--VRMS Avg: 0.0175 SD: 0.0004 Min: 0.0172 Max: 0.0181
+--HDOP Avg: 0.7804  Min: 0.7803 Max: 0.7804
+--VDOP Avg: 1.1617 Min: 1.1613 Max: 1.1628
+--PDOP Avg: 1.3995 Min: 1.3992 Max: 1.4004
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+02.605,Right 0.00,0+02.605,Right 1.29,0.00,7.52,7.52,,DR,XSEC5L/1,
+--CTSD1:4905485.44,1381897.16,1.04,0.77,,,,,,
+--HSIG:0.011, VSIG:0.017, STATUS:FIXED, SATS:14, PDOP:1.400, HDOP:0.780, VDOP:1.163
+--DT10-17-2017
+--TM12:46:13
+GPS,PNXSEC5L/2,LA-45.581023490736,LN170.110523664086,EL8.819467,--RE
+--GS,PNXSEC5L/2,N 4905485.9234,E 1381896.0651,EL7.8111,--RE
+--GT,PNXSEC5L/2,SW1971,ST171958010,EW1971,ET171962010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905485.9164  Max: 4905485.9324
+--Eas Min: 1381896.0569  Max: 1381896.0715
+--Elv Min: 7.8070  Max: 7.8168
+--Nor Avg: 4905485.9234  SD: 0.0060
+--Eas Avg: 1381896.0651  SD: 0.0057
+--Elv Avg: 7.8111  SD: 0.0041
+--HRMS Avg: 0.0113 SD: 0.0001 Min: 0.0112 Max: 0.0113
+--VRMS Avg: 0.0184 SD: 0.0001 Min: 0.0183 Max: 0.0186
+--HDOP Avg: 0.7799  Min: 0.7799 Max: 0.7800
+--VDOP Avg: 1.1681 Min: 1.1671 Max: 1.1684
+--PDOP Avg: 1.4045 Min: 1.4037 Max: 1.4048
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+03.642,Right 0.00,0+03.642,Right 0.70,0.00,7.81,7.81,,RE,XSEC5L/2,
+--CTSD1:4905485.92,1381896.07,0.57,0.42,,,,,,
+--HSIG:0.011, VSIG:0.018, STATUS:FIXED, SATS:14, PDOP:1.405, HDOP:0.780, VDOP:1.168
+--DT10-17-2017
+--TM12:46:39
+GPS,PNXSEC5L/3,LA-45.581002060217,LN170.110498718054,EL9.371109,--RE
+--GS,PNXSEC5L/3,N 4905492.3474,E 1381890.4629,EL8.3627,--RE
+--GT,PNXSEC5L/3,SW1971,ST171985010,EW1971,ET171989011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905492.3411  Max: 4905492.3511
+--Eas Min: 1381890.4495  Max: 1381890.4803
+--Elv Min: 8.3574  Max: 8.3696
+--Nor Avg: 4905492.3474  SD: 0.0038
+--Eas Avg: 1381890.4629  SD: 0.0118
+--Elv Avg: 8.3627  SD: 0.0053
+--HRMS Avg: 0.0118 SD: 0.0000 Min: 0.0118 Max: 0.0118
+--VRMS Avg: 0.0194 SD: 0.0000 Min: 0.0194 Max: 0.0195
+--HDOP Avg: 0.7795  Min: 0.7795 Max: 0.7795
+--VDOP Avg: 1.1731 Min: 1.1731 Max: 1.1731
+--PDOP Avg: 1.4085 Min: 1.4085 Max: 1.4085
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+12.137,Right 0.00,0+12.137,Right 0.01,0.00,8.36,8.36,,RE,XSEC5L/3,
+--CTSD1:4905492.35,1381890.46,0.00,0.00,,,,,,
+--HSIG:0.012, VSIG:0.019, STATUS:FIXED, SATS:14, PDOP:1.408, HDOP:0.780, VDOP:1.173
+--DT10-17-2017
+--TM12:47:05
+GPS,PNXSEC5L/4,LA-45.580991892408,LN170.110485915249,EL8.977272,--TB
+--GS,PNXSEC5L/4,N 4905495.3880,E 1381887.5968,EL7.9689,--TB
+--GT,PNXSEC5L/4,SW1971,ST172011010,EW1971,ET172015011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905495.3778  Max: 4905495.3969
+--Eas Min: 1381887.5947  Max: 1381887.5995
+--Elv Min: 7.9640  Max: 7.9728
+--Nor Avg: 4905495.3880  SD: 0.0068
+--Eas Avg: 1381887.5968  SD: 0.0018
+--Elv Avg: 7.9689  SD: 0.0032
+--HRMS Avg: 0.0127 SD: 0.0003 Min: 0.0125 Max: 0.0132
+--VRMS Avg: 0.0209 SD: 0.0002 Min: 0.0207 Max: 0.0212
+--HDOP Avg: 0.7790  Min: 0.7790 Max: 0.7791
+--VDOP Avg: 1.1794 Min: 1.1791 Max: 1.1802
+--PDOP Avg: 1.4135 Min: 1.4133 Max: 1.4141
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+16.286,Right 0.00,0+16.286,Left 0.50,0.00,7.97,7.97,,TB,XSEC5L/4,
+--CTSD1:4905495.39,1381887.60,0.40,0.29,,,,,,
+--HSIG:0.012, VSIG:0.021, STATUS:FIXED, SATS:14, PDOP:1.414, HDOP:0.779, VDOP:1.180
+--DT10-17-2017
+--TM12:47:34
+GPS,PNXSEC5L/5,LA-45.580962308995,LN170.110456201568,EL6.969052,--W
+--GS,PNXSEC5L/5,N 4905504.2918,E 1381880.8796,EL5.9606,--W
+--GT,PNXSEC5L/5,SW1971,ST172066010,EW1971,ET172070010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905504.2864  Max: 4905504.2943
+--Eas Min: 1381880.8738  Max: 1381880.8846
+--Elv Min: 5.9399  Max: 5.9729
+--Nor Avg: 4905504.2918  SD: 0.0032
+--Eas Avg: 1381880.8796  SD: 0.0038
+--Elv Avg: 5.9606  SD: 0.0124
+--HRMS Avg: 0.0133 SD: 0.0003 Min: 0.0130 Max: 0.0136
+--VRMS Avg: 0.0218 SD: 0.0007 Min: 0.0213 Max: 0.0231
+--HDOP Avg: 0.7640  Min: 0.7215 Max: 0.7782
+--VDOP Avg: 1.1760 Min: 1.1318 Max: 1.1908
+--PDOP Avg: 1.4024 Min: 1.3422 Max: 1.4225
+--Number of Satellites Avg: 14 Min: 14 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+27.438,Right 0.00,0+27.438,Left 0.62,0.00,5.96,5.96,,W,XSEC5L/5,
+--CTSD1:4905504.29,1381880.88,0.50,0.37,,,,,,
+--HSIG:0.013, VSIG:0.022, STATUS:FIXED, SATS:15, PDOP:1.342, HDOP:0.722, VDOP:1.132
+--DT10-17-2017
+--TM12:48:29
+GPS,PNXSEC5L/6,LA-45.575485273965,LN170.113191532190,EL9.697389,--RE
+--GS,PNXSEC5L/6,N 4905980.9135,E 1382453.4498,EL8.6890,--RE
+--GT,PNXSEC5L/6,SW1971,ST172554010,EW1971,ET172558010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905980.9054  Max: 4905980.9260
+--Eas Min: 1382453.4480  Max: 1382453.4538
+--Elv Min: 8.6864  Max: 8.6929
+--Nor Avg: 4905980.9135  SD: 0.0079
+--Eas Avg: 1382453.4498  SD: 0.0023
+--Elv Avg: 8.6890  SD: 0.0024
+--HRMS Avg: 0.0133 SD: 0.0001 Min: 0.0131 Max: 0.0134
+--VRMS Avg: 0.0232 SD: 0.0002 Min: 0.0230 Max: 0.0235
+--HDOP Avg: 0.7694  Min: 0.7694 Max: 0.7694
+--VDOP Avg: 1.2948 Min: 1.2948 Max: 1.2948
+--PDOP Avg: 1.5062 Min: 1.5062 Max: 1.5062
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,-0+00.908,Right 0.00,-0+00.908,Right 0.23,0.00,8.69,8.69,,RE,
+--CTSD1:XSEC5L/6,4905980.91,1382453.45,0.13,0.19,,,,,,
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.506, HDOP:0.769, VDOP:1.295
+--DT10-17-2017
+--TM12:56:34
+GPS,PNXSEC5L/7,LA-45.575481549929,LN170.113186245231,EL9.538414,--TB-F
+--GS,PNXSEC5L/7,N 4905982.0227,E 1382452.2714,EL8.5300,--TB-F
+--GT,PNXSEC5L/7,SW1971,ST172582010,EW1971,ET172592011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905982.0151  Max: 4905982.0372
+--Eas Min: 1382452.2698  Max: 1382452.2736
+--Elv Min: 8.5236  Max: 8.5363
+--Nor Avg: 4905982.0227  SD: 0.0086
+--Eas Avg: 1382452.2714  SD: 0.0015
+--Elv Avg: 8.5300  SD: 0.0049
+--HRMS Avg: 0.0120 SD: 0.0002 Min: 0.0119 Max: 0.0123
+--VRMS Avg: 0.0207 SD: 0.0004 Min: 0.0204 Max: 0.0213
+--HDOP Avg: 0.7688  Min: 0.7688 Max: 0.7690
+--VDOP Avg: 1.3012 Min: 1.2997 Max: 1.3017
+--PDOP Avg: 1.5113 Min: 1.5101 Max: 1.5117
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+00.694,Right 0.00,0+00.694,Right 0.46,0.00,8.53,8.53,,TB-F,
+--CTSD1:XSEC5L/7,4905982.02,1382452.27,0.26,0.37,,,,,,
+--HSIG:0.012, VSIG:0.020, STATUS:FIXED, SATS:14, PDOP:1.512, HDOP:0.769, VDOP:1.302
+--DT10-17-2017
+--TM12:57:10
+GPS,PNXSEC5L/8,LA-45.575474434290,LN170.113168951922,EL8.205245,--BB
+--GS,PNXSEC5L/8,N 4905984.0874,E 1382448.4722,EL7.1968,--BB
+--GT,PNXSEC5L/8,SW1971,ST172682010,EW1971,ET172686010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905984.0806  Max: 4905984.0907
+--Eas Min: 1382448.4647  Max: 1382448.4831
+--Elv Min: 7.1902  Max: 7.2009
+--Nor Avg: 4905984.0874  SD: 0.0041
+--Eas Avg: 1382448.4722  SD: 0.0073
+--Elv Avg: 7.1968  SD: 0.0042
+--HRMS Avg: 0.0132 SD: 0.0001 Min: 0.0130 Max: 0.0134
+--VRMS Avg: 0.0233 SD: 0.0003 Min: 0.0229 Max: 0.0237
+--HDOP Avg: 0.7670  Min: 0.7670 Max: 0.7670
+--VDOP Avg: 1.3200 Min: 1.3196 Max: 1.3204
+--PDOP Avg: 1.5267 Min: 1.5263 Max: 1.5270
+--Number of Satellites Avg: 13 Min: 13 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+04.988,Right 0.00,0+04.988,Left 0.05,0.00,7.20,7.20,,BB,XSEC5L/8,
+--CTSD1:4905984.09,1382448.47,0.03,0.04,,,,,,
+--HSIG:0.013, VSIG:0.023, STATUS:FIXED, SATS:14, PDOP:1.527, HDOP:0.767, VDOP:1.320
+--DT10-17-2017
+--TM12:58:43
+GPS,PNXSEC5L/9,LA-45.575441024036,LN170.113148620796,EL7.043988,--W
+--GS,PNXSEC5L/9,N 4905994.2441,E 1382443.7330,EL6.0356,--W
+--GT,PNXSEC5L/9,SW1971,ST172717010,EW1971,ET172726010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4905994.2365  Max: 4905994.2485
+--Eas Min: 1382443.7133  Max: 1382443.7778
+--Elv Min: 6.0206  Max: 6.0539
+--Nor Avg: 4905994.2441  SD: 0.0046
+--Eas Avg: 1382443.7330  SD: 0.0260
+--Elv Avg: 6.0356  SD: 0.0125
+--HRMS Avg: 0.0141 SD: 0.0006 Min: 0.0136 Max: 0.0150
+--VRMS Avg: 0.0253 SD: 0.0018 Min: 0.0241 Max: 0.0284
+--HDOP Avg: 0.8747  Min: 0.7662 Max: 0.9833
+--VDOP Avg: 1.7560 Min: 1.3280 Max: 2.1840
+--PDOP Avg: 1.9642 Min: 1.5332 Max: 2.3952
+--Number of Satellites Avg: 13 Min: 11 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+14.723,Right 0.00,0+14.723,Right 5.50,0.00,6.04,6.04,,W,XSEC5L/9,
+--CTSD1:4905994.24,1382443.73,3.18,4.49,,,,,,
+--HSIG:0.014, VSIG:0.024, STATUS:FIXED, SATS:14, PDOP:1.533, HDOP:0.766, VDOP:1.328
+--DT10-17-2017
+--TM12:59:25
+GPS,PNXSE7L/1,LA-45.574524173894,LN170.114024620570,EL10.615214,--TB-F
+--GS,PNXSE7L/1,N 4906283.8436,E 1382622.2943,EL9.6068,--TB-F
+--GT,PNXSEC5L/10,SW1971,ST173340010,EW1971,ET173344011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906283.8353  Max: 4906283.8583
+--Eas Min: 1382622.2677  Max: 1382622.3097
+--Elv Min: 9.6036  Max: 9.6143
+--Nor Avg: 4906283.8436  SD: 0.0088
+--Eas Avg: 1382622.2943  SD: 0.0161
+--Elv Avg: 9.6068  SD: 0.0044
+--HRMS Avg: 0.0132 SD: 0.0003 Min: 0.0131 Max: 0.0137
+--VRMS Avg: 0.0238 SD: 0.0001 Min: 0.0237 Max: 0.0241
+--HDOP Avg: 0.7211  Min: 0.7211 Max: 0.7211
+--VDOP Avg: 1.2902 Min: 1.2902 Max: 1.2902
+--PDOP Avg: 1.4780 Min: 1.4780 Max: 1.4780
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,2+28.148,Right 0.00,2+28.148,Left 0.06,0.00,9.61,9.61,,TB-F,XSE7L/1,
+--CTSD1:4906283.84,1382622.29,0.03,0.05,,,,,,
+--HSIG:0.013, VSIG:0.024, STATUS:FIXED, SATS:14, PDOP:1.478, HDOP:0.721, VDOP:1.290
+--DT10-17-2017
+--TM13:09:41
+GPS,PNXSE7L/2,LA-45.574526451864,LN170.114012481308,EL10.777845,--SO
+--GS,PNXSE7L/2,N 4906283.0485,E 1382619.7064,EL9.7694,--SO
+--GT,PNXSE7L/2,SW1971,ST173458010,EW1971,ET173462011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906283.0440  Max: 4906283.0535
+--Eas Min: 1382619.7029  Max: 1382619.7102
+--Elv Min: 9.7588  Max: 9.7828
+--Nor Avg: 4906283.0485  SD: 0.0035
+--Eas Avg: 1382619.7064  SD: 0.0026
+--Elv Avg: 9.7694  SD: 0.0086
+--HRMS Avg: 0.0142 SD: 0.0003 Min: 0.0139 Max: 0.0145
+--VRMS Avg: 0.0255 SD: 0.0002 Min: 0.0253 Max: 0.0256
+--HDOP Avg: 0.7273  Min: 0.7192 Max: 0.7518
+--VDOP Avg: 1.3406 Min: 1.3100 Max: 1.4326
+--PDOP Avg: 1.5253 Min: 1.4944 Max: 1.6179
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,2+26.333,Right 0.00,2+26.333,Right 1.95,0.00,9.77,9.77,,SO,XSE7L/2,
+--CTSD1:4906283.05,1382619.71,1.00,1.67,,,,,,
+--HSIG:0.014, VSIG:0.025, STATUS:FIXED, SATS:15, PDOP:1.494, HDOP:0.719, VDOP:1.310
+--DT10-17-2017
+--TM13:11:41
+GPS,PNXSE7L/3,LA-45.574489961778,LN170.113952486405,EL10.743860,--SO
+--GS,PNXSE7L/3,N 4906293.8551,E 1382606.3972,EL9.7354,--SO
+--GT,PNXSE7L/3,SW1971,ST173491010,EW1971,ET173495010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906293.8436  Max: 4906293.8707
+--Eas Min: 1382606.3923  Max: 1382606.4033
+--Elv Min: 9.7313  Max: 9.7394
+--Nor Avg: 4906293.8551  SD: 0.0108
+--Eas Avg: 1382606.3972  SD: 0.0042
+--Elv Avg: 9.7354  SD: 0.0029
+--HRMS Avg: 0.0149 SD: 0.0005 Min: 0.0144 Max: 0.0157
+--VRMS Avg: 0.0267 SD: 0.0003 Min: 0.0264 Max: 0.0271
+--HDOP Avg: 0.8667  Min: 0.7951 Max: 0.8905
+--VDOP Avg: 1.7277 Min: 1.3991 Max: 1.8373
+--PDOP Avg: 1.9336 Min: 1.6092 Max: 2.0417
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,2+09.367,Right 0.00,2+09.367,Left 0.52,0.00,9.74,9.74,,SO,XSE7L/3,
+--CTSD1:4906293.86,1382606.40,0.27,0.44,,,,,,
+--HSIG:0.014, VSIG:0.026, STATUS:FIXED, SATS:14, PDOP:1.609, HDOP:0.795, VDOP:1.399
+--DT10-17-2017
+--TM13:12:14
+GPS,PNXSE7L/4,LA-45.574452701822,LN170.113888372605,EL10.863779,--SO
+--GS,PNXSE7L/4,N 4906304.8679,E 1382592.1930,EL9.8554,--SO
+--GT,PNXSE7L/4,SW1971,ST173520009,EW1971,ET173524009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906304.8558  Max: 4906304.8740
+--Eas Min: 1382592.1808  Max: 1382592.1989
+--Elv Min: 9.8524  Max: 9.8577
+--Nor Avg: 4906304.8679  SD: 0.0071
+--Eas Avg: 1382592.1930  SD: 0.0073
+--Elv Avg: 9.8554  SD: 0.0024
+--HRMS Avg: 0.0154 SD: 0.0005 Min: 0.0147 Max: 0.0160
+--VRMS Avg: 0.0283 SD: 0.0007 Min: 0.0274 Max: 0.0291
+--HDOP Avg: 0.8901  Min: 0.8901 Max: 0.8901
+--VDOP Avg: 1.8490 Min: 1.8490 Max: 1.8490
+--PDOP Avg: 2.0521 Min: 2.0521 Max: 2.0521
+--Number of Satellites Avg: 12 Min: 12 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+91.527,Right 0.00,1+91.527,Left 2.70,0.00,9.86,9.86,,SO,XSE7L/4,
+--CTSD1:4906304.87,1382592.19,1.38,2.32,,,,,,
+--HSIG:0.015, VSIG:0.028, STATUS:FIXED, SATS:13, PDOP:2.052, HDOP:0.890, VDOP:1.849
+--DT10-17-2017
+--TM13:12:41
+GPS,PNXSE7L/5,LA-45.574415036876,LN170.113822367593,EL10.800806,--SO
+--GS,PNXSE7L/5,N 4906315.9914,E 1382577.5774,EL9.7924,--SO
+--GT,PNXSE7L/5,SW1971,ST173548009,EW1971,ET173552009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906315.9814  Max: 4906316.0013
+--Eas Min: 1382577.5678  Max: 1382577.5862
+--Elv Min: 9.7587  Max: 9.8145
+--Nor Avg: 4906315.9914  SD: 0.0071
+--Eas Avg: 1382577.5774  SD: 0.0065
+--Elv Avg: 9.7924  SD: 0.0206
+--HRMS Avg: 0.0178 SD: 0.0018 Min: 0.0162 Max: 0.0208
+--VRMS Avg: 0.0297 SD: 0.0010 Min: 0.0289 Max: 0.0313
+--HDOP Avg: 1.3697  Min: 1.3233 Max: 1.5087
+--VDOP Avg: 2.0684 Min: 1.7444 Max: 3.0405
+--PDOP Avg: 2.4907 Min: 2.1895 Max: 3.3943
+--Number of Satellites Avg: 11 Min: 11 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+73.277,Right 0.00,1+73.277,Left 4.77,0.00,9.79,9.79,,SO,XSE7L/5,
+--CTSD1:4906315.99,1382577.58,2.44,4.10,,,,,,
+--HSIG:0.017, VSIG:0.029, STATUS:FIXED, SATS:12, PDOP:2.190, HDOP:1.323, VDOP:1.744
+--DT10-17-2017
+--TM13:13:10
+GPS,PNXSE7L/6,LA-45.574395260706,LN170.113745028237,EL10.051744,--FP-TB
+--GS,PNXSE7L/6,N 4906321.5081,E 1382560.7167,EL9.0433,--FP-TB
+--GT,PNXSE7L/6,SW1971,ST173635011,EW1971,ET173639011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906321.5006  Max: 4906321.5212
+--Eas Min: 1382560.7000  Max: 1382560.7306
+--Elv Min: 9.0394  Max: 9.0472
+--Nor Avg: 4906321.5081  SD: 0.0079
+--Eas Avg: 1382560.7167  SD: 0.0109
+--Elv Avg: 9.0433  SD: 0.0029
+--HRMS Avg: 0.0144 SD: 0.0000 Min: 0.0143 Max: 0.0144
+--VRMS Avg: 0.0268 SD: 0.0000 Min: 0.0268 Max: 0.0269
+--HDOP Avg: 0.7484  Min: 0.7484 Max: 0.7484
+--VDOP Avg: 1.4446 Min: 1.4446 Max: 1.4446
+--PDOP Avg: 1.6270 Min: 1.6270 Max: 1.6270
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+55.970,Right 0.00,1+55.970,Left 0.88,0.00,9.04,9.04,,FP-TB,
+--CTSD1:XSE7L/6,4906321.51,1382560.72,0.45,0.75,,,,,,
+--HSIG:0.014, VSIG:0.027, STATUS:FIXED, SATS:14, PDOP:1.627, HDOP:0.748, VDOP:1.445
+--DT10-17-2017
+--TM13:14:36
+GPS,PNXSE7L/7,LA-45.574389754733,LN170.113720491823,EL8.494579,--BB
+--GS,PNXSE7L/7,N 4906323.0212,E 1382555.3759,EL7.4862,--BB
+--GT,PNXSE7L/7,SW1971,ST173684010,EW1971,ET173688010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906323.0181  Max: 4906323.0234
+--Eas Min: 1382555.3704  Max: 1382555.3785
+--Elv Min: 7.4823  Max: 7.4924
+--Nor Avg: 4906323.0212  SD: 0.0020
+--Eas Avg: 1382555.3759  SD: 0.0033
+--Elv Avg: 7.4862  SD: 0.0040
+--HRMS Avg: 0.0153 SD: 0.0005 Min: 0.0145 Max: 0.0158
+--VRMS Avg: 0.0281 SD: 0.0013 Min: 0.0270 Max: 0.0304
+--HDOP Avg: 0.7475  Min: 0.7475 Max: 0.7475
+--VDOP Avg: 1.4469 Min: 1.4469 Max: 1.4469
+--PDOP Avg: 1.6286 Min: 1.6286 Max: 1.6286
+--Number of Satellites Avg: 14 Min: 14 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+50.608,Right 0.00,1+50.608,Right 0.56,0.00,7.49,7.49,,BB,XSE7L/7,
+--CTSD1:4906323.02,1382555.38,0.29,0.48,,,,,,
+--HSIG:0.016, VSIG:0.030, STATUS:FIXED, SATS:15, PDOP:1.629, HDOP:0.748, VDOP:1.447
+--DT10-17-2017
+--TM13:15:26
+GPS,PNXSE7L/8,LA-45.574352419651,LN170.113647020134,EL8.149915,--BB
+--GS,PNXSE7L/8,N 4906333.9862,E 1382539.1567,EL7.1415,--BB
+--GT,PNXSE7L/8,SW1971,ST173727010,EW1971,ET173731010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906333.9794  Max: 4906333.9938
+--Eas Min: 1382539.1492  Max: 1382539.1624
+--Elv Min: 7.1345  Max: 7.1481
+--Nor Avg: 4906333.9862  SD: 0.0055
+--Eas Avg: 1382539.1567  SD: 0.0050
+--Elv Avg: 7.1415  SD: 0.0053
+--HRMS Avg: 0.0145 SD: 0.0000 Min: 0.0145 Max: 0.0145
+--VRMS Avg: 0.0271 SD: 0.0000 Min: 0.0271 Max: 0.0272
+--HDOP Avg: 0.8032  Min: 0.7467 Max: 0.8596
+--VDOP Avg: 1.5822 Min: 1.4484 Max: 1.7160
+--PDOP Avg: 1.7744 Min: 1.6296 Max: 1.9193
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+31.061,Right 0.00,1+31.061,Left 0.55,0.00,7.14,7.14,,BB,XSE7L/8,
+--CTSD1:4906333.99,1382539.16,0.28,0.48,,,,,,
+--HSIG:0.015, VSIG:0.027, STATUS:FIXED, SATS:14, PDOP:1.630, HDOP:0.747, VDOP:1.448
+--DT10-17-2017
+--TM13:16:08
+GPS,PNXSE7L/9,LA-45.574342161720,LN170.113618435915,EL7.047425,--W
+--GS,PNXSE7L/9,N 4906336.9351,E 1382532.8930,EL6.0390,--W
+--GT,PNXSE7L/9,SW1971,ST173776010,EW1971,ET173780010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906336.9276  Max: 4906336.9444
+--Eas Min: 1382532.8776  Max: 1382532.9099
+--Elv Min: 6.0319  Max: 6.0520
+--Nor Avg: 4906336.9351  SD: 0.0068
+--Eas Avg: 1382532.8930  SD: 0.0146
+--Elv Avg: 6.0390  SD: 0.0078
+--HRMS Avg: 0.0146 SD: 0.0003 Min: 0.0145 Max: 0.0151
+--VRMS Avg: 0.0273 SD: 0.0001 Min: 0.0272 Max: 0.0275
+--HDOP Avg: 0.7459  Min: 0.7458 Max: 0.7459
+--VDOP Avg: 1.4496 Min: 1.4496 Max: 1.4497
+--PDOP Avg: 1.6303 Min: 1.6303 Max: 1.6303
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+24.171,Right 0.00,1+24.171,Right 0.12,0.00,6.04,6.04,,W,XSE7L/9,
+--CTSD1:4906336.94,1382532.89,0.06,0.10,,,,,,
+--HSIG:0.014, VSIG:0.027, STATUS:FIXED, SATS:14, PDOP:1.630, HDOP:0.746, VDOP:1.450
+--DT10-17-2017
+--TM13:16:58
+GPS,PNXSE7L/10,LA-45.574407099299,LN170.113767606558,EL8.839951,--SO
+--GS,PNXSE7L/10,N 4906318.0257,E 1382565.7050,EL7.8315,--SO
+--GT,PNXSE7L/10,SW1971,ST173876010,EW1971,ET173880010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906317.9914  Max: 4906318.0507
+--Eas Min: 1382565.6819  Max: 1382565.7200
+--Elv Min: 7.8137  Max: 7.8484
+--Nor Avg: 4906318.0257  SD: 0.0215
+--Eas Avg: 1382565.7050  SD: 0.0149
+--Elv Avg: 7.8315  SD: 0.0123
+--HRMS Avg: 0.0241 SD: 0.0008 Min: 0.0232 Max: 0.0254
+--VRMS Avg: 0.0480 SD: 0.0012 Min: 0.0464 Max: 0.0497
+--HDOP Avg: 0.8574  Min: 0.8574 Max: 0.8575
+--VDOP Avg: 1.7631 Min: 1.7626 Max: 1.7644
+--PDOP Avg: 1.9605 Min: 1.9601 Max: 1.9617
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+62.038,Right 0.00,1+62.038,Left 0.44,0.00,7.83,7.83,,SO,XSE7L/10,
+--CTSD1:4906318.03,1382565.70,0.23,0.38,,,,,,
+--HSIG:0.023, VSIG:0.046, STATUS:FIXED, SATS:13, PDOP:1.962, HDOP:0.857, VDOP:1.764
+--DT10-17-2017
+--TM13:18:38
+GPS,PNXSE7L/11,LA-45.574445128562,LN170.113831450844,EL8.579949,--SO
+--GS,PNXSE7L/11,N 4906306.7735,E 1382579.8595,EL7.5715,--SO
+--GT,PNXSE7L/11,SW1971,ST173903009,EW1971,ET173907010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906306.7629  Max: 4906306.7793
+--Eas Min: 1382579.8551  Max: 1382579.8650
+--Elv Min: 7.5628  Max: 7.5797
+--Nor Avg: 4906306.7735  SD: 0.0066
+--Eas Avg: 1382579.8595  SD: 0.0039
+--Elv Avg: 7.5715  SD: 0.0061
+--HRMS Avg: 0.0252 SD: 0.0012 Min: 0.0238 Max: 0.0266
+--VRMS Avg: 0.0486 SD: 0.0010 Min: 0.0473 Max: 0.0498
+--HDOP Avg: 1.0461  Min: 0.9691 Max: 1.2771
+--VDOP Avg: 1.8759 Min: 1.7985 Max: 2.1080
+--PDOP Avg: 2.1484 Min: 2.0430 Max: 2.4647
+--Number of Satellites Avg: 12 Min: 11 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+79.958,Right 0.00,1+79.958,Right 1.98,0.00,7.57,7.57,,SO,XSE7L/11,
+--CTSD1:4906306.77,1382579.86,1.01,1.70,,,,,,
+--HSIG:0.024, VSIG:0.047, STATUS:FIXED, SATS:13, PDOP:2.043, HDOP:0.969, VDOP:1.799
+--DT10-17-2017
+--TM13:19:06
+GPS,PNXSE7L/12,LA-45.574484441662,LN170.113896975939,EL8.322229,--SO
+--GS,PNXSE7L/12,N 4906295.1377,E 1382594.3898,EL7.3138,--SO
+--GT,PNXSE7L/12,SW1971,ST173940010,EW1971,ET173944010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906295.1350  Max: 4906295.1398
+--Eas Min: 1382594.3867  Max: 1382594.3949
+--Elv Min: 7.3101  Max: 7.3220
+--Nor Avg: 4906295.1377  SD: 0.0017
+--Eas Avg: 1382594.3898  SD: 0.0034
+--Elv Avg: 7.3138  SD: 0.0048
+--HRMS Avg: 0.0221 SD: 0.0007 Min: 0.0212 Max: 0.0230
+--VRMS Avg: 0.0424 SD: 0.0005 Min: 0.0418 Max: 0.0430
+--HDOP Avg: 0.8563  Min: 0.8563 Max: 0.8563
+--VDOP Avg: 1.7815 Min: 1.7815 Max: 1.7815
+--PDOP Avg: 1.9766 Min: 1.9766 Max: 1.9766
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+98.397,Right 0.00,1+98.397,Right 4.53,0.00,7.31,7.31,,SO,XSE7L/12,
+--CTSD1:4906295.14,1382594.39,2.32,3.89,,,,,,
+--HSIG:0.022, VSIG:0.042, STATUS:FIXED, SATS:13, PDOP:1.977, HDOP:0.856, VDOP:1.782
+--DT10-17-2017
+--TM13:19:41
+GPS,PNXSE7L/13,LA-45.574534617497,LN170.113980737683,EL8.159818,--BB-F
+--GS,PNXSE7L/13,N 4906280.2878,E 1382612.9631,EL7.1514,--BB-F
+--GT,PNXSE7L/13,SW1971,ST173989010,EW1971,ET173993010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906280.2852  Max: 4906280.2902
+--Eas Min: 1382612.9614  Max: 1382612.9676
+--Elv Min: 7.1496  Max: 7.1523
+--Nor Avg: 4906280.2878  SD: 0.0018
+--Eas Avg: 1382612.9631  SD: 0.0026
+--Elv Avg: 7.1514  SD: 0.0011
+--HRMS Avg: 0.0188 SD: 0.0002 Min: 0.0186 Max: 0.0192
+--VRMS Avg: 0.0369 SD: 0.0002 Min: 0.0366 Max: 0.0371
+--HDOP Avg: 0.7878  Min: 0.7878 Max: 0.7878
+--VDOP Avg: 1.5643 Min: 1.5643 Max: 1.5643
+--PDOP Avg: 1.7515 Min: 1.7515 Max: 1.7515
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,2+21.954,Right 0.00,2+21.954,Right 7.77,0.00,7.15,7.15,,BB-F,
+--CTSD1:XSE7L/13,4906280.29,1382612.96,3.98,6.68,,,,,,
+--HSIG:0.019, VSIG:0.037, STATUS:FIXED, SATS:14, PDOP:1.751, HDOP:0.788, VDOP:1.564
+--DT10-17-2017
+--TM13:20:31
+GPS,PNXSE8L/1,LA-45.573421211055,LN170.114992283574,EL9.445339,--CUL
+--GS,PNXSE8L/1,N 4906631.5690,E 1382818.5812,EL8.4369,--CUL
+--GT,PNXSE7L/14,SW1971,ST174527010,EW1971,ET174531010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906631.5559  Max: 4906631.5809
+--Eas Min: 1382818.5729  Max: 1382818.5916
+--Elv Min: 8.4277  Max: 8.4512
+--Nor Avg: 4906631.5690  SD: 0.0089
+--Eas Avg: 1382818.5812  SD: 0.0067
+--Elv Avg: 8.4369  SD: 0.0089
+--HRMS Avg: 0.0192 SD: 0.0011 Min: 0.0173 Max: 0.0203
+--VRMS Avg: 0.0366 SD: 0.0006 Min: 0.0356 Max: 0.0371
+--HDOP Avg: 0.7809  Min: 0.7809 Max: 0.7809
+--VDOP Avg: 1.7228 Min: 1.7228 Max: 1.7228
+--PDOP Avg: 1.8915 Min: 1.8915 Max: 1.8915
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,-0+07.500,Right 0.00,-0+07.500,Right 2.71,0.00,8.44,8.44,,CUL,
+--CTSD1:XSE8L/1,4906631.57,1382818.58,1.39,2.33,,,,,,
+--HSIG:0.017, VSIG:0.036, STATUS:FIXED, SATS:14, PDOP:1.892, HDOP:0.781, VDOP:1.723
+--DT10-17-2017
+--TM13:29:29
+GPS,PNXSE8L/2,LA-45.573425122791,LN170.114980380646,EL10.212419,--RE
+--GS,PNXSE8L/2,N 4906630.2716,E 1382816.0617,EL9.2040,--RE
+--GT,PNXSE8L/2,SW1971,ST174565010,EW1971,ET174569009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906630.2619  Max: 4906630.2812
+--Eas Min: 1382816.0578  Max: 1382816.0726
+--Elv Min: 9.2001  Max: 9.2069
+--Nor Avg: 4906630.2716  SD: 0.0077
+--Eas Avg: 1382816.0617  SD: 0.0063
+--Elv Avg: 9.2040  SD: 0.0025
+--HRMS Avg: 0.0172 SD: 0.0004 Min: 0.0167 Max: 0.0178
+--VRMS Avg: 0.0346 SD: 0.0002 Min: 0.0343 Max: 0.0349
+--HDOP Avg: 0.7804  Min: 0.7804 Max: 0.7804
+--VDOP Avg: 1.7319 Min: 1.7319 Max: 1.7319
+--PDOP Avg: 1.8996 Min: 1.8996 Max: 1.8996
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,-0+06.000,Right 0.00,-0+06.000,Right 0.30,0.00,9.20,9.20,,RE,
+--CTSD1:XSE8L/2,4906630.27,1382816.06,0.16,0.26,,,,,,
+--HSIG:0.017, VSIG:0.035, STATUS:FIXED, SATS:14, PDOP:1.900, HDOP:0.780, VDOP:1.732
+--DT10-17-2017
+--TM13:30:06
+GPS,PNXSE8L/3,LA-45.573417092743,LN170.114956221402,EL10.334948,--RE
+--GS,PNXSE8L/3,N 4906632.5668,E 1382810.7745,EL9.3265,--RE
+--GT,PNXSE8L/3,SW1971,ST174591009,EW1971,ET174602009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906632.5330  Max: 4906632.6057
+--Eas Min: 1382810.7559  Max: 1382810.7910
+--Elv Min: 9.3202  Max: 9.3313
+--Nor Avg: 4906632.5668  SD: 0.0286
+--Eas Avg: 1382810.7745  SD: 0.0141
+--Elv Avg: 9.3265  SD: 0.0042
+--HRMS Avg: 0.0165 SD: 0.0004 Min: 0.0160 Max: 0.0171
+--VRMS Avg: 0.0332 SD: 0.0002 Min: 0.0329 Max: 0.0335
+--HDOP Avg: 0.7800  Min: 0.7800 Max: 0.7800
+--VDOP Avg: 1.7379 Min: 1.7379 Max: 1.7379
+--PDOP Avg: 1.9049 Min: 1.9049 Max: 1.9049
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,-0+00.284,Right 0.00,-0+00.284,Left 0.43,0.00,9.33,9.33,,RE,XSE8L/3,
+--CTSD1:4906632.57,1382810.77,0.22,0.37,,,,,,
+--HSIG:0.016, VSIG:0.033, STATUS:FIXED, SATS:14, PDOP:1.905, HDOP:0.780, VDOP:1.738
+--DT10-17-2017
+--TM13:30:40
+GPS,PNXSE8L/4,LA-45.573415123228,LN170.114948962394,EL10.243784,--TB-F
+--GS,PNXSE8L/4,N 4906633.1196,E 1382809.1907,EL9.2354,--TB-F
+--GT,PNXSE8L/4,SW1971,ST174622010,EW1971,ET174626010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906633.1145  Max: 4906633.1218
+--Eas Min: 1382809.1822  Max: 1382809.1983
+--Elv Min: 9.2298  Max: 9.2423
+--Nor Avg: 4906633.1196  SD: 0.0030
+--Eas Avg: 1382809.1907  SD: 0.0065
+--Elv Avg: 9.2354  SD: 0.0047
+--HRMS Avg: 0.0156 SD: 0.0003 Min: 0.0154 Max: 0.0160
+--VRMS Avg: 0.0318 SD: 0.0001 Min: 0.0316 Max: 0.0320
+--HDOP Avg: 0.7795  Min: 0.7795 Max: 0.7795
+--VDOP Avg: 1.7446 Min: 1.7441 Max: 1.7451
+--PDOP Avg: 1.9108 Min: 1.9103 Max: 1.9113
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+01.360,Right 0.00,0+01.360,Left 0.77,0.00,9.24,9.24,,TB-F,XSE8L/4,
+--CTSD1:4906633.12,1382809.19,0.39,0.66,,,,,,
+--HSIG:0.015, VSIG:0.032, STATUS:FIXED, SATS:14, PDOP:1.911, HDOP:0.779, VDOP:1.745
+--DT10-17-2017
+--TM13:31:04
+GPS,PNXSE8L/5,LA-45.573406406929,LN170.114948027864,EL9.056458,--DR
+--GS,PNXSE8L/5,N 4906635.8025,E 1382808.8949,EL8.0480,--DR
+--GT,PNXSE8L/5,SW1971,ST174669009,EW1971,ET174673009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906635.7971  Max: 4906635.8106
+--Eas Min: 1382808.8908  Max: 1382808.8989
+--Elv Min: 8.0383  Max: 8.0537
+--Nor Avg: 4906635.8025  SD: 0.0050
+--Eas Avg: 1382808.8949  SD: 0.0035
+--Elv Avg: 8.0480  SD: 0.0059
+--HRMS Avg: 0.0155 SD: 0.0005 Min: 0.0151 Max: 0.0163
+--VRMS Avg: 0.0313 SD: 0.0002 Min: 0.0310 Max: 0.0317
+--HDOP Avg: 0.7788  Min: 0.7788 Max: 0.7788
+--VDOP Avg: 1.7540 Min: 1.7540 Max: 1.7540
+--PDOP Avg: 1.9191 Min: 1.9191 Max: 1.9191
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+02.988,Right 0.00,0+02.988,Right 1.38,0.00,8.05,8.05,,DR,XSE8L/5,
+--CTSD1:4906635.80,1382808.89,0.71,1.19,,,,,,
+--HSIG:0.016, VSIG:0.031, STATUS:FIXED, SATS:14, PDOP:1.919, HDOP:0.779, VDOP:1.754
+--DT10-17-2017
+--TM13:31:50
+GPS,PNXSE8L/6,LA-45.573399912909,LN170.114920287888,EL9.007578,--SO
+--GS,PNXSE8L/6,N 4906637.5966,E 1382802.8536,EL7.9992,--SO
+--GT,PNXSE8L/6,SW1971,ST174710010,EW1971,ET174714010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906637.5800  Max: 4906637.6091
+--Eas Min: 1382802.8457  Max: 1382802.8690
+--Elv Min: 7.9906  Max: 8.0046
+--Nor Avg: 4906637.5966  SD: 0.0114
+--Eas Avg: 1382802.8536  SD: 0.0092
+--Elv Avg: 7.9992  SD: 0.0058
+--HRMS Avg: 0.0149 SD: 0.0000 Min: 0.0148 Max: 0.0149
+--VRMS Avg: 0.0305 SD: 0.0000 Min: 0.0304 Max: 0.0306
+--HDOP Avg: 0.8263  Min: 0.8263 Max: 0.8263
+--VDOP Avg: 1.7649 Min: 1.7649 Max: 1.7649
+--PDOP Avg: 1.9488 Min: 1.9488 Max: 1.9488
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+09.096,Right 0.00,0+09.096,Left 0.17,0.00,8.00,8.00,,SO,XSE8L/6,
+--CTSD1:4906637.60,1382802.85,0.09,0.14,,,,,,
+--HSIG:0.015, VSIG:0.030, STATUS:FIXED, SATS:14, PDOP:1.949, HDOP:0.826, VDOP:1.765
+--DT10-17-2017
+--TM13:32:31
+GPS,PNXSE8L/7,LA-45.573417885199,LN170.114857434633,EL7.176086,--W
+--GS,PNXSE8L/7,N 4906631.5739,E 1382789.5204,EL6.1677,--W
+--GT,PNXSE8L/7,SW1971,ST175100009,EW1971,ET175104009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906631.5667  Max: 4906631.5795
+--Eas Min: 1382789.5148  Max: 1382789.5294
+--Elv Min: 6.1618  Max: 6.1768
+--Nor Avg: 4906631.5739  SD: 0.0052
+--Eas Avg: 1382789.5204  SD: 0.0056
+--Elv Avg: 6.1677  SD: 0.0056
+--HRMS Avg: 0.0199 SD: 0.0011 Min: 0.0188 Max: 0.0216
+--VRMS Avg: 0.0407 SD: 0.0023 Min: 0.0387 Max: 0.0445
+--HDOP Avg: 0.9103  Min: 0.9103 Max: 0.9103
+--VDOP Avg: 1.9222 Min: 1.9222 Max: 1.9222
+--PDOP Avg: 2.1269 Min: 2.1269 Max: 2.1269
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+17.464,Right 0.00,0+17.464,Left 12.17,0.00,6.17,6.17,,W,XSE8L/7,
+--CTSD1:4906631.57,1382789.52,6.23,10.45,,,,,,
+--HSIG:0.019, VSIG:0.039, STATUS:FIXED, SATS:14, PDOP:2.127, HDOP:0.910, VDOP:1.922
+--DT10-17-2017
+--TM13:39:12
+GPS,PNXSE9L/1,LA-45.572477015428,LN170.115586531831,EL9.883889,--RE
+--GS,PNXSE9L/1,N 4906927.4628,E 1382936.2374,EL8.8755,--RE
+--GT,PNXSE8L/8,SW1971,ST175534009,EW1971,ET175538009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906927.4551  Max: 4906927.4675
+--Eas Min: 1382936.2280  Max: 1382936.2428
+--Elv Min: 8.8550  Max: 8.8893
+--Nor Avg: 4906927.4628  SD: 0.0051
+--Eas Avg: 1382936.2374  SD: 0.0059
+--Elv Avg: 8.8755  SD: 0.0129
+--HRMS Avg: 0.0150 SD: 0.0004 Min: 0.0147 Max: 0.0157
+--VRMS Avg: 0.0303 SD: 0.0002 Min: 0.0301 Max: 0.0306
+--HDOP Avg: 0.7816  Min: 0.7816 Max: 0.7816
+--VDOP Avg: 1.8800 Min: 1.8800 Max: 1.8800
+--PDOP Avg: 2.0360 Min: 2.0360 Max: 2.0360
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,-0+00.288,Right 0.00,-0+00.288,Right 0.04,0.00,8.88,8.88,,RE,
+--CTSD1:XSE9L/1,4906927.46,1382936.24,0.00,0.04,,,,,,
+--HSIG:0.015, VSIG:0.030, STATUS:FIXED, SATS:13, PDOP:2.036, HDOP:0.782, VDOP:1.880
+--DT10-17-2017
+--TM13:46:14
+GPS,PNXSE9L/2,LA-45.572467634376,LN170.115553976654,EL9.601524,--RE
+--GS,PNXSE9L/2,N 4906930.1115,E 1382929.1282,EL8.5931,--RE
+--GT,PNXSE9L/2,SW1971,ST175552008,EW1971,ET175556008
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4906930.0952  Max: 4906930.1200
+--Eas Min: 1382929.1247  Max: 1382929.1317
+--Elv Min: 8.5240  Max: 8.7092
+--Nor Avg: 4906930.1115  SD: 0.0098
+--Eas Avg: 1382929.1282  SD: 0.0025
+--Elv Avg: 8.5931  SD: 0.0696
+--HRMS Avg: 0.0195 SD: 0.0008 Min: 0.0185 Max: 0.0207
+--VRMS Avg: 0.0356 SD: 0.0007 Min: 0.0346 Max: 0.0364
+--HDOP Avg: 1.4595  Min: 1.3051 Max: 1.6139
+--VDOP Avg: 2.7366 Min: 2.3376 Max: 3.1356
+--PDOP Avg: 3.1019 Min: 2.6772 Max: 3.5265
+--Number of Satellites Avg: 8 Min: 8 Max: 8
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+06.668,Right 0.00,0+06.668,Right 3.07,0.00,8.59,8.59,,RE,XSE9L/2,
+--CTSD1:4906930.11,1382929.13,0.17,3.06,,,,,,
+--HSIG:0.021, VSIG:0.036, STATUS:FIXED, SATS:8, PDOP:2.677, HDOP:1.305, VDOP:2.338
+--DT10-17-2017
+--TM13:46:38
+GPS,PNXSE10L/1,LA-45.571764944814,LN170.115210293611,EL12.921054,--AB
+--GS,PNXSE10L/1,N 4907144.3702,E 1382847.5210,EL11.9126,--AB
+--GT,PNXSE9L/3,SW1971,ST177565011,EW1971,ET177569011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907144.3637  Max: 4907144.3751
+--Eas Min: 1382847.5126  Max: 1382847.5377
+--Elv Min: 11.9083  Max: 11.9176
+--Nor Avg: 4907144.3702  SD: 0.0048
+--Eas Avg: 1382847.5210  SD: 0.0098
+--Elv Avg: 11.9126  SD: 0.0034
+--HRMS Avg: 0.0109 SD: 0.0006 Min: 0.0100 Max: 0.0117
+--VRMS Avg: 0.0159 SD: 0.0003 Min: 0.0154 Max: 0.0163
+--HDOP Avg: 0.6839  Min: 0.6839 Max: 0.6839
+--VDOP Avg: 1.2472 Min: 1.2472 Max: 1.2472
+--PDOP Avg: 1.4224 Min: 1.4224 Max: 1.4224
+--Number of Satellites Avg: 15 Min: 15 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+00.000,Right 0.00,0+00.169,Right 0.04,0.00,11.91,11.91,,AB,
+--CTSD1:XSE10L/1,4907144.37,1382847.52,0.17,0.03,,,,,,
+--HSIG:0.010, VSIG:0.015, STATUS:FIXED, SATS:16, PDOP:1.422, HDOP:0.684, VDOP:1.247
+--DT10-17-2017
+--TM14:20:05
+GPS,PNXSE10L/2,LA-45.571779202112,LN170.115160004913,EL9.476157,--BB
+--GS,PNXSE10L/2,N 4907139.5894,E 1382836.8509,EL8.4677,--BB
+--GT,PNXSE10L/2,SW1971,ST177627010,EW1971,ET177631010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907139.5830  Max: 4907139.6003
+--Eas Min: 1382836.8445  Max: 1382836.8590
+--Elv Min: 8.4629  Max: 8.4724
+--Nor Avg: 4907139.5894  SD: 0.0065
+--Eas Avg: 1382836.8509  SD: 0.0053
+--Elv Avg: 8.4677  SD: 0.0036
+--HRMS Avg: 0.0227 SD: 0.0009 Min: 0.0215 Max: 0.0239
+--VRMS Avg: 0.0335 SD: 0.0004 Min: 0.0329 Max: 0.0340
+--HDOP Avg: 1.2461  Min: 1.2461 Max: 1.2461
+--VDOP Avg: 2.3499 Min: 2.3499 Max: 2.3499
+--PDOP Avg: 2.6599 Min: 2.6599 Max: 2.6599
+--Number of Satellites Avg: 12 Min: 12 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+11.847,Right 0.00,0+11.847,Left 0.53,0.00,8.47,8.47,,BB,XSE10L/2,
+--CTSD1:4907139.59,1382836.85,0.19,0.50,,,,,,
+--HSIG:0.024, VSIG:0.034, STATUS:FIXED, SATS:12, PDOP:2.660, HDOP:1.246, VDOP:2.350
+--DT10-17-2017
+--TM14:21:09
+GPS,PNXSE10L/3,LA-45.571799479514,LN170.115081658950,EL7.895670,--BB
+--GS,PNXSE10L/3,N 4907132.7380,E 1382820.2067,EL6.8873,--BB
+--GT,PNXSE10L/3,SW1971,ST177669009,EW1971,ET177674009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907132.7318  Max: 4907132.7463
+--Eas Min: 1382820.1884  Max: 1382820.2212
+--Elv Min: 6.8842  Max: 6.8927
+--Nor Avg: 4907132.7380  SD: 0.0052
+--Eas Avg: 1382820.2067  SD: 0.0119
+--Elv Avg: 6.8873  SD: 0.0033
+--HRMS Avg: 0.0217 SD: 0.0014 Min: 0.0199 Max: 0.0235
+--VRMS Avg: 0.0324 SD: 0.0006 Min: 0.0316 Max: 0.0332
+--HDOP Avg: 1.8450  Min: 1.8450 Max: 1.8450
+--VDOP Avg: 2.8057 Min: 2.8057 Max: 2.8057
+--PDOP Avg: 3.3579 Min: 3.3579 Max: 3.3579
+--Number of Satellites Avg: 9 Min: 9 Max: 9
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+29.843,Right 0.00,0+29.843,Left 0.86,0.00,6.89,6.89,,BB,XSE10L/3,
+--CTSD1:4907132.74,1382820.21,0.31,0.80,,,,,,
+--HSIG:0.023, VSIG:0.033, STATUS:FIXED, SATS:9, PDOP:3.358, HDOP:1.845, VDOP:2.806
+--DT10-17-2017
+--TM14:21:52
+GPS,PNXSE10L/4,LA-45.571817500325,LN170.114996686775,EL7.654670,--BB
+--GS,PNXSE10L/4,N 4907126.5329,E 1382802.1116,EL6.6463,--BB
+--GT,PNXSE10L/4,SW1971,ST177714004,EW1971,ET177724009
+--2 Valid Readings out of 4 Readings
+--2 Fixed Readings out of 4
+--Nor Min: 4907126.5317  Max: 4907126.5342
+--Eas Min: 1382802.1013  Max: 1382802.1219
+--Elv Min: 6.6388  Max: 6.6538
+--Nor Avg: 4907126.5329  SD: 0.0013
+--Eas Avg: 1382802.1116  SD: 0.0103
+--Elv Avg: 6.6463  SD: 0.0075
+--HRMS Avg: 0.0293 SD: 0.0002 Min: 0.0291 Max: 0.0296
+--VRMS Avg: 0.0462 SD: 0.0001 Min: 0.0461 Max: 0.0463
+--HDOP Avg: 2.3752  Min: 2.3752 Max: 2.3752
+--VDOP Avg: 0.0055 Min: 0.0055 Max: 0.0055
+--PDOP Avg: 2.3752 Min: 2.3752 Max: 2.3752
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+48.956,Right 0.00,0+48.956,Left 0.05,0.00,6.65,6.65,,BB,XSE10L/4,
+--CTSD1:4907126.53,1382802.11,0.02,0.05,,,,,,
+--HSIG:0.030, VSIG:0.046, STATUS:FIXED, SATS:11, PDOP:2.751, HDOP:1.492, VDOP:2.312
+--DT10-17-2017
+--TM14:22:45
+GPS,PNXSE10L/5,LA-45.571834752539,LN170.114917213746,EL7.695742,--BB
+--GS,PNXSE10L/5,N 4907120.6066,E 1382785.1920,EL6.6873,--BB
+--GT,PNXSE10L/5,SW1971,ST177753010,EW1971,ET177757010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907120.5865  Max: 4907120.6276
+--Eas Min: 1382785.1824  Max: 1382785.2015
+--Elv Min: 6.6755  Max: 6.6974
+--Nor Avg: 4907120.6066  SD: 0.0160
+--Eas Avg: 1382785.1920  SD: 0.0085
+--Elv Avg: 6.6873  SD: 0.0081
+--HRMS Avg: 0.0207 SD: 0.0004 Min: 0.0202 Max: 0.0211
+--VRMS Avg: 0.0345 SD: 0.0002 Min: 0.0341 Max: 0.0348
+--HDOP Avg: 1.2611  Min: 1.2156 Max: 1.3975
+--VDOP Avg: 2.2215 Min: 2.2032 Max: 2.2761
+--PDOP Avg: 2.5550 Min: 2.5164 Max: 2.6709
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+66.872,Right 0.00,0+66.872,Right 0.58,0.00,6.69,6.69,,BB,XSE10L/5,
+--CTSD1:4907120.61,1382785.19,0.21,0.54,,,,,,
+--HSIG:0.021, VSIG:0.034, STATUS:FIXED, SATS:13, PDOP:2.516, HDOP:1.216, VDOP:2.203
+--DT10-17-2017
+--TM14:23:14
+GPS,PNXSE10L/6,LA-45.571849307256,LN170.114841113133,EL7.299383,--W
+--GS,PNXSE10L/6,N 4907115.5383,E 1382768.9690,EL6.2910,--W
+--GT,PNXSE10L/6,SW1971,ST177803010,EW1971,ET177807010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907115.5337  Max: 4907115.5419
+--Eas Min: 1382768.9566  Max: 1382768.9805
+--Elv Min: 6.2866  Max: 6.2976
+--Nor Avg: 4907115.5383  SD: 0.0033
+--Eas Avg: 1382768.9690  SD: 0.0111
+--Elv Avg: 6.2910  SD: 0.0043
+--HRMS Avg: 0.0200 SD: 0.0008 Min: 0.0189 Max: 0.0211
+--VRMS Avg: 0.0316 SD: 0.0004 Min: 0.0311 Max: 0.0321
+--HDOP Avg: 1.2211  Min: 1.2207 Max: 1.2212
+--VDOP Avg: 2.2176 Min: 2.2166 Max: 2.2180
+--PDOP Avg: 2.5316 Min: 2.5304 Max: 2.5320
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+83.827,Right 0.00,0+83.827,Right 1.77,0.00,6.29,6.29,,W,XSE10L/6,
+--CTSD1:4907115.54,1382768.97,0.64,1.64,,,,,,
+--HSIG:0.019, VSIG:0.031, STATUS:FIXED, SATS:13, PDOP:2.532, HDOP:1.221, VDOP:2.218
+--DT10-17-2017
+--TM14:24:06
+GPS,PNXSE10L/7,LA-45.571845085510,LN170.114842416899,EL8.153365,--TB
+--GS,PNXSE10L/7,N 4907116.8510,E 1382769.2038,EL7.1450,--TB
+--GT,PNXSE10L/7,SW1971,ST177833010,EW1971,ET177837010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907116.8470  Max: 4907116.8550
+--Eas Min: 1382769.2011  Max: 1382769.2070
+--Elv Min: 7.1401  Max: 7.1517
+--Nor Avg: 4907116.8510  SD: 0.0034
+--Eas Avg: 1382769.2038  SD: 0.0022
+--Elv Avg: 7.1450  SD: 0.0050
+--HRMS Avg: 0.0144 SD: 0.0020 Min: 0.0132 Max: 0.0179
+--VRMS Avg: 0.0225 SD: 0.0007 Min: 0.0220 Max: 0.0237
+--HDOP Avg: 1.0682  Min: 0.9673 Max: 1.3709
+--VDOP Avg: 2.3170 Min: 1.8908 Max: 3.5957
+--PDOP Avg: 2.5549 Min: 2.1238 Max: 3.8482
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+83.131,Right 0.00,0+83.131,Right 2.90,0.00,7.14,7.14,,TB,XSE10L/7,
+--CTSD1:4907116.85,1382769.20,1.06,2.70,,,,,,
+--HSIG:0.013, VSIG:0.022, STATUS:FIXED, SATS:13, PDOP:2.124, HDOP:0.967, VDOP:1.891
+--DT10-17-2017
+--TM14:24:34
+GPS,PNXSE11L/1,LA-45.571402258384,LN170.114081464372,EL9.526088,--BA
+--GS,PNXSE11L/1,N 4907247.7473,E 1382600.5913,EL8.5177,--BA
+--GT,PNXSE10L/8,SW1971,ST179998010,EW1971,ET179998010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907247.7382  Max: 4907247.7551
+--Eas Min: 1382600.5866  Max: 1382600.6009
+--Elv Min: 8.5146  Max: 8.5204
+--Nor Avg: 4907247.7473  SD: 0.0061
+--Eas Avg: 1382600.5913  SD: 0.0057
+--Elv Avg: 8.5177  SD: 0.0025
+--HRMS Avg: 0.0168 SD: 0.0009 Min: 0.0154 Max: 0.0177
+--VRMS Avg: 0.0253 SD: 0.0004 Min: 0.0246 Max: 0.0257
+--HDOP Avg: 0.8207  Min: 0.8207 Max: 0.8207
+--VDOP Avg: 1.3774 Min: 1.3773 Max: 1.3777
+--PDOP Avg: 1.6033 Min: 1.6033 Max: 1.6036
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,-0+07.771,Right 0.00,-0+07.771,Right 1.18,0.00,8.52,8.52,,BA,
+--CTSD1:XSE11L/1,4907247.75,1382600.59,0.82,0.85,,,,,,
+--HSIG:0.015, VSIG:0.025, STATUS:FIXED, SATS:14, PDOP:1.604, HDOP:0.821, VDOP:1.378
+--DT10-17-2017
+--TM15:02:06
+GPS,PNXSE11L/2,LA-45.571426102954,LN170.114044576325,EL8.841837,--TB
+--GS,PNXSE11L/2,N 4907240.1088,E 1382592.9099,EL7.8334,--TB
+--GT,PNXSE11L/2,SW1971,ST179998010,EW1971,ET179998010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907240.0941  Max: 4907240.1216
+--Eas Min: 1382592.9069  Max: 1382592.9125
+--Elv Min: 7.8221  Max: 7.8385
+--Nor Avg: 4907240.1088  SD: 0.0100
+--Eas Avg: 1382592.9099  SD: 0.0022
+--Elv Avg: 7.8334  SD: 0.0066
+--HRMS Avg: 0.0187 SD: 0.0011 Min: 0.0175 Max: 0.0205
+--VRMS Avg: 0.0321 SD: 0.0019 Min: 0.0303 Max: 0.0352
+--HDOP Avg: 0.8929  Min: 0.8929 Max: 0.8929
+--VDOP Avg: 1.5748 Min: 1.5748 Max: 1.5749
+--PDOP Avg: 1.8103 Min: 1.8103 Max: 1.8104
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+03.061,Right 0.00,0+03.061,Right 1.06,0.00,7.83,7.83,,TB,XSE11L/2,
+--CTSD1:4907240.11,1382592.91,0.74,0.76,,,,,,
+--HSIG:0.018, VSIG:0.031, STATUS:FIXED, SATS:13, PDOP:1.810, HDOP:0.893, VDOP:1.575
+--DT10-17-2017
+--TM15:03:02
+GPS,PNXSE11L/3,LA-45.571432311945,LN170.114030583872,EL7.790769,--BB
+--GS,PNXSE11L/3,N 4907238.0865,E 1382589.9654,EL6.7824,--BB
+--GT,PNXSE11L/3,SW1971,ST179998010,EW1971,ET179998010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907238.0758  Max: 4907238.0984
+--Eas Min: 1382589.9255  Max: 1382590.0082
+--Elv Min: 6.7614  Max: 6.8190
+--Nor Avg: 4907238.0865  SD: 0.0087
+--Eas Avg: 1382589.9654  SD: 0.0299
+--Elv Avg: 6.7824  SD: 0.0219
+--HRMS Avg: 0.0200 SD: 0.0014 Min: 0.0177 Max: 0.0214
+--VRMS Avg: 0.0301 SD: 0.0018 Min: 0.0270 Max: 0.0314
+--HDOP Avg: 0.9788  Min: 0.7812 Max: 1.0447
+--VDOP Avg: 1.7412 Min: 1.3194 Max: 1.8818
+--PDOP Avg: 1.9976 Min: 1.5333 Max: 2.1523
+--Number of Satellites Avg: 11 Min: 11 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+06.582,Right 0.00,0+06.582,Right 1.66,0.00,6.78,6.78,,BB,XSE11L/3,
+--CTSD1:4907238.09,1382589.97,1.16,1.19,,,,,,
+--HSIG:0.018, VSIG:0.027, STATUS:FIXED, SATS:13, PDOP:1.533, HDOP:0.781, VDOP:1.319
+--DT10-17-2017
+--TM15:03:31
+GPS,PNXSE11L/4,LA-45.571469085966,LN170.113978385551,EL8.678569,--SO
+--GS,PNXSE11L/4,N 4907226.3417,E 1382579.1290,EL7.6702,--SO
+--GT,PNXSE11L/4,SW1971,ST179998010,EW1971,ET179998010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907226.3322  Max: 4907226.3459
+--Eas Min: 1382579.1233  Max: 1382579.1384
+--Elv Min: 7.6648  Max: 7.6770
+--Nor Avg: 4907226.3417  SD: 0.0056
+--Eas Avg: 1382579.1290  SD: 0.0060
+--Elv Avg: 7.6702  SD: 0.0052
+--HRMS Avg: 0.0266 SD: 0.0005 Min: 0.0258 Max: 0.0273
+--VRMS Avg: 0.0473 SD: 0.0010 Min: 0.0458 Max: 0.0483
+--HDOP Avg: 1.1228  Min: 1.1228 Max: 1.1229
+--VDOP Avg: 1.7130 Min: 1.7129 Max: 1.7131
+--PDOP Avg: 2.0482 Min: 2.0481 Max: 2.0483
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+22.539,Right 0.00,0+22.539,Right 0.80,0.00,7.67,7.67,,SO,XSE11L/4,
+--CTSD1:4907226.34,1382579.13,0.56,0.58,,,,,,
+--HSIG:0.026, VSIG:0.046, STATUS:FIXED, SATS:11, PDOP:2.048, HDOP:1.123, VDOP:1.713
+--DT10-17-2017
+--TM15:04:20
+GPS,PNXSE11L/5,LA-45.571497914334,LN170.113928548499,EL8.328344,--TB
+--GS,PNXSE11L/5,N 4907217.0669,E 1382568.7145,EL7.3199,--TB
+--GT,PNXSE11L/5,SW1971,ST179998010,EW1971,ET179998010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907217.0480  Max: 4907217.0967
+--Eas Min: 1382568.6992  Max: 1382568.7418
+--Elv Min: 7.3147  Max: 7.3241
+--Nor Avg: 4907217.0669  SD: 0.0181
+--Eas Avg: 1382568.7145  SD: 0.0175
+--Elv Avg: 7.3199  SD: 0.0039
+--HRMS Avg: 0.0280 SD: 0.0002 Min: 0.0277 Max: 0.0281
+--VRMS Avg: 0.0443 SD: 0.0001 Min: 0.0442 Max: 0.0444
+--HDOP Avg: 1.1234  Min: 1.1234 Max: 1.1234
+--VDOP Avg: 1.7153 Min: 1.7153 Max: 1.7154
+--PDOP Avg: 2.0504 Min: 2.0504 Max: 2.0505
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+36.471,Right 0.00,0+36.471,Right 1.42,0.00,7.32,7.32,,TB,XSE11L/5,
+--CTSD1:4907217.07,1382568.71,0.99,1.02,,,,,,
+--HSIG:0.028, VSIG:0.044, STATUS:FIXED, SATS:11, PDOP:2.050, HDOP:1.123, VDOP:1.715
+--DT10-17-2017
+--TM15:05:30
+GPS,PNXSE11L/6,LA-45.571505414056,LN170.113914735860,EL7.384838,--W
+--GS,PNXSE11L/6,N 4907214.6476,E 1382565.8228,EL6.3764,--W
+--GT,PNXSE11L/6,SW1971,ST179998010,EW1971,ET179998010
+--3 Valid Readings out of 4 Readings
+--3 Fixed Readings out of 4
+--Nor Min: 4907214.6341  Max: 4907214.6631
+--Eas Min: 1382565.7984  Max: 1382565.8496
+--Elv Min: 6.3667  Max: 6.3899
+--Nor Avg: 4907214.6476  SD: 0.0119
+--Eas Avg: 1382565.8228  SD: 0.0210
+--Elv Avg: 6.3764  SD: 0.0098
+--HRMS Avg: 0.0265 SD: 0.0003 Min: 0.0261 Max: 0.0268
+--VRMS Avg: 0.0444 SD: 0.0002 Min: 0.0441 Max: 0.0446
+--HDOP Avg: 1.1236  Min: 1.1236 Max: 1.1236
+--VDOP Avg: 1.7160 Min: 1.7160 Max: 1.7160
+--PDOP Avg: 2.0511 Min: 2.0511 Max: 2.0511
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+40.231,Right 0.00,0+40.231,Right 1.70,0.00,6.38,6.38,,W,XSE11L/6,
+--CTSD1:4907214.65,1382565.82,1.19,1.22,,,,,,
+--HSIG:0.027, VSIG:0.044, STATUS:FIXED, SATS:11, PDOP:2.051, HDOP:1.124, VDOP:1.716
+--DT10-17-2017
+--TM15:06:02
+GPS,PNXSE11L/7,LA-45.571515177661,LN170.113894597139,EL6.241367,--SNDG
+--GS,PNXSE11L/7,N 4907211.4817,E 1382561.5939,EL5.2330,--SNDG
+--GT,PNXSE11L/7,SW1971,ST180428009,EW1971,ET180432009
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907211.4727  Max: 4907211.4895
+--Eas Min: 1382561.5876  Max: 1382561.6013
+--Elv Min: 5.2269  Max: 5.2377
+--Nor Avg: 4907211.4817  SD: 0.0065
+--Eas Avg: 1382561.5939  SD: 0.0051
+--Elv Avg: 5.2330  SD: 0.0043
+--HRMS Avg: 0.0219 SD: 0.0004 Min: 0.0215 Max: 0.0226
+--VRMS Avg: 0.0305 SD: 0.0006 Min: 0.0300 Max: 0.0315
+--HDOP Avg: 0.8421  Min: 0.8421 Max: 0.8421
+--VDOP Avg: 1.3013 Min: 1.3011 Max: 1.3018
+--PDOP Avg: 1.5500 Min: 1.5498 Max: 1.5504
+--Number of Satellites Avg: 11 Min: 11 Max: 11
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+45.470,Right 0.00,0+45.470,Right 2.38,0.00,5.23,5.23,,SNDG,
+--CTSD1:XSE11L/7,4907211.48,1382561.59,1.66,1.71,,,,,,
+--HSIG:0.023, VSIG:0.032, STATUS:FIXED, SATS:11, PDOP:1.550, HDOP:0.842, VDOP:1.301
+--DT10-17-2017
+--TM15:07:50
+GPS,PNXSE12L/1,LA-45.571363808398,LN170.114144028483,EL11.219264,--TB
+--GS,PNXSE12L/1,N 4907260.0879,E 1382613.6409,EL10.2109,--TB
+--GT,PNXSE11L/8,SW1971,ST180899011,EW1971,ET180903011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907260.0804  Max: 4907260.0980
+--Eas Min: 1382613.6290  Max: 1382613.6539
+--Elv Min: 10.2065  Max: 10.2161
+--Nor Avg: 4907260.0879  SD: 0.0069
+--Eas Avg: 1382613.6409  SD: 0.0094
+--Elv Avg: 10.2109  SD: 0.0035
+--HRMS Avg: 0.0121 SD: 0.0002 Min: 0.0119 Max: 0.0123
+--VRMS Avg: 0.0170 SD: 0.0001 Min: 0.0169 Max: 0.0171
+--HDOP Avg: 0.6752  Min: 0.6752 Max: 0.6752
+--VDOP Avg: 1.0424 Min: 1.0424 Max: 1.0424
+--PDOP Avg: 1.2419 Min: 1.2419 Max: 1.2419
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+00.197,Right 0.00,0+00.197,Right 1.33,0.00,10.21,10.21,,TB,
+--CTSD1:XSE12L/1,4907260.09,1382613.64,0.22,1.31,,,,,,
+--HSIG:0.012, VSIG:0.017, STATUS:FIXED, SATS:16, PDOP:1.242, HDOP:0.675, VDOP:1.042
+--DT10-17-2017
+--TM15:15:43
+--DT10-17-2017
+--TM15:29:20
+--User Defined: NEW ZEALAND/New Zealand Transverse Mercator 2000
+--Equipment: X91E 1918  SN:912235
+--Antenna Type: [X91],RA0.0900m,SHMP0.0410m,L10.0610m,L20.0580m,--L1/L2 Integrated Antenna
+--Localization File: \Program Files\SurvCE\Taieri 2017\Taieri2017-CS8-17-10-17-AEYF.loc
+--Number of Localization Points Used: 1
+--Localization Scale: 1.00000000
+--Geoid Separation File: None
+--Localization Azimuth: State Plane Grid
+--GPS Scale: 1.00000000
+--Scale Point not used
+--RTK Method: RTCM V3.0, Device: Internal UHF
+--Entered HR: 2.0000, Slant
+LS,HR2.0180
+GPS,PNXSEC12L/5,LA-45.571372547785,LN170.114094102158,EL9.329005,--BB
+--GS,PNXSEC12L/5,N 4907257.0122,E 1382602.9887,EL8.3206,--BB
+--GT,PNX_SECT27S,SW1971,ST181705012,EW1971,ET181709012
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--GT,PNX-SEC12L/,SW1971,ST181721012,EW1971,ET181725012
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907257.0100  Max: 4907257.0151
+--Eas Min: 1382602.9861  Max: 1382602.9909
+--Elv Min: 8.3182  Max: 8.3237
+--Nor Avg: 4907257.0122  SD: 0.0019
+--Eas Avg: 1382602.9887  SD: 0.0018
+--Elv Avg: 8.3206  SD: 0.0020
+--HRMS Avg: 0.0108 SD: 0.0005 Min: 0.0104 Max: 0.0115
+--VRMS Avg: 0.0142 SD: 0.0003 Min: 0.0139 Max: 0.0146
+--HDOP Avg: 0.7396  Min: 0.7395 Max: 0.7396
+--VDOP Avg: 1.1410 Min: 1.1408 Max: 1.1410
+--PDOP Avg: 1.3597 Min: 1.3595 Max: 1.3597
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+11.216,Right 0.00,0+11.216,Right 0.10,0.00,8.32,8.32,,BB,
+--CTSD1:XSEC12L/5,4907257.01,1382602.99,0.02,0.10,,,,,,
+--HSIG:0.010, VSIG:0.014, STATUS:FIXED, SATS:16, PDOP:1.360, HDOP:0.740, VDOP:1.141
+--DT10-17-2017
+--TM15:29:27
+GPS,PNXSEC12L/6,LA-45.571376090784,LN170.114043366586,EL9.055356,--BB
+--GS,PNXSEC12L/6,N 4907255.5341,E 1382592.1059,EL8.0469,--BB
+--GT,PNXSEC12L/6,SW1971,ST181775011,EW1971,ET181779011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907255.5253  Max: 4907255.5457
+--Eas Min: 1382592.0984  Max: 1382592.1118
+--Elv Min: 8.0438  Max: 8.0491
+--Nor Avg: 4907255.5341  SD: 0.0075
+--Eas Avg: 1382592.1059  SD: 0.0057
+--Elv Avg: 8.0469  SD: 0.0019
+--HRMS Avg: 0.0147 SD: 0.0006 Min: 0.0138 Max: 0.0155
+--VRMS Avg: 0.0173 SD: 0.0004 Min: 0.0167 Max: 0.0179
+--HDOP Avg: 0.8690  Min: 0.8690 Max: 0.8690
+--VDOP Avg: 1.3107 Min: 1.3107 Max: 1.3107
+--PDOP Avg: 1.5726 Min: 1.5726 Max: 1.5726
+--Number of Satellites Avg: 13 Min: 13 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+22.192,Right 0.00,0+22.192,Right 0.48,0.00,8.05,8.05,,BB,
+--CTSD1:XSEC12L/6,4907255.53,1382592.11,0.08,0.48,,,,,,
+--HSIG:0.016, VSIG:0.018, STATUS:FIXED, SATS:13, PDOP:1.573, HDOP:0.869, VDOP:1.311
+--DT10-17-2017
+--TM15:30:17
+GPS,PNXSEC12L/7,LA-45.571388668515,LN170.113941867437,EL8.465014,--BB
+--GS,PNXSEC12L/7,N 4907250.8829,E 1382570.3939,EL7.4566,--BB
+--GT,PNXSEC12L/7,SW1971,ST181832012,EW1971,ET181836012
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907250.8753  Max: 4907250.8899
+--Eas Min: 1382570.3883  Max: 1382570.4008
+--Elv Min: 7.4535  Max: 7.4607
+--Nor Avg: 4907250.8829  SD: 0.0052
+--Eas Avg: 1382570.3939  SD: 0.0052
+--Elv Avg: 7.4566  SD: 0.0029
+--HRMS Avg: 0.0129 SD: 0.0002 Min: 0.0126 Max: 0.0132
+--VRMS Avg: 0.0173 SD: 0.0002 Min: 0.0170 Max: 0.0175
+--HDOP Avg: 0.6688  Min: 0.6662 Max: 0.6713
+--VDOP Avg: 0.9901 Min: 0.9900 Max: 0.9902
+--PDOP Avg: 1.1948 Min: 1.1935 Max: 1.1962
+--Number of Satellites Avg: 15 Min: 15 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+44.378,Right 0.00,0+44.378,Left 0.43,0.00,7.46,7.46,,BB,XSEC12L/7,
+--CTSD1:4907250.88,1382570.39,0.07,0.43,,,,,,
+--HSIG:0.013, VSIG:0.017, STATUS:FIXED, SATS:16, PDOP:1.193, HDOP:0.666, VDOP:0.990
+--DT10-17-2017
+--TM15:31:13
+GPS,PNXSEC12L/8,LA-45.571390041825,LN170.113871768519,EL7.640253,--SO
+--GS,PNXSEC12L/8,N 4907249.9275,E 1382555.3193,EL6.6318,--SO
+--GT,PNXSEC12L/8,SW1971,ST181890012,EW1971,ET181894013
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907249.9244  Max: 4907249.9338
+--Eas Min: 1382555.3146  Max: 1382555.3235
+--Elv Min: 6.6267  Max: 6.6365
+--Nor Avg: 4907249.9275  SD: 0.0038
+--Eas Avg: 1382555.3193  SD: 0.0037
+--Elv Avg: 6.6318  SD: 0.0037
+--HRMS Avg: 0.0143 SD: 0.0005 Min: 0.0138 Max: 0.0149
+--VRMS Avg: 0.0193 SD: 0.0004 Min: 0.0188 Max: 0.0198
+--HDOP Avg: 0.6339  Min: 0.6339 Max: 0.6339
+--VDOP Avg: 0.9543 Min: 0.9543 Max: 0.9543
+--PDOP Avg: 1.1456 Min: 1.1456 Max: 1.1456
+--Number of Satellites Avg: 17 Min: 17 Max: 17
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+59.397,Right 0.00,0+59.397,Right 1.17,0.00,6.63,6.63,,SO,
+--CTSD1:XSEC12L/8,4907249.93,1382555.32,0.20,1.16,,,,,,
+--HSIG:0.014, VSIG:0.019, STATUS:FIXED, SATS:17, PDOP:1.146, HDOP:0.634, VDOP:0.954
+--DT10-17-2017
+--TM15:32:12
+GPS,PNXSEC12L/9,LA-45.571396043636,LN170.113851737896,EL8.292336,--TB
+--GS,PNXSEC12L/9,N 4907247.9233,E 1382551.0728,EL7.2839,--TB
+--GT,PNXSEC12L/9,SW1971,ST181931013,EW1971,ET181935013
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907247.9058  Max: 4907247.9349
+--Eas Min: 1382551.0620  Max: 1382551.0917
+--Elv Min: 7.2805  Max: 7.2864
+--Nor Avg: 4907247.9233  SD: 0.0115
+--Eas Avg: 1382551.0728  SD: 0.0118
+--Elv Avg: 7.2839  SD: 0.0023
+--HRMS Avg: 0.0120 SD: 0.0003 Min: 0.0117 Max: 0.0125
+--VRMS Avg: 0.0159 SD: 0.0002 Min: 0.0157 Max: 0.0162
+--HDOP Avg: 0.6120  Min: 0.6120 Max: 0.6120
+--VDOP Avg: 0.9353 Min: 0.9352 Max: 0.9353
+--PDOP Avg: 1.1177 Min: 1.1176 Max: 1.1177
+--Number of Satellites Avg: 18 Min: 18 Max: 18
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+63.921,Right 0.00,0+63.921,Left 0.08,0.00,7.28,7.28,,TB,XSEC12L/9,
+--CTSD1:4907247.92,1382551.07,0.01,0.08,,,,,,
+--HSIG:0.013, VSIG:0.016, STATUS:FIXED, SATS:18, PDOP:1.118, HDOP:0.612, VDOP:0.935
+--DT10-17-2017
+--TM15:32:51
+GPS,PNXSEC12L10,LA-45.571398329567,LN170.113819637760,EL7.330190,--W
+--GS,PNXSEC12L10,N 4907246.9744,E 1382544.1878,EL6.3218,--W
+--GT,PNXSEC12L10,SW1971,ST181962012,EW1971,ET181966011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--GT,PNXSEC12L10,SW1971,ST181985010,EW1971,ET181989011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907246.9627  Max: 4907246.9833
+--Eas Min: 1382544.1789  Max: 1382544.1958
+--Elv Min: 6.3204  Max: 6.3232
+--Nor Avg: 4907246.9744  SD: 0.0089
+--Eas Avg: 1382544.1878  SD: 0.0060
+--Elv Avg: 6.3218  SD: 0.0012
+--HRMS Avg: 0.0122 SD: 0.0005 Min: 0.0116 Max: 0.0128
+--VRMS Avg: 0.0158 SD: 0.0003 Min: 0.0155 Max: 0.0162
+--HDOP Avg: 0.6315  Min: 0.6315 Max: 0.6315
+--VDOP Avg: 0.9540 Min: 0.9540 Max: 0.9540
+--PDOP Avg: 1.1441 Min: 1.1441 Max: 1.1441
+--Number of Satellites Avg: 17 Min: 17 Max: 17
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+70.867,Right 0.00,0+70.867,Right 0.15,0.00,6.32,6.32,,W,XSEC12L10,
+--CTSD1:4907246.97,1382544.19,0.02,0.14,,,,,,
+--HSIG:0.013, VSIG:0.016, STATUS:FIXED, SATS:17, PDOP:1.144, HDOP:0.632, VDOP:0.954
+--DT10-17-2017
+--TM15:33:45
+GPS,PNXSEC12L11,LA-45.571405967703,LN170.113730167899,EL6.287082,--SNDG
+--GS,PNXSEC12L11,N 4907243.9386,E 1382525.0115,EL5.2787,--SNDG
+--GT,PNXSEC12L11,SW1971,ST182063011,EW1971,ET182067011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907243.9334  Max: 4907243.9451
+--Eas Min: 1382525.0071  Max: 1382525.0190
+--Elv Min: 5.2742  Max: 5.2838
+--Nor Avg: 4907243.9386  SD: 0.0047
+--Eas Avg: 1382525.0115  SD: 0.0045
+--Elv Avg: 5.2787  SD: 0.0037
+--HRMS Avg: 0.0129 SD: 0.0004 Min: 0.0123 Max: 0.0135
+--VRMS Avg: 0.0164 SD: 0.0003 Min: 0.0161 Max: 0.0168
+--HDOP Avg: 0.6306  Min: 0.6306 Max: 0.6307
+--VDOP Avg: 0.9506 Min: 0.9505 Max: 0.9507
+--PDOP Avg: 1.1407 Min: 1.1407 Max: 1.1409
+--Number of Satellites Avg: 17 Min: 17 Max: 17
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+90.281,Right 0.00,0+90.281,Right 0.39,0.00,5.28,5.28,,SNDG,
+--CTSD1:XSEC12L11,4907243.94,1382525.01,0.07,0.39,,,,,,
+--HSIG:0.014, VSIG:0.017, STATUS:FIXED, SATS:17, PDOP:1.141, HDOP:0.631, VDOP:0.951
+--DT10-17-2017
+--TM15:35:06
+GPS,PNXSEC13R/1,LA-45.570732095801,LN170.115000279396,EL7.945075,--SO
+--GS,PNXSEC13R/1,N 4907461.5330,E 1382791.0976,EL6.9367,--SO
+--GT,PNXSEC12L12,SW1971,ST182499012,EW1971,ET182503012
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907461.5065  Max: 4907461.5785
+--Eas Min: 1382791.0806  Max: 1382791.1293
+--Elv Min: 6.9345  Max: 6.9391
+--Nor Avg: 4907461.5330  SD: 0.0291
+--Eas Avg: 1382791.0976  SD: 0.0192
+--Elv Avg: 6.9367  SD: 0.0017
+--HRMS Avg: 0.0128 SD: 0.0002 Min: 0.0126 Max: 0.0132
+--VRMS Avg: 0.0169 SD: 0.0002 Min: 0.0167 Max: 0.0172
+--HDOP Avg: 0.6831  Min: 0.6831 Max: 0.6831
+--VDOP Avg: 1.0476 Min: 1.0476 Max: 1.0476
+--PDOP Avg: 1.2506 Min: 1.2506 Max: 1.2506
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+01.353,Right 0.00,0+01.353,Right 0.48,0.00,6.94,6.94,,SO,
+--CTSD1:XSEC13R/1,4907461.53,1382791.10,0.33,0.34,,,,,,
+--HSIG:0.013, VSIG:0.017, STATUS:FIXED, SATS:16, PDOP:1.251, HDOP:0.683, VDOP:1.048
+--DT10-17-2017
+--TM15:42:24
+GPS,PNXSEC13R/2,LA-45.570693840260,LN170.114943565130,EL8.180187,--SO
+--GS,PNXSEC13R/2,N 4907472.9097,E 1382778.4734,EL7.1718,--SO
+--GT,PNXSEC13R/2,SW1971,ST182535011,EW1971,ET182539011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907472.8910  Max: 4907472.9227
+--Eas Min: 1382778.4497  Max: 1382778.4854
+--Elv Min: 7.1697  Max: 7.1734
+--Nor Avg: 4907472.9097  SD: 0.0128
+--Eas Avg: 1382778.4734  SD: 0.0144
+--Elv Avg: 7.1718  SD: 0.0013
+--HRMS Avg: 0.0155 SD: 0.0005 Min: 0.0147 Max: 0.0162
+--VRMS Avg: 0.0190 SD: 0.0004 Min: 0.0185 Max: 0.0195
+--HDOP Avg: 0.7644  Min: 0.7644 Max: 0.7644
+--VDOP Avg: 1.1022 Min: 1.1022 Max: 1.1022
+--PDOP Avg: 1.3413 Min: 1.3413 Max: 1.3413
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+18.337,Right 0.00,0+18.337,Left 0.11,0.00,7.17,7.17,,SO,XSEC13R/2,
+--CTSD1:4907472.91,1382778.47,0.07,0.08,,,,,,
+--HSIG:0.016, VSIG:0.019, STATUS:FIXED, SATS:15, PDOP:1.341, HDOP:0.764, VDOP:1.102
+--DT10-17-2017
+--TM15:42:55
+GPS,PNXSEC13R/3,LA-45.570652035943,LN170.114889045252,EL8.306627,--SO
+--GS,PNXSEC13R/3,N 4907485.3981,E 1382766.2830,EL7.2982,--SO
+--GT,PNXSEC13R/3,SW1971,ST182574011,EW1971,ET182578011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907485.3960  Max: 4907485.4001
+--Eas Min: 1382766.2767  Max: 1382766.2893
+--Elv Min: 7.2919  Max: 7.3012
+--Nor Avg: 4907485.3981  SD: 0.0015
+--Eas Avg: 1382766.2830  SD: 0.0054
+--Elv Avg: 7.2982  SD: 0.0038
+--HRMS Avg: 0.0125 SD: 0.0002 Min: 0.0123 Max: 0.0128
+--VRMS Avg: 0.0165 SD: 0.0001 Min: 0.0164 Max: 0.0167
+--HDOP Avg: 0.6828  Min: 0.6828 Max: 0.6828
+--VDOP Avg: 1.0518 Min: 1.0518 Max: 1.0518
+--PDOP Avg: 1.2540 Min: 1.2540 Max: 1.2540
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+35.782,Right 0.00,0+35.782,Right 0.41,0.00,7.30,7.30,,SO,
+--CTSD1:XSEC13R/3,4907485.40,1382766.28,0.28,0.29,,,,,,
+--HSIG:0.012, VSIG:0.016, STATUS:FIXED, SATS:16, PDOP:1.254, HDOP:0.683, VDOP:1.052
+--DT10-17-2017
+--TM15:43:36
+GPS,PNXSEC13R/4,LA-45.570631636875,LN170.114858976043,EL9.668309,--TB
+--GS,PNXSEC13R/4,N 4907491.4658,E 1382759.5885,EL8.6599,--TB
+--GT,PNXSEC13R/4,SW1971,ST182614012,EW1971,ET182618011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--GT,PNXSEC13R/4,SW1971,ST182633012,EW1971,ET182637012
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907491.4559  Max: 4907491.4784
+--Eas Min: 1382759.5662  Max: 1382759.5996
+--Elv Min: 8.6476  Max: 8.6679
+--Nor Avg: 4907491.4658  SD: 0.0098
+--Eas Avg: 1382759.5885  SD: 0.0133
+--Elv Avg: 8.6599  SD: 0.0081
+--HRMS Avg: 0.0127 SD: 0.0002 Min: 0.0125 Max: 0.0130
+--VRMS Avg: 0.0168 SD: 0.0001 Min: 0.0167 Max: 0.0170
+--HDOP Avg: 0.7442  Min: 0.6826 Max: 0.9293
+--VDOP Avg: 1.0897 Min: 1.0548 Max: 1.1944
+--PDOP Avg: 1.3206 Min: 1.2564 Max: 1.5133
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+44.812,Right 0.00,0+44.812,Right 0.12,0.00,8.66,8.66,,TB,
+--CTSD1:XSEC13R/4,4907491.47,1382759.59,0.09,0.09,,,,,,
+--HSIG:0.013, VSIG:0.017, STATUS:FIXED, SATS:16, PDOP:1.256, HDOP:0.683, VDOP:1.055
+--DT10-17-2017
+--TM15:44:34
+GPS,PNXSEC13R/5,LA-45.570615935862,LN170.114849979205,EL9.065669,--TB
+--GS,PNXSEC13R/5,N 4907496.2432,E 1382757.4812,EL8.0573,--TB
+--GT,PNXSEC13R/5,SW1971,ST182654010,EW1971,ET182658010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907496.2333  Max: 4907496.2503
+--Eas Min: 1382757.4672  Max: 1382757.4894
+--Elv Min: 8.0490  Max: 8.0756
+--Nor Avg: 4907496.2432  SD: 0.0068
+--Eas Avg: 1382757.4812  SD: 0.0090
+--Elv Avg: 8.0573  SD: 0.0107
+--HRMS Avg: 0.0160 SD: 0.0007 Min: 0.0152 Max: 0.0171
+--VRMS Avg: 0.0210 SD: 0.0005 Min: 0.0205 Max: 0.0218
+--HDOP Avg: 1.4981  Min: 1.4981 Max: 1.4981
+--VDOP Avg: 1.7547 Min: 1.7547 Max: 1.7547
+--PDOP Avg: 2.3072 Min: 2.3072 Max: 2.3072
+--Number of Satellites Avg: 10 Min: 10 Max: 12
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+49.647,Right 0.00,0+49.647,Right 2.10,0.00,8.06,8.06,,TB,
+--CTSD1:XSEC13R/5,4907496.24,1382757.48,1.46,1.51,,,,,,
+--HSIG:0.015, VSIG:0.020, STATUS:FIXED, SATS:12, PDOP:2.307, HDOP:1.498, VDOP:1.755
+--DT10-17-2017
+--TM15:44:56
+GPS,PNXSEC13R/6,LA-45.570606504133,LN170.114848276940,EL7.294056,--W
+--GS,PNXSEC13R/6,N 4907499.1411,E 1382757.0123,EL6.2856,--W
+--GT,PNXSEC13R/6,SW1971,ST182682010,EW1971,ET182686010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907499.1201  Max: 4907499.1551
+--Eas Min: 1382757.0065  Max: 1382757.0168
+--Elv Min: 6.2776  Max: 6.2958
+--Nor Avg: 4907499.1411  SD: 0.0132
+--Eas Avg: 1382757.0123  SD: 0.0037
+--Elv Avg: 6.2856  SD: 0.0070
+--HRMS Avg: 0.0160 SD: 0.0004 Min: 0.0154 Max: 0.0166
+--VRMS Avg: 0.0223 SD: 0.0007 Min: 0.0211 Max: 0.0228
+--HDOP Avg: 0.7644  Min: 0.7643 Max: 0.7644
+--VDOP Avg: 1.1389 Min: 1.1388 Max: 1.1391
+--PDOP Avg: 1.3716 Min: 1.3715 Max: 1.3717
+--Number of Satellites Avg: 12 Min: 12 Max: 13
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+51.997,Right 0.00,0+51.997,Right 3.86,0.00,6.29,6.29,,W,XSEC13R/6,
+--CTSD1:4907499.14,1382757.01,2.68,2.77,,,,,,
+--HSIG:0.016, VSIG:0.023, STATUS:FIXED, SATS:13, PDOP:1.372, HDOP:0.764, VDOP:1.139
+--DT10-17-2017
+--TM15:45:23
+GPS,PNXSEC14R/1,LA-45.565660013852,LN170.120733360833,EL7.739695,--STA0+00.605 R0.41 CUT 6.73
+--GS,PNXSEC14R/1,N 4907805.5108,E 1383152.5511,EL6.7313,--STA0+00.605 R0.41 CUT 6.73
+--GT,PNXSEC13R/7,SW1971,ST183924011,EW1971,ET183928011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907805.4941  Max: 4907805.5223
+--Eas Min: 1383152.5399  Max: 1383152.5623
+--Elv Min: 6.7231  Max: 6.7400
+--Nor Avg: 4907805.5108  SD: 0.0109
+--Eas Avg: 1383152.5511  SD: 0.0087
+--Elv Avg: 6.7313  SD: 0.0069
+--HRMS Avg: 0.0152 SD: 0.0002 Min: 0.0149 Max: 0.0156
+--VRMS Avg: 0.0214 SD: 0.0001 Min: 0.0213 Max: 0.0215
+--HDOP Avg: 0.7833  Min: 0.7833 Max: 0.7833
+--VDOP Avg: 1.2391 Min: 1.2391 Max: 1.2391
+--PDOP Avg: 1.4659 Min: 1.4659 Max: 1.4659
+--Number of Satellites Avg: 14 Min: 14 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+00.605,Right 0.00,0+00.605,Right 0.41,0.00,6.73,6.73,,
+--CTSD1:STA0+00.605 R0.41 CUT 6.73,XSEC14R/1,4907805.51,1383152.55,0.10,0.40,,,
+--CTSD2:,,,
+--HSIG:0.015, VSIG:0.021, STATUS:FIXED, SATS:15, PDOP:1.466, HDOP:0.783, VDOP:1.239
+--DT10-17-2017
+--TM16:06:06
+GPS,PNXSEC14R/2,LA-45.565640237731,LN170.120642092335,EL7.448262,--SO
+--GS,PNXSEC14R/2,N 4907810.9238,E 1383132.6886,EL6.4399,--SO
+--GT,PNXSEC14R/2,SW1971,ST183969011,EW1971,ET183973011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907810.9054  Max: 4907810.9345
+--Eas Min: 1383132.6860  Max: 1383132.6912
+--Elv Min: 6.4370  Max: 6.4423
+--Nor Avg: 4907810.9238  SD: 0.0111
+--Eas Avg: 1383132.6886  SD: 0.0021
+--Elv Avg: 6.4399  SD: 0.0019
+--HRMS Avg: 0.0141 SD: 0.0001 Min: 0.0140 Max: 0.0142
+--VRMS Avg: 0.0192 SD: 0.0001 Min: 0.0191 Max: 0.0193
+--HDOP Avg: 0.6843  Min: 0.6843 Max: 0.6843
+--VDOP Avg: 1.0463 Min: 1.0463 Max: 1.0463
+--PDOP Avg: 1.2502 Min: 1.2502 Max: 1.2502
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+21.184,Right 0.00,0+21.184,Right 1.00,0.00,6.44,6.44,,SO,
+--CTSD1:XSEC14R/2,4907810.92,1383132.69,0.24,0.97,,,,,,
+--HSIG:0.014, VSIG:0.019, STATUS:FIXED, SATS:16, PDOP:1.250, HDOP:0.684, VDOP:1.046
+--DT10-17-2017
+--TM16:06:50
+GPS,PNXSEC14R/3,LA-45.565618451992,LN170.120529056495,EL7.513196,--SO
+--GS,PNXSEC14R/3,N 4907816.7924,E 1383108.1181,EL6.5048,--SO
+--GT,PNXSEC14R/3,SW1971,ST184002011,EW1971,ET184006011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907816.7885  Max: 4907816.8011
+--Eas Min: 1383108.0995  Max: 1383108.1368
+--Elv Min: 6.5018  Max: 6.5106
+--Nor Avg: 4907816.7924  SD: 0.0051
+--Eas Avg: 1383108.1181  SD: 0.0143
+--Elv Avg: 6.5048  SD: 0.0035
+--HRMS Avg: 0.0146 SD: 0.0014 Min: 0.0134 Max: 0.0169
+--VRMS Avg: 0.0192 SD: 0.0011 Min: 0.0183 Max: 0.0211
+--HDOP Avg: 0.7249  Min: 0.6845 Max: 0.7653
+--VDOP Avg: 1.0923 Min: 1.0440 Max: 1.1405
+--PDOP Avg: 1.3110 Min: 1.2484 Max: 1.3735
+--Number of Satellites Avg: 15 Min: 14 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+46.445,Right 0.00,0+46.445,Right 0.92,0.00,6.50,6.50,,SO,
+--CTSD1:XSEC14R/3,4907816.79,1383108.12,0.22,0.90,,,,,,
+--HSIG:0.013, VSIG:0.018, STATUS:FIXED, SATS:16, PDOP:1.248, HDOP:0.684, VDOP:1.044
+--DT10-17-2017
+--TM16:07:24
+GPS,PNXSEC14R/4,LA-45.565599184259,LN170.120425229889,EL7.500483,--SO
+--GS,PNXSEC14R/4,N 4907821.9534,E 1383085.5575,EL6.4921,--SO
+--GT,PNXSEC14R/4,SW1971,ST184032010,EW1971,ET184036011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907821.9176  Max: 4907821.9714
+--Eas Min: 1383085.5534  Max: 1383085.5614
+--Elv Min: 6.4873  Max: 6.4964
+--Nor Avg: 4907821.9534  SD: 0.0210
+--Eas Avg: 1383085.5575  SD: 0.0033
+--Elv Avg: 6.4921  SD: 0.0034
+--HRMS Avg: 0.0140 SD: 0.0005 Min: 0.0134 Max: 0.0146
+--VRMS Avg: 0.0188 SD: 0.0003 Min: 0.0183 Max: 0.0192
+--HDOP Avg: 0.7744  Min: 0.6846 Max: 0.8641
+--VDOP Avg: 1.1341 Min: 1.0419 Max: 1.2263
+--PDOP Avg: 1.3734 Min: 1.2467 Max: 1.5002
+--Number of Satellites Avg: 15 Min: 15 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+69.587,Right 0.00,0+69.587,Right 0.63,0.00,6.49,6.49,,SO,
+--CTSD1:XSEC14R/4,4907821.95,1383085.56,0.15,0.62,,,,,,
+--HSIG:0.014, VSIG:0.019, STATUS:FIXED, SATS:16, PDOP:1.247, HDOP:0.685, VDOP:1.042
+--DT10-17-2017
+--TM16:07:53
+GPS,PNXSEC14R/5,LA-45.565582791194,LN170.120316788267,EL7.547102,--SO
+--GS,PNXSEC14R/5,N 4907826.1922,E 1383062.0344,EL6.5387,--SO
+--GT,PNXSEC14R/5,SW1971,ST184063011,EW1971,ET184067011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907826.1551  Max: 4907826.2224
+--Eas Min: 1383062.0136  Max: 1383062.0479
+--Elv Min: 6.5314  Max: 6.5428
+--Nor Avg: 4907826.1922  SD: 0.0251
+--Eas Avg: 1383062.0344  SD: 0.0130
+--Elv Avg: 6.5387  SD: 0.0044
+--HRMS Avg: 0.0135 SD: 0.0004 Min: 0.0133 Max: 0.0141
+--VRMS Avg: 0.0184 SD: 0.0003 Min: 0.0182 Max: 0.0188
+--HDOP Avg: 0.7273  Min: 0.7272 Max: 0.7273
+--VDOP Avg: 1.1331 Min: 1.1331 Max: 1.1332
+--PDOP Avg: 1.3464 Min: 1.3464 Max: 1.3464
+--Number of Satellites Avg: 15 Min: 15 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,0+93.447,Right 0.00,0+93.447,Left 0.78,0.00,6.54,6.54,,SO,XSEC14R/5,
+--CTSD1:4907826.19,1383062.03,0.18,0.76,,,,,,
+--HSIG:0.013, VSIG:0.018, STATUS:FIXED, SATS:16, PDOP:1.346, HDOP:0.727, VDOP:1.133
+--DT10-17-2017
+--TM16:08:25
+GPS,PNXSEC14R/6,LA-45.565566045462,LN170.120204855096,EL7.532015,--SO
+--GS,PNXSEC14R/6,N 4907830.5134,E 1383037.7559,EL6.5236,--SO
+--GT,PNXSEC14R/6,SW1971,ST184086010,EW1971,ET184097011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907830.5110  Max: 4907830.5151
+--Eas Min: 1383037.7398  Max: 1383037.7891
+--Elv Min: 6.5151  Max: 6.5285
+--Nor Avg: 4907830.5134  SD: 0.0015
+--Eas Avg: 1383037.7559  SD: 0.0195
+--Elv Avg: 6.5236  SD: 0.0055
+--HRMS Avg: 0.0134 SD: 0.0003 Min: 0.0131 Max: 0.0139
+--VRMS Avg: 0.0183 SD: 0.0002 Min: 0.0182 Max: 0.0186
+--HDOP Avg: 0.7278  Min: 0.7277 Max: 0.7279
+--VDOP Avg: 1.1327 Min: 1.1326 Max: 1.1328
+--PDOP Avg: 1.3464 Min: 1.3464 Max: 1.3464
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+18.061,Right 0.00,1+18.061,Left 2.29,0.00,6.52,6.52,,SO,XSEC14R/6,
+--CTSD1:4907830.51,1383037.76,0.54,2.23,,,,,,
+--HSIG:0.014, VSIG:0.019, STATUS:FIXED, SATS:15, PDOP:1.346, HDOP:0.728, VDOP:1.133
+--DT10-17-2017
+--TM16:08:54
+GPS,PNXSEC14R/7,LA-45.565538626375,LN170.120095833711,EL7.640318,--SO
+--GS,PNXSEC14R/7,N 4907838.1505,E 1383013.9883,EL6.6319,--SO
+--GT,PNXSEC14R/7,SW1971,ST184128011,EW1971,ET184132010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907838.1310  Max: 4907838.1826
+--Eas Min: 1383013.9724  Max: 1383014.0143
+--Elv Min: 6.6305  Max: 6.6349
+--Nor Avg: 4907838.1505  SD: 0.0194
+--Eas Avg: 1383013.9883  SD: 0.0156
+--Elv Avg: 6.6319  SD: 0.0018
+--HRMS Avg: 0.0131 SD: 0.0002 Min: 0.0130 Max: 0.0134
+--VRMS Avg: 0.0181 SD: 0.0001 Min: 0.0180 Max: 0.0183
+--HDOP Avg: 0.7285  Min: 0.7285 Max: 0.7286
+--VDOP Avg: 1.1320 Min: 1.1320 Max: 1.1321
+--PDOP Avg: 1.3462 Min: 1.3462 Max: 1.3462
+--Number of Satellites Avg: 15 Min: 15 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+42.958,Right 0.00,1+42.958,Left 0.46,0.00,6.63,6.63,,SO,XSEC14R/7,
+--CTSD1:4907838.15,1383013.99,0.11,0.44,,,,,,
+--HSIG:0.013, VSIG:0.018, STATUS:FIXED, SATS:16, PDOP:1.346, HDOP:0.729, VDOP:1.132
+--DT10-17-2017
+--TM16:09:30
+GPS,PNXSEC14R/8,LA-45.565521382879,LN170.115997659588,EL7.615986,--TB-D
+--GS,PNXSEC14R/8,N 4907842.7292,E 1382992.6664,EL6.6076,--TB-D
+--GT,PNXSEC14R/8,SW1971,ST184182011,EW1971,ET184186011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907842.7237  Max: 4907842.7343
+--Eas Min: 1382992.6615  Max: 1382992.6771
+--Elv Min: 6.6064  Max: 6.6090
+--Nor Avg: 4907842.7292  SD: 0.0038
+--Eas Avg: 1382992.6664  SD: 0.0063
+--Elv Avg: 6.6076  SD: 0.0010
+--HRMS Avg: 0.0136 SD: 0.0004 Min: 0.0130 Max: 0.0141
+--VRMS Avg: 0.0182 SD: 0.0002 Min: 0.0178 Max: 0.0185
+--HDOP Avg: 0.6853  Min: 0.6853 Max: 0.6853
+--VDOP Avg: 1.0308 Min: 1.0307 Max: 1.0309
+--PDOP Avg: 1.2378 Min: 1.2378 Max: 1.2379
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+64.759,Right 0.00,1+64.759,Left 1.02,0.00,6.61,6.61,,TB-D,
+--CTSD1:XSEC14R/8,4907842.73,1382992.67,0.24,0.99,,,,,,
+--HSIG:0.013, VSIG:0.018, STATUS:FIXED, SATS:16, PDOP:1.238, HDOP:0.685, VDOP:1.031
+--DT10-17-2017
+--TM16:10:24
+GPS,PNXSEC14R/9,LA-45.565524843340,LN170.115990952865,EL7.039278,--CEMTRE DRAIN
+--GS,PNXSEC14R/9,N 4907841.6105,E 1382991.2601,EL6.0309,--CEMTRE DRAIN
+--GT,PNXSEC14R/9,SW1971,ST184235010,EW1971,ET184239011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907841.6055  Max: 4907841.6138
+--Eas Min: 1382991.2531  Max: 1382991.2708
+--Elv Min: 6.0288  Max: 6.0325
+--Nor Avg: 4907841.6105  SD: 0.0031
+--Eas Avg: 1382991.2601  SD: 0.0065
+--Elv Avg: 6.0309  SD: 0.0014
+--HRMS Avg: 0.0126 SD: 0.0004 Min: 0.0124 Max: 0.0132
+--VRMS Avg: 0.0172 SD: 0.0002 Min: 0.0170 Max: 0.0175
+--HDOP Avg: 0.6856  Min: 0.6856 Max: 0.6856
+--VDOP Avg: 1.0264 Min: 1.0264 Max: 1.0264
+--PDOP Avg: 1.2344 Min: 1.2344 Max: 1.2344
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+65.862,Right 0.00,1+65.862,Left 2.44,0.00,6.03,6.03,,CEMTRE DRAIN,
+--CTSD1:XSEC14R/9,4907841.61,1382991.26,0.57,2.37,,,,,,
+--HSIG:0.012, VSIG:0.017, STATUS:FIXED, SATS:16, PDOP:1.234, HDOP:0.686, VDOP:1.026
+--DT10-17-2017
+--TM16:11:17
+GPS,PNXSEC14R10,LA-45.565525752837,LN170.115984829806,EL7.628612,--TB-D
+--GS,PNXSEC14R10,N 4907841.2835,E 1382989.9518,EL6.6202,--TB-D
+--GT,PNXSEC14R10,SW1971,ST184260010,EW1971,ET184264011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907841.2784  Max: 4907841.2887
+--Eas Min: 1382989.9468  Max: 1382989.9580
+--Elv Min: 6.6179  Max: 6.6235
+--Nor Avg: 4907841.2835  SD: 0.0041
+--Eas Avg: 1382989.9518  SD: 0.0042
+--Elv Avg: 6.6202  SD: 0.0020
+--HRMS Avg: 0.0122 SD: 0.0000 Min: 0.0122 Max: 0.0122
+--VRMS Avg: 0.0167 SD: 0.0000 Min: 0.0166 Max: 0.0167
+--HDOP Avg: 0.6857  Min: 0.6857 Max: 0.6857
+--VDOP Avg: 1.0242 Min: 1.0242 Max: 1.0242
+--PDOP Avg: 1.2326 Min: 1.2326 Max: 1.2326
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+67.057,Right 0.00,1+67.057,Left 3.07,0.00,6.62,6.62,,TB-D,
+--CTSD1:XSEC14R10,4907841.28,1382989.95,0.72,2.98,,,,,,
+--HSIG:0.012, VSIG:0.017, STATUS:FIXED, SATS:16, PDOP:1.233, HDOP:0.686, VDOP:1.024
+--DT10-17-2017
+--TM16:11:41
+GPS,PNXSEC14R11,LA-45.565495403508,LN170.115871294010,EL7.936640,--TB-D
+--GS,PNXSEC14R11,N 4907849.7905,E 1382965.1805,EL6.9282,--TB-D
+--GT,PNXSEC14R11,SW1971,ST184306011,EW1971,ET184310011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907849.7723  Max: 4907849.8003
+--Eas Min: 1382965.1582  Max: 1382965.1932
+--Elv Min: 6.9239  Max: 6.9361
+--Nor Avg: 4907849.7905  SD: 0.0113
+--Eas Avg: 1382965.1805  SD: 0.0133
+--Elv Avg: 6.9282  SD: 0.0047
+--HRMS Avg: 0.0120 SD: 0.0000 Min: 0.0120 Max: 0.0120
+--VRMS Avg: 0.0167 SD: 0.0000 Min: 0.0166 Max: 0.0167
+--HDOP Avg: 0.6859  Min: 0.6859 Max: 0.6859
+--VDOP Avg: 1.0200 Min: 1.0198 Max: 1.0201
+--PDOP Avg: 1.2292 Min: 1.2290 Max: 1.2293
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,1+93.134,Right 0.00,1+93.134,Left 0.62,0.00,6.93,6.93,,TB-D,
+--CTSD1:XSEC14R11,4907849.79,1382965.18,0.15,0.61,,,,,,
+--HSIG:0.012, VSIG:0.017, STATUS:FIXED, SATS:16, PDOP:1.229, HDOP:0.686, VDOP:1.020
+--DT10-17-2017
+--TM16:12:27
+GPS,PNXSEC14R12,LA-45.565475154693,LN170.115763627283,EL8.711140,--TB-D
+--GS,PNXSEC14R12,N 4907855.2247,E 1382941.7822,EL7.7027,--TB-D
+--GT,PNXSEC14R12,SW1971,ST184339010,EW1971,ET184343010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907855.2068  Max: 4907855.2402
+--Eas Min: 1382941.7571  Max: 1382941.8049
+--Elv Min: 7.6952  Max: 7.7062
+--Nor Avg: 4907855.2247  SD: 0.0134
+--Eas Avg: 1382941.7822  SD: 0.0180
+--Elv Avg: 7.7027  SD: 0.0044
+--HRMS Avg: 0.0121 SD: 0.0002 Min: 0.0120 Max: 0.0125
+--VRMS Avg: 0.0169 SD: 0.0001 Min: 0.0168 Max: 0.0171
+--HDOP Avg: 0.7328  Min: 0.7328 Max: 0.7328
+--VDOP Avg: 1.1259 Min: 1.1259 Max: 1.1259
+--PDOP Avg: 1.3433 Min: 1.3433 Max: 1.3433
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,2+17.154,Right 0.00,2+17.154,Left 0.85,0.00,7.70,7.70,,TB-D,
+--CTSD1:XSEC14R12,4907855.22,1382941.78,0.20,0.82,,,,,,
+--HSIG:0.012, VSIG:0.017, STATUS:FIXED, SATS:15, PDOP:1.343, HDOP:0.733, VDOP:1.126
+--DT10-17-2017
+--TM16:13:01
+GPS,PNXSEC14R13,LA-45.565448433811,LN170.115625815504,EL10.387611,--CENTRE SILAGE PILE
+--GS,PNXSEC14R13,N 4907862.4280,E 1382911.8240,EL9.3792,--CENTRE SILAGE PILE
+--GT,PNXSEC14R13,SW1971,ST184452011,EW1971,ET184456011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907862.4192  Max: 4907862.4352
+--Eas Min: 1382911.8079  Max: 1382911.8389
+--Elv Min: 9.3749  Max: 9.3842
+--Nor Avg: 4907862.4280  SD: 0.0067
+--Eas Avg: 1382911.8240  SD: 0.0134
+--Elv Avg: 9.3792  SD: 0.0035
+--HRMS Avg: 0.0116 SD: 0.0002 Min: 0.0115 Max: 0.0119
+--VRMS Avg: 0.0160 SD: 0.0001 Min: 0.0159 Max: 0.0162
+--HDOP Avg: 0.7164  Min: 0.7164 Max: 0.7164
+--VDOP Avg: 1.0466 Min: 1.0466 Max: 1.0467
+--PDOP Avg: 1.2683 Min: 1.2683 Max: 1.2684
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,2+47.966,Right 0.00,2+47.966,Left 0.89,0.00,9.38,9.38,,
+--CTSD1:CENTRE SILAGE PILE,XSEC14R13,4907862.43,1382911.82,0.21,0.87,,,,,,
+--HSIG:0.012, VSIG:0.016, STATUS:FIXED, SATS:16, PDOP:1.268, HDOP:0.716, VDOP:1.047
+--DT10-17-2017
+--TM16:14:54
+GPS,PNXSEC14R14,LA-45.565428831281,LN170.115528556816,EL9.865500,--SO
+--GS,PNXSEC14R14,N 4907867.7413,E 1382890.6733,EL8.8571,--SO
+--GT,PNXSEC14R14,SW1971,ST184518011,EW1971,ET184522011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907867.7101  Max: 4907867.7906
+--Eas Min: 1382890.6559  Max: 1382890.7040
+--Elv Min: 8.8487  Max: 8.8654
+--Nor Avg: 4907867.7413  SD: 0.0302
+--Eas Avg: 1382890.6733  SD: 0.0190
+--Elv Avg: 8.8571  SD: 0.0061
+--HRMS Avg: 0.0116 SD: 0.0000 Min: 0.0115 Max: 0.0116
+--VRMS Avg: 0.0161 SD: 0.0000 Min: 0.0161 Max: 0.0161
+--HDOP Avg: 0.7173  Min: 0.7173 Max: 0.7174
+--VDOP Avg: 1.0451 Min: 1.0450 Max: 1.0451
+--PDOP Avg: 1.2676 Min: 1.2675 Max: 1.2676
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,2+69.773,Right 0.00,2+69.773,Left 0.70,0.00,8.86,8.86,,SO,XSEC14R14,
+--CTSD1:4907867.74,1382890.67,0.16,0.68,,,,,,
+--HSIG:0.012, VSIG:0.016, STATUS:FIXED, SATS:16, PDOP:1.268, HDOP:0.717, VDOP:1.045
+--DT10-17-2017
+--TM16:15:59
+GPS,PNXSEC14R15,LA-45.565409533386,LN170.115418342839,EL9.144690,--SO
+--GS,PNXSEC14R15,N 4907872.8625,E 1382866.7368,EL8.1363,--SO
+--GT,PNXSEC14R15,SW1971,ST184550011,EW1971,ET184554012
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907872.8512  Max: 4907872.8694
+--Eas Min: 1382866.7255  Max: 1382866.7503
+--Elv Min: 8.1313  Max: 8.1400
+--Nor Avg: 4907872.8625  SD: 0.0071
+--Eas Avg: 1382866.7368  SD: 0.0088
+--Elv Avg: 8.1363  SD: 0.0035
+--HRMS Avg: 0.0115 SD: 0.0002 Min: 0.0114 Max: 0.0118
+--VRMS Avg: 0.0161 SD: 0.0001 Min: 0.0160 Max: 0.0163
+--HDOP Avg: 0.7360  Min: 0.7360 Max: 0.7360
+--VDOP Avg: 1.0905 Min: 1.0905 Max: 1.0905
+--PDOP Avg: 1.3156 Min: 1.3156 Max: 1.3156
+--Number of Satellites Avg: 15 Min: 15 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,2+94.243,Right 0.00,2+94.243,Left 1.35,0.00,8.14,8.14,,SO,XSEC14R15,
+--CTSD1:4907872.86,1382866.74,0.32,1.32,,,,,,
+--HSIG:0.011, VSIG:0.016, STATUS:FIXED, SATS:16, PDOP:1.316, HDOP:0.736, VDOP:1.090
+--DT10-17-2017
+--TM16:16:31
+GPS,PNXSEC14R16,LA-45.565385930250,LN170.115307729477,EL8.877263,--SO
+--GS,PNXSEC14R16,N 4907879.3092,E 1382842.6676,EL7.8689,--SO
+--GT,PNXSEC14R16,SW1971,ST184582011,EW1971,ET184586012
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907879.2962  Max: 4907879.3253
+--Eas Min: 1382842.6603  Max: 1382842.6712
+--Elv Min: 7.8659  Max: 7.8716
+--Nor Avg: 4907879.3092  SD: 0.0122
+--Eas Avg: 1382842.6676  SD: 0.0044
+--Elv Avg: 7.8689  SD: 0.0022
+--HRMS Avg: 0.0114 SD: 0.0000 Min: 0.0114 Max: 0.0114
+--VRMS Avg: 0.0160 SD: 0.0000 Min: 0.0160 Max: 0.0160
+--HDOP Avg: 0.7182  Min: 0.7181 Max: 0.7182
+--VDOP Avg: 1.0432 Min: 1.0431 Max: 1.0433
+--PDOP Avg: 1.2665 Min: 1.2665 Max: 1.2666
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,3+19.153,Right 0.00,3+19.153,Left 0.75,0.00,7.87,7.87,,SO,XSEC14R16,
+--CTSD1:4907879.31,1382842.67,0.18,0.73,,,,,,
+--HSIG:0.011, VSIG:0.016, STATUS:FIXED, SATS:16, PDOP:1.266, HDOP:0.718, VDOP:1.043
+--DT10-17-2017
+--TM16:17:05
+GPS,PNXSEC14R17,LA-45.565365812503,LN170.115196702592,EL9.496531,--SO
+--GS,PNXSEC14R17,N 4907884.6770,E 1382818.5471,EL8.4881,--SO
+--GT,PNXSEC14R17,SW1971,ST184616011,EW1971,ET184620011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907884.6528  Max: 4907884.7029
+--Eas Min: 1382818.5346  Max: 1382818.5694
+--Elv Min: 8.4842  Max: 8.4945
+--Nor Avg: 4907884.6770  SD: 0.0217
+--Eas Avg: 1382818.5471  SD: 0.0139
+--Elv Avg: 8.4881  SD: 0.0040
+--HRMS Avg: 0.0116 SD: 0.0005 Min: 0.0113 Max: 0.0125
+--VRMS Avg: 0.0160 SD: 0.0003 Min: 0.0159 Max: 0.0165
+--HDOP Avg: 0.7186  Min: 0.7186 Max: 0.7187
+--VDOP Avg: 1.0420 Min: 1.0419 Max: 1.0421
+--PDOP Avg: 1.2658 Min: 1.2657 Max: 1.2658
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,3+43.859,Right 0.00,3+43.859,Left 1.20,0.00,8.49,8.49,,SO,XSEC14R17,
+--CTSD1:4907884.68,1382818.55,0.28,1.17,,,,,,
+--HSIG:0.011, VSIG:0.016, STATUS:FIXED, SATS:16, PDOP:1.266, HDOP:0.719, VDOP:1.042
+--DT10-17-2017
+--TM16:17:37
+GPS,PNXSEC14R18,LA-45.565339098949,LN170.115077226829,EL9.702793,--SO
+--GS,PNXSEC14R18,N 4907892.0164,E 1382792.5361,EL8.6944,--SO
+--GT,PNXSEC14R18,SW1971,ST184652011,EW1971,ET184656011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907891.9732  Max: 4907892.0560
+--Eas Min: 1382792.5069  Max: 1382792.5615
+--Elv Min: 8.6872  Max: 8.7006
+--Nor Avg: 4907892.0164  SD: 0.0299
+--Eas Avg: 1382792.5361  SD: 0.0235
+--Elv Avg: 8.6944  SD: 0.0049
+--HRMS Avg: 0.0113 SD: 0.0002 Min: 0.0112 Max: 0.0117
+--VRMS Avg: 0.0159 SD: 0.0001 Min: 0.0159 Max: 0.0161
+--HDOP Avg: 0.7191  Min: 0.7191 Max: 0.7191
+--VDOP Avg: 1.0407 Min: 1.0406 Max: 1.0408
+--PDOP Avg: 1.2650 Min: 1.2649 Max: 1.2650
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,3+70.867,Right 0.00,3+70.867,Left 0.19,0.00,8.69,8.69,,SO,XSEC14R18,
+--CTSD1:4907892.02,1382792.54,0.04,0.18,,,,,,
+--HSIG:0.011, VSIG:0.016, STATUS:FIXED, SATS:16, PDOP:1.265, HDOP:0.719, VDOP:1.041
+--DT10-17-2017
+--TM16:18:12
+GPS,PNXSEC14R19,LA-45.565315616915,LN170.114975461217,EL9.576182,--SO
+--GS,PNXSEC14R19,N 4907898.4924,E 1382770.3727,EL8.5678,--SO
+--GT,PNXSEC14R19,SW1971,ST184680011,EW1971,ET184684011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907898.4801  Max: 4907898.5040
+--Eas Min: 1382770.3651  Max: 1382770.3776
+--Elv Min: 8.5648  Max: 8.5698
+--Nor Avg: 4907898.4924  SD: 0.0099
+--Eas Avg: 1382770.3727  SD: 0.0046
+--Elv Avg: 8.5678  SD: 0.0020
+--HRMS Avg: 0.0111 SD: 0.0000 Min: 0.0111 Max: 0.0111
+--VRMS Avg: 0.0158 SD: 0.0000 Min: 0.0158 Max: 0.0158
+--HDOP Avg: 0.7194  Min: 0.7194 Max: 0.7194
+--VDOP Avg: 1.0396 Min: 1.0396 Max: 1.0396
+--PDOP Avg: 1.2642 Min: 1.2642 Max: 1.2642
+--Number of Satellites Avg: 16 Min: 16 Max: 16
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,3+93.932,Right 0.00,3+93.932,Right 0.89,0.00,8.57,8.57,,SO,
+--CTSD1:XSEC14R19,4907898.49,1382770.37,0.21,0.87,,,,,,
+--HSIG:0.011, VSIG:0.016, STATUS:FIXED, SATS:16, PDOP:1.264, HDOP:0.719, VDOP:1.040
+--DT10-17-2017
+--TM16:18:42
+GPS,PNXSEC14R20,LA-45.565295431978,LN170.114872645494,EL9.669908,--SO
+--GS,PNXSEC14R20,N 4907903.9429,E 1382748.0191,EL8.6615,--SO
+--GT,PNXSEC14R20,SW1971,ST184713012,EW1971,ET184717012
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907903.9404  Max: 4907903.9445
+--Eas Min: 1382748.0071  Max: 1382748.0305
+--Elv Min: 8.6517  Max: 8.6702
+--Nor Avg: 4907903.9429  SD: 0.0016
+--Eas Avg: 1382748.0191  SD: 0.0089
+--Elv Avg: 8.6615  SD: 0.0081
+--HRMS Avg: 0.0111 SD: 0.0002 Min: 0.0109 Max: 0.0115
+--VRMS Avg: 0.0156 SD: 0.0003 Min: 0.0153 Max: 0.0160
+--HDOP Avg: 0.7321  Min: 0.7198 Max: 0.7690
+--VDOP Avg: 1.0793 Min: 1.0382 Max: 1.2026
+--PDOP Avg: 1.3043 Min: 1.2633 Max: 1.4275
+--Number of Satellites Avg: 16 Min: 16 Max: 17
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,4+16.940,Right 0.00,4+16.940,Right 0.93,0.00,8.66,8.66,,SO,
+--CTSD1:XSEC14R20,4907903.94,1382748.02,0.22,0.91,,,,,,
+--HSIG:0.011, VSIG:0.015, STATUS:FIXED, SATS:17, PDOP:1.263, HDOP:0.720, VDOP:1.038
+--DT10-17-2017
+--TM16:19:14
+GPS,PNXSEC14R21,LA-45.565275608904,LN170.114755147097,EL9.448738,--SO
+--GS,PNXSEC14R21,N 4907909.1705,E 1382722.5084,EL8.4403,--SO
+--GT,PNXSEC14R21,SW1971,ST184816011,EW1971,ET184820011
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907909.1623  Max: 4907909.1788
+--Eas Min: 1382722.4972  Max: 1382722.5227
+--Elv Min: 8.4361  Max: 8.4432
+--Nor Avg: 4907909.1705  SD: 0.0071
+--Eas Avg: 1382722.5084  SD: 0.0094
+--Elv Avg: 8.4403  SD: 0.0027
+--HRMS Avg: 0.0106 SD: 0.0002 Min: 0.0105 Max: 0.0109
+--VRMS Avg: 0.0149 SD: 0.0001 Min: 0.0148 Max: 0.0151
+--HDOP Avg: 0.7012  Min: 0.6418 Max: 0.7209
+--VDOP Avg: 1.0078 Min: 0.9313 Max: 1.0333
+--PDOP Avg: 1.2277 Min: 1.1310 Max: 1.2599
+--Number of Satellites Avg: 17 Min: 17 Max: 17
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,4+42.965,Right 0.00,4+42.965,Right 0.01,0.00,8.44,8.44,,SO,
+--CTSD1:XSEC14R21,4907909.17,1382722.51,0.00,0.01,,,,,,
+--HSIG:0.010, VSIG:0.015, STATUS:FIXED, SATS:17, PDOP:1.131, HDOP:0.642, VDOP:0.931
+--DT10-17-2017
+--TM16:20:59
+GPS,PNXSEC14R22,LA-45.565259598966,LN170.114667498541,EL9.154884,--TB
+--GS,PNXSEC14R22,N 4907913.4472,E 1382703.4653,EL8.1465,--TB
+--GT,PNXSEC14R22,SW1971,ST184856010,EW1971,ET184860010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907913.4394  Max: 4907913.4526
+--Eas Min: 1382703.4447  Max: 1382703.4787
+--Elv Min: 8.1426  Max: 8.1499
+--Nor Avg: 4907913.4472  SD: 0.0049
+--Eas Avg: 1382703.4653  SD: 0.0131
+--Elv Avg: 8.1465  SD: 0.0029
+--HRMS Avg: 0.0107 SD: 0.0000 Min: 0.0107 Max: 0.0107
+--VRMS Avg: 0.0156 SD: 0.0000 Min: 0.0155 Max: 0.0156
+--HDOP Avg: 0.7413  Min: 0.7413 Max: 0.7414
+--VDOP Avg: 1.0785 Min: 1.0783 Max: 1.0786
+--PDOP Avg: 1.3087 Min: 1.3086 Max: 1.3088
+--Number of Satellites Avg: 15 Min: 15 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,4+62.480,Right 0.00,4+62.480,Left 0.31,0.00,8.15,8.15,,TB,XSEC14R22,
+--CTSD1:4907913.45,1382703.47,0.07,0.30,,,,,,
+--HSIG:0.011, VSIG:0.016, STATUS:FIXED, SATS:15, PDOP:1.309, HDOP:0.741, VDOP:1.078
+--DT10-17-2017
+--TM16:21:38
+GPS,PNXSEC14R23,LA-45.565254763409,LN170.114621223101,EL7.371483,--W
+--GS,PNXSEC14R23,N 4907914.5889,E 1382693.4504,EL6.3631,--W
+--GT,PNXSEC14R23,SW1971,ST184896010,EW1971,ET184907010
+--4 Valid Readings out of 4 Readings
+--4 Fixed Readings out of 4
+--Nor Min: 4907914.5763  Max: 4907914.6071
+--Eas Min: 1382693.4394  Max: 1382693.4632
+--Elv Min: 6.3525  Max: 6.3731
+--Nor Avg: 4907914.5889  SD: 0.0115
+--Eas Avg: 1382693.4504  SD: 0.0089
+--Elv Avg: 6.3631  SD: 0.0074
+--HRMS Avg: 0.0115 SD: 0.0000 Min: 0.0114 Max: 0.0115
+--VRMS Avg: 0.0166 SD: 0.0001 Min: 0.0165 Max: 0.0166
+--HDOP Avg: 0.8999  Min: 0.8685 Max: 0.9940
+--VDOP Avg: 1.1834 Min: 1.0748 Max: 1.5092
+--PDOP Avg: 1.4882 Min: 1.3818 Max: 1.8071
+--Number of Satellites Avg: 14 Min: 14 Max: 15
+--CTSS2:
+--CTSD0:Design Pt#,Design Sta,Design Off,Staked Sta,Staked Off,Design Elv,
+--CTSD1:Stake Elv,Cut,Fill,Desc,Stake Pt#,Stake Nor,Stake Eas,Delta X,Delta Y,
+--CTSD2:Design Off Ref,Design Elv Ref,Cut Ref,Fill Ref,Staked Sta Ref,
+--CTSD3:Staked Off Ref
+--CTSD0:PP,4+72.482,Right 0.00,4+72.482,Left 1.56,0.00,6.36,6.36,,W,XSEC14R23,
+--CTSD1:4907914.59,1382693.45,0.37,1.51,,,,,,
+--HSIG:0.012, VSIG:0.017, STATUS:FIXED, SATS:14, PDOP:1.382, HDOP:0.868, VDOP:1.075
+--DT10-17-2017
+--TM16:22:24
+GPS,PN5,LA-45.593558562408,LN170.091059609676,EL7.592795,--LT11-OBS
+--GS,PN5,N 4902764.1430,E 1379523.2107,EL6.5844,--LT11-OBS
+--GT,PNXSEC14R24,SW1971,ST186346009,EW1971,ET186374009
+--28 Valid Readings out of 28 Readings
+--28 Fixed Readings out of 28
+--Nor Min: 4902764.1314  Max: 4902764.1535
+--Eas Min: 1379523.2021  Max: 1379523.2210
+--Elv Min: 6.5762  Max: 6.5974
+--Nor Avg: 4902764.1430  SD: 0.0054
+--Eas Avg: 1379523.2107  SD: 0.0047
+--Elv Avg: 6.5844  SD: 0.0055
+--HRMS Avg: 0.0091 SD: 0.0002 Min: 0.0090 Max: 0.0096
+--VRMS Avg: 0.0142 SD: 0.0001 Min: 0.0141 Max: 0.0145
+--HDOP Avg: 0.7694  Min: 0.7693 Max: 0.7695
+--VDOP Avg: 1.1925 Min: 1.1919 Max: 1.1933
+--PDOP Avg: 1.4192 Min: 1.4187 Max: 1.4198
+--Number of Satellites Avg: 14 Min: 14 Max: 14
+--DT10-17-2017
+--TM16:46:50

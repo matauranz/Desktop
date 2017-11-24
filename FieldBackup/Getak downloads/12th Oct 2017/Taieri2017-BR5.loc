@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="us-ascii" ?>
+<carlson_xml version="1.0">
+<table>
+<record id="Localization Points" >
+<record id="Point 1" >
+<value name="Lat" value="-46.0703965109750"></value>
+<value name="Lon" value="170.1975014070806"></value>
+<value name="Ellipsoid_Elv" value="8.826876"></value>
+<value name="Geoid_Separation" value="0."></value>
+<value name="Local_X" value="1383274.486"></value>
+<value name="Local_Y" value="4894311.862000001"></value>
+<value name="Local_Z" value="2.8917"></value>
+<value name="HRMS" value="0."></value>
+<value name="VRMS" value="0."></value>
+<value name="Use_Horizontal" value="Yes"></value>
+<value name="Use_Vertical" value="Yes"></value>
+<value name="Description" value="2"></value>
+</record>
+<value name="Units" value="WGS84, Decimal Degrees, Metric"></value>
+</record>
+</table>
+</carlson_xml>
